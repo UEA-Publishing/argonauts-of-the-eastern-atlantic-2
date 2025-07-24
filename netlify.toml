@@ -1,44 +1,30 @@
-# netlify.toml
-# The prefix is the path to your package.json file in your theme
-# Change the path of your theme if it is not quire/themes/default.
-
-# This section is the production configuration and is all you need to deploy
-
 [build]
-# Base is the path to your themes package.json file.
-base = "themes/default"
-command = "npm run build:netlify"
+publish = "site"
+command = "npm run build"
 
 [context.production.environment]
-HUGO_VERSION = "0.55.5"
+HUGO_VERSION = "0.72.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
-# These next configurations are optional
+[context.split1]
+command = "npm run build"
 
-# This section is the pull request configuration
+[context.split1.environment]
+HUGO_VERSION = "0.72.0"
+HUGO_ENV = "production"
+
 [context.deploy-preview]
-# Base is the path to your themes package.json file.
-base = "themes/default"
-command = "npm run build:netlify"
+command = "npm run build"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.55.5"
+HUGO_VERSION = "0.72.0"
 
-# This section is the branch configuration
 [context.branch-deploy]
-# Base is the path to your themes package.json file.
-base = "themes/default"
-command = "npm run build:netlify"
+command = "npm run build"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.55.5"
+HUGO_VERSION = "0.72.0"
 
-# This section is the branch configuration but targets a specific branch and also runs a different command
-[context.stage]
-# Base is the path to your themes package.json file.
-base = "themes/default"
-command = "npm run build:stage"
-
-[context.stage.environment]
-HUGO_VERSION = "0.55.5"
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
