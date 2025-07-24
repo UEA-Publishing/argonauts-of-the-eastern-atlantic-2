@@ -2,6 +2,9 @@
 publish = "site"
 command = "npm run build"
 
+[build.environment]
+  PYTHON_VERSION = "2.7"
+
 [context.production.environment]
 HUGO_VERSION = "0.72.0"
 HUGO_ENV = "production"
