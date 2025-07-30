@@ -1,7 +1,7 @@
 ---
 label: 14
 title: "Paramasattee, a wooden idol with spoons attached"
-subtitle: 
+subtitle:
 layout: essay
 order: 43
 classes:
@@ -55,7 +55,7 @@ page_pdf_output: true
 {% figure "fig-c14-21" %}
 
 
-Around Test 300 Christians gathered in the early morning at a temple ‘in a beautiful grove of jack and Palmyra trees, and surrounded by several fine banyans’.[^⁠2] At its heart were two reclining figures, six feet long and made from sun baked brick, plastered with chunam (highly polished plaster).
+Around 300 Christians gathered in the early morning at a temple ‘in a beautiful grove of jack and Palmyra trees, and surrounded by several fine banyans’.[^⁠2] At its heart were two reclining figures, six feet long and made from sun baked brick, plastered with chunam (highly polished plaster).
 
 According to the Rev. Charles Mead, who returned to England soon afterwards, they represented Pattera-Kalee (Bhadrakali) and Veerapathiran (Virabhadra), female and male emanations of the wrath of Shiva, with ‘faces painted to give them a terrific appearance’. Their faces were soon removed with an Indian spade (mamatee). While paid labourers cleared ‘the rubbish’:
 
@@ -113,7 +113,7 @@ An excerpt from Mead’s report summarised his efforts to establish a school hou
 
 Mead explained that some of the owners of the temple had converted to Christianity, and the school house was intended to become a focus for Christian worship during the evenings. He thought that the ‘Pagoda will no longer be used as a place of heathen worship’ but would either be removed or allowed to decay, suggesting that ‘the latter is thought to be the most advisable mode of rooting out idolatry from the place’. Mead explained:
 
-The heathen hold the pagoda in great veneration, and if any thing was done that looked too much like a triumph over them, it might be resented and occasion opposition.[^⁠27]
+_The heathen hold the pagoda in great veneration, and if any thing was done that looked too much like a triumph over them, it might be resented and occasion opposition._[^⁠27]
 
 A much bolder approach seems to have been adopted at what seems to have been the same temple a mere four years later, according to Mead’s account of destruction from the _Missionary Magazine and Chronicle_ of 1837. The overall strategy of converting the temple into a location for Christian worship, however, seems to have remained the same.
 
