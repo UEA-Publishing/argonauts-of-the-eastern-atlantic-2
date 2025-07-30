@@ -1475,10 +1475,10 @@ figure_list:
     credit: "https://books.google.co.uk/books?id=H4ZJAAAAMAAJ&newbks=1&newbks_redir=0&dq=British%20India%20in%20its%20relation%20to%20the%20decline%20of%20Hinduism%2C%20and%20the%20progress%20of%20Christianity&pg=PP8#v=onepage&q&f=false"
     alt: "A serene landscape depicting a lush scene with palm trees, a river, and distant architecture, with figures engaged in tranquil activities."
 
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "fig-c12-1"
+    src: figures/part-2/12/c12-1.jpg
+    caption: Ki’iki’i or Ancestral Pole, sent to London by John Williams in the whaling ship, Sir Andrew Hammond (Captain Hammer)British Museum Oc1978,Q.845.a-c
+    credit: © The Trustees of the British Museum. Oc1978,Q.845.a-c
 
   - id: "fig-1"
     label: "Figure 1"
