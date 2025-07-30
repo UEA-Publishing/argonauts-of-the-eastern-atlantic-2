@@ -220,11 +220,11 @@ The circular acknowledges that ‘most of the higher castes are still averse to 
 
 Following their visit to Nagercoil in 1827,  George Bennet and Daniel Tyerman noted:
 
-We are most highly gratified with the state of the general aspect of this Mission… There is nothing, as far as we have seen, equal to it in all India, and we were strongly reminded of what we had so often witnessed in the South Seas.[^⁠62]
+> We are most highly gratified with the state of the general aspect of this Mission… There is nothing, as far as we have seen, equal to it in all India, and we were strongly reminded of what we had so often witnessed in the South Seas.[^⁠62]
 
 They also noted:
 
-The girls’ school, under the care of Mrs. Mault (of whom we cannot speak too highly), is in an excellent state, and does her exertions much credit. Twelve of these girls learn to make lace, some of which is exceedingly well done…[^⁠63]
+> The girls’ school, under the care of Mrs. Mault (of whom we cannot speak too highly), is in an excellent state, and does her exertions much credit. Twelve of these girls learn to make lace, some of which is exceedingly well done…[^⁠63]
 
 Although Tyerman and Bennet were thwarted when they attempted to acquire an ‘idol’ at the temple in Nagercoil, they do seem to have been presented with a sample of locally made lace by Martha Mault. It survived, pinned to a note written by George Bennet describing its source, at the headquarters of the Council for World Mission in London, where I encountered it in August 2010.[^⁠64]
 
@@ -236,8 +236,8 @@ Annette Weiner, who undertook doctoral fieldwork in the Trobriand Islands, six d
 
 Introducting her 1992 theoretical book, _Inalienable Possessions_, Weiner suggested that:
 
-In many societies throughout the world, however, women are the producers and, in part or wholly, the controllers of highly valued possessions – a currency of sorts made from “cloth”. Intricate symbolic meanings semantically encode sexuality, biological reproduction, and nurturance so that such possessions, as they are exchanged between people, act as the material agents in the reproduction of social relations….  
-Historically, women’s control over these arenas has accorded them powers associated with magical potency, sacred prerogatives, political legitimacy, and life-giving and life-taking social controls.[^⁠66]
+> In many societies throughout the world, however, women are the producers and, in part or wholly, the controllers of highly valued possessions – a currency of sorts made from “cloth”. Intricate symbolic meanings semantically encode sexuality, biological reproduction, and nurturance so that such possessions, as they are exchanged between people, act as the material agents in the reproduction of social relations….  
+> Historically, women’s control over these arenas has accorded them powers associated with magical potency, sacred prerogatives, political legitimacy, and life-giving and life-taking social controls.[^⁠66]
 
 Lace making in England, like the production of banana leaf fibres in the Trobriands, can be regarded as involving the production of ‘a currency of sorts made from “cloth”’. In the East of England, where Martha Mault came from, lace-making was linked to the history of Protestantism, having arrived with French and Flemish refugees from continental wars of religion during the sixteenth and seventeenth centuries.
 
@@ -245,13 +245,13 @@ Lace formed an important and valuable part of middle-class female dress, with in
 
 Alongside a description of mechanised lace-making in Nottingham, Derby and Leicester, Friedrich Engels observed in 1844 that hand-made lace continued to be commercially produced in Northampton, Oxford and Bedford, where lace ‘schools’, effectively small-scale workshops, exploited the children of the poor. Summarising, he suggested:
 
-This is the price at which society purchases for the fine ladies of the bourgeoisie the pleasure of wearing lace; a reasonable price truly! Only a few thousand blind working men, some consumptive labourers’ daughters, a sickly generation of the vile multitude bequeathing its debility to its equally “vile” children and children’s children.[^⁠69]
+> This is the price at which society purchases for the fine ladies of the bourgeoisie the pleasure of wearing lace; a reasonable price truly! Only a few thousand blind working men, some consumptive labourers’ daughters, a sickly generation of the vile multitude bequeathing its debility to its equally “vile” children and children’s children.[^⁠69]
 
 Did the introduction of lace-making in South Travancore simply mark the expansion of similar forms of exploitation to an Indian context? A century later, Mahatma Gandhi deployed the production of Khadi cloth by hand as a symbol of dignity in labour as part of the _swadeshi_ movement. Is it implausible to suggest that lace-making as form of economic self-empowerment within the female-directed educational setting of ‘Mrs Mault’s school’ at Nagercoil, suggests something similar may have been at play in missionary contexts?
 
 At the end of her book _Inalienable Possessions_, Annette Weiner argued that:
 
-Understanding the scope and limits of gender-based power in the ethnographic record demands giving serious attention to the essential domains in which women participate in economic and political actions in their own right with their own resources. Since the ethnographic examples from which traditional economic theories are formulated rely almost exclusively on examples of men’s production and men’s exchanges, the reproductive energies in such things as women’s bones, sacred cloth, hair strings, banana-leaf bundles, weaving poles, and birthing houses, are largely unrecognised or, when recorded, are reduced by anthropologists to prosaic categories lacking economic or political provenience.[^⁠70]
+> Understanding the scope and limits of gender-based power in the ethnographic record demands giving serious attention to the essential domains in which women participate in economic and political actions in their own right with their own resources. Since the ethnographic examples from which traditional economic theories are formulated rely almost exclusively on examples of men’s production and men’s exchanges, the reproductive energies in such things as women’s bones, sacred cloth, hair strings, banana-leaf bundles, weaving poles, and birthing houses, are largely unrecognised or, when recorded, are reduced by anthropologists to prosaic categories lacking economic or political provenience.[^⁠70]
 
 In moving from the destruction of temple sculptures to the production of lace, I have attempted to demonstrate some of the ways in which these seemingly distinct practices remained intimately connected. The transformations associated with the widespread adoption of Christianity by marginalised castes in South Travancore pitted the temple, a focus for existing ideas and practices surrounding fertility, where many dedications were evidently made by women, against the school, where at least some women gained new forms of economic power, clothing their bodies in new ways to challenge entrenched forms of hierarchy.
 
@@ -259,7 +259,7 @@ With a focus on the Pacific, Annette Weiner noted ‘many examples of gender com
 
 The paired temple figures of Bhadrakali and Virabhadra, their hard bodies clothed by soft woven fabric, suggests that similar notions of gender complementarity formed part of South Indian religious conceptions, although the introduction of education for girls, even in a kingdom dominated by the famously matrilineal Nair caste, marked a new departure in gender relations.
 
-Weiner suggested that to read such examples of complementarity as oppositions between male and female ‘is to miss entirely the commingling of symbols and actions that define the political domain for men and women in terms of reproducing relationships and possessions in the face of loss’. Cloth, she suggested, with its ‘acts of tying and unravelling, sacred threads and dangerous dyes, woven warps and unworked woofs’,  ‘may be the most apt metaphor to visualise… expressions of longed for unity juxtaposed against the realities of death, destruction, and change.’[^⁠72]
+Weiner suggested that to read such examples of complementarity as oppositions between male and female ‘is to miss entirely the commingling of symbols and actions that define the political domain for men and women in terms of reproducing relationships and possessions in the face of loss’. Cloth, she suggested, with its ‘acts of tying and unravelling, sacred threads and dangerous dyes, woven warps and unworked woofs’, ‘may be the most apt metaphor to visualise… expressions of longed for unity juxtaposed against the realities of death, destruction, and change.’[^⁠72]
 
 If the early mass conversions at Nagercoil were to be followed by the establishment of a Christian society, able to reproduce itself through subsequent generations, schools seem to have provided the institutional form through which its members could be produced. Martha Mault and Charles Mead arguably represent complementary poles underpinning the establishment of this new dispensation in South Travancore, at least when they represented it to supporters elsewhere in the world.
 
