@@ -1,6 +1,7 @@
 ---
 label: 12
 title: "A Gigantic Idol, twelve feet high"
+
 subtitle: _Avarua, Rarotonga, 6 May 1827_
 layout: essay
 order: 41
