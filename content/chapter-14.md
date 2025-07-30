@@ -8,7 +8,7 @@ classes:
   - page-one
 contributor:
   - id: cwingfield
-abstract: |
+abstract: |Test
 page_pdf_output: true
 ---
 
