@@ -8,7 +8,7 @@ classes:
   - page-one
 contributor:
   - id: cwingfield
-abstract: |Test
+abstract: 
 page_pdf_output: true
 ---
 
@@ -55,7 +55,7 @@ page_pdf_output: true
 {% figure "fig-c14-21" %}
 
 
-Around 300 Christians gathered in the early morning at a temple ‘in a beautiful grove of jack and Palmyra trees, and surrounded by several fine banyans’.[^⁠2] At its heart were two reclining figures, six feet long and made from sun baked brick, plastered with chunam (highly polished plaster).
+Around Test 300 Christians gathered in the early morning at a temple ‘in a beautiful grove of jack and Palmyra trees, and surrounded by several fine banyans’.[^⁠2] At its heart were two reclining figures, six feet long and made from sun baked brick, plastered with chunam (highly polished plaster).
 
 According to the Rev. Charles Mead, who returned to England soon afterwards, they represented Pattera-Kalee (Bhadrakali) and Veerapathiran (Virabhadra), female and male emanations of the wrath of Shiva, with ‘faces painted to give them a terrific appearance’. Their faces were soon removed with an Indian spade (mamatee). While paid labourers cleared ‘the rubbish’:
 
