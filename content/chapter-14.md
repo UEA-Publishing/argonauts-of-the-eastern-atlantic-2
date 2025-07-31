@@ -293,7 +293,7 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 
 [^7]: Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.22.
 
-[^8] Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.30.
+[^8]: Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.30.
 
 [^9]: Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p. 260-264.
 
@@ -307,7 +307,7 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 
 [^14]: Mathew, E. T. (1999). “Growth of Literacy in Kerala: State Intervention, Missionary Initiatives and Social Movements.” Economic and Political Weekly **34**(39): 2811-2820.
 
-[^15] Manoharan, P.B. (2015) Mrs Martha Mault, the Mother of Female education and liberation in South India, 1794 – 1870. Milestones of Kanyakumari: <http://milestonesofkanyakumari.blogspot.com/2015/04/great-english-men-who-visited-and-lived.html>
+[^15]: Manoharan, P.B. (2015) Mrs Martha Mault, the Mother of Female education and liberation in South India, 1794 – 1870. Milestones of Kanyakumari: <http://milestonesofkanyakumari.blogspot.com/2015/04/great-english-men-who-visited-and-lived.html>
 
 [^16]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 441-444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
 
@@ -395,7 +395,7 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 
 [^58]: (1834) Missionary Contributions: Collections by Mrs Mault For the Girls’ School at Nagercoil, _Missionary Chronicle for October 1834,_ p.437: <https://books.google.co.uk/books?id=\_scoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA437#v=onepage&q&f=false>
 
-[^59] (1835) Departure of Missionaries, _Missionary Chronicle for November  1835,_ p.482: <https://books.google.co.uk/books?id=bsgoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA483#v=onepage&q&f=false>
+[^59]: (1835) Departure of Missionaries, _Missionary Chronicle for November  1835,_ p.482: <https://books.google.co.uk/books?id=bsgoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA483#v=onepage&q&f=false>
 
 [^60]: SOAS Special Collections: CWM.LMS.Travancore. Incoming Box 2. 1832-38. Nagercoil, September 7th 1836.
 
