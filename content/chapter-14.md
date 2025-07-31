@@ -281,146 +281,146 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 
 [^1]: Contemporary orthography would render this as Kariavili near Mandaikadu
 
-[^2] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 441-444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
+[^2]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 441-444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
 
-[^3] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, p. 443: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
+[^3]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, p. 443: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
 
-[^4] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, p. 444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
+[^4]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, p. 444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
 
-[^5] 1 Corinthians 10, 14-22: Authorised King James Version. See: <https://www.biblegateway.com/passage/?search=1+Corinthians+10&version=AKJV>
+[^5]: 1 Corinthians 10, 14-22: Authorised King James Version. See: <https://www.biblegateway.com/passage/?search=1+Corinthians+10&version=AKJV>
 
-[^6] An Anglican body, widely known as the SPCK,this was established in 1698.
+[^6]: An Anglican body, widely known as the SPCK,this was established in 1698.
 
-[^7] Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.22.
+[^7]: Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.22.
 
 [^8] Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.30.
 
-[^9] Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p. 260-264.
+[^9]: Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p. 260-264.
 
-[^10] Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p. 265.
+[^10]: Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p. 265.
 
-[^11] In January 1819, Mead married Johanna Horst, daughter of the Rev. Christopher Horst, a colleague and father-in-law of J. C. Kohloff at Tanjore. She gave birth 16 times during their marriage, dying in 1848. In 1852, Mead married Lois Biddulph, daughter of his assistant, the poet Devavaram Biddulph, who was himself the nephew of Maharasan Vedamanickam. Mead was forced to resign from the LMS as a result of marrying a low caste Indian woman. Their daughter married the historian C.M. Agur, who published _The Church History of Travancore_ in 1903_. See:_ Manoharan, P.B. (2015) The Outstanding Mrs. Johanna Horst Mead and Kanyakumari District. Milestones of Kanyakumari: <http://milestonesofkanyakumari.blogspot.com/2015/04/great-english-men-who-visited-and-lived.html>
+[^11]: In January 1819, Mead married Johanna Horst, daughter of the Rev. Christopher Horst, a colleague and father-in-law of J. C. Kohloff at Tanjore. She gave birth 16 times during their marriage, dying in 1848. In 1852, Mead married Lois Biddulph, daughter of his assistant, the poet Devavaram Biddulph, who was himself the nephew of Maharasan Vedamanickam. Mead was forced to resign from the LMS as a result of marrying a low caste Indian woman. Their daughter married the historian C.M. Agur, who published _The Church History of Travancore_ in 1903_. See:_ Manoharan, P.B. (2015) The Outstanding Mrs. Johanna Horst Mead and Kanyakumari District. Milestones of Kanyakumari: <http://milestonesofkanyakumari.blogspot.com/2015/04/great-english-men-who-visited-and-lived.html>
 
-[^12] Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.31.
+[^12]: Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.31.
 
-[^13] Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.31.
+[^13]: Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, p.31.
 
-[^14] Mathew, E. T. (1999). “Growth of Literacy in Kerala: State Intervention, Missionary Initiatives and Social Movements.” Economic and Political Weekly **34**(39): 2811-2820.
+[^14]: Mathew, E. T. (1999). “Growth of Literacy in Kerala: State Intervention, Missionary Initiatives and Social Movements.” Economic and Political Weekly **34**(39): 2811-2820.
 
 [^15] Manoharan, P.B. (2015) Mrs Martha Mault, the Mother of Female education and liberation in South India, 1794 – 1870. Milestones of Kanyakumari: <http://milestonesofkanyakumari.blogspot.com/2015/04/great-english-men-who-visited-and-lived.html>
 
-[^16] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 441-444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
+[^16]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 441-444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
 
-[^17] (1836) Kristnapore. Peril from the Boa Constrictor. _The Missionary Magazine and Chronicle,_ July 1836, pp.  315-317.
+[^17]: (1836) Kristnapore. Peril from the Boa Constrictor. _The Missionary Magazine and Chronicle,_ July 1836, pp.  315-317.
 
-[^18] (1836) Worship of he Serpent in India. _The Missionary Magazine and Chronicle,_ July 1836, pp.  471-472: <https://books.google.co.uk/books?id=q_UDAAAAQAAJ&newbks=1&newbks_redir=0&dq=missionary%20magazine&pg=RA2-PA471#v=onepage&q&f=false>; (1837) Serpent Charmers. _The Missionary Magazine and Chronicle,_ March 1837, pp.  141-142: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA141#v=onepage&q&f=false>
+[^18]: (1836) Worship of he Serpent in India. _The Missionary Magazine and Chronicle,_ July 1836, pp.  471-472: <https://books.google.co.uk/books?id=q_UDAAAAQAAJ&newbks=1&newbks_redir=0&dq=missionary%20magazine&pg=RA2-PA471#v=onepage&q&f=false>; (1837) Serpent Charmers. _The Missionary Magazine and Chronicle,_ March 1837, pp.  141-142: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA141#v=onepage&q&f=false>
 
-[^19] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833: <https://archive.org/details/missionarysketch00lond/page/n240/mode/1up>
+[^19]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833: <https://archive.org/details/missionarysketch00lond/page/n240/mode/1up>
 
-[^20] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.2: <https://archive.org/details/missionarysketch00lond/page/n241/mode/1up>
+[^20]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.2: <https://archive.org/details/missionarysketch00lond/page/n241/mode/1up>
 
-[^21] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
+[^21]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
 
-[^22] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
+[^22]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
 
-[^23] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
+[^23]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
 
-[^24] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
+[^24]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
 
-[^25] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
+[^25]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.3: <https://archive.org/details/missionarysketch00lond/page/n242/mode/1up>
 
-[^26] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
+[^26]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
 
-[^27] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
+[^27]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
 
-[^28] (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
+[^28]: (1833) Worship of he Serpent in India. _Missionary Sketches,_ No. LXI, April 1833, p.4: <https://archive.org/details/missionarysketch00lond/page/n243/mode/1up>
 
-[^29] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 443: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
+[^29]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 443: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
 
-[^30] (1837) Government Support of Idolatry in India, _The Missionary Magazine and Chronicle, September 1837, pp. 444-446: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA444#v=onepage&q&f=false>_
+[^30]: (1837) Government Support of Idolatry in India, _The Missionary Magazine and Chronicle, September 1837, pp. 444-446: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA444#v=onepage&q&f=false>_
 
-[^31] (1837) ‘Conversion of Roman Catholics at Salem’, ‘Chittoor – Journal of the Native Reader, Halesworth’, & ‘Translation of a Sermon Preached at Benares’ _The Missionary Magazine and Chronicle, September 1837, pp. 446-452: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA446#v=onepage&q&f=false>_
+[^31]: (1837) ‘Conversion of Roman Catholics at Salem’, ‘Chittoor – Journal of the Native Reader, Halesworth’, & ‘Translation of a Sermon Preached at Benares’ _The Missionary Magazine and Chronicle, September 1837, pp. 446-452: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA446#v=onepage&q&f=false>_
 
-[^32] (1837) ‘Kat River Mission, South Africa’, ‘Death of the Rev. John Wray and the Rev. James Howe, at New Amsterdam, Bernice’, & ‘Home Intelligence. East Lancashire Auxiliary & Missionary Contributions’ _The Missionary Magazine and Chronicle, September 1837, pp. 452-156: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA452#v=onepage&q&f=false>_
+[^32]: (1837) ‘Kat River Mission, South Africa’, ‘Death of the Rev. John Wray and the Rev. James Howe, at New Amsterdam, Bernice’, & ‘Home Intelligence. East Lancashire Auxiliary & Missionary Contributions’ _The Missionary Magazine and Chronicle, September 1837, pp. 452-156: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA452#v=onepage&q&f=false>_
 
-[^33] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, pp. 493-495: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^33]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, pp. 493-495: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^34] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, p. 494: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^34]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, p. 494: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^35] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, p. 494: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^35]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, p. 494: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^36] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, pp. 494-495: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^36]: (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, October 1837, pp. 494-495: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^37] (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 282-296: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^37]: (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 282-296: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^38] (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 282: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^38]: (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 282: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^39] (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 282-283: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^39]: (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 282-283: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^40] (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 285: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^40]: (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 285: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^41] (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 285: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^41]: (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 285: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^42] (1861) Missionary Museum. No. XI. _Juvenile Missionary Magazine_, February 1861, p. 57: <https://books.google.co.uk/books?id=V2AEAAAAQAAJ&lpg=RA1-PA57&ots=Q2nAXJfRF8&dq=paramasattee%20juvenile&pg=RA1-PA57#v=onepage&q&f=false>
+[^42]: (1861) Missionary Museum. No. XI. _Juvenile Missionary Magazine_, February 1861, p. 57: <https://books.google.co.uk/books?id=V2AEAAAAQAAJ&lpg=RA1-PA57&ots=Q2nAXJfRF8&dq=paramasattee%20juvenile&pg=RA1-PA57#v=onepage&q&f=false>
 
-[^43] In 1851, Rev. J.O. Whitehouse a missionary who had served at Nagercoil for nine years years wrote ‘The origin, continuance, and increase of many of our congregations are to be traced to oppression. People have been driven to Christianity by fear, and not drawn to it by conviction. They came, not because they think that the religion taught is true, but because they think those who teach it have influence with the ruling powers in the country, and are therefore able to project them.’, See Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, pp. 158-163.
+[^43]: In 1851, Rev. J.O. Whitehouse a missionary who had served at Nagercoil for nine years years wrote ‘The origin, continuance, and increase of many of our congregations are to be traced to oppression. People have been driven to Christianity by fear, and not drawn to it by conviction. They came, not because they think that the religion taught is true, but because they think those who teach it have influence with the ruling powers in the country, and are therefore able to project them.’, See Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, pp. 158-163.
 
-[^44] Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p.41.
+[^44]: Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p.41.
 
-[^45] Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p.278-281; Ponnumutham, S. (2012) Upper Cloth Revolt of 1859 (Melmundu Samaram), in _The Oford Encyclopaedia of South Asian Christianity_, eds. Roger E. Hedlund, Jesudas M. Athyal, Joshua Kalapati, and Jessica Richard: <https://www.oxfordreference.com/display/10.1093/acref/9780198073857.001.0001/acref-9780198073857-e-1022>
+[^45]: Mateer, S. (1871). The Land of Charity: A Descriptive Account of Travancore and its People. London, John Snow and Co, p.278-281; Ponnumutham, S. (2012) Upper Cloth Revolt of 1859 (Melmundu Samaram), in _The Oford Encyclopaedia of South Asian Christianity_, eds. Roger E. Hedlund, Jesudas M. Athyal, Joshua Kalapati, and Jessica Richard: <https://www.oxfordreference.com/display/10.1093/acref/9780198073857.001.0001/acref-9780198073857-e-1022>
 
-[^46] Montgomery, J. (1831). Journal of voyages and travels by the Rev. Daniel Tyerman and George Bennet, esq: Deputed from the London missionary society, to visit their various stations in the South sea islands, China, India, &c., between the years 1821 and 1829. London, F. Westley and A.H. Davis, Volume 2, p. 458.
+[^46]: Montgomery, J. (1831). Journal of voyages and travels by the Rev. Daniel Tyerman and George Bennet, esq: Deputed from the London missionary society, to visit their various stations in the South sea islands, China, India, &c., between the years 1821 and 1829. London, F. Westley and A.H. Davis, Volume 2, p. 458.
 
-[^47] Haggis, J. (2000). “Ironies of emancipation: Changing configurations of ‘women’s work’ in the ‘mission of sisterhood’ to Indian women.” Feminist Review(65): 108-126.
+[^47]: Haggis, J. (2000). “Ironies of emancipation: Changing configurations of ‘women’s work’ in the ‘mission of sisterhood’ to Indian women.” Feminist Review(65): 108-126.
 
-[^48] Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, pp. 153-156.
+[^48]: Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, pp. 153-156.
 
-[^49] Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, pp. 153-156.
+[^49]: Lovett, R. (1899). The History of the London Missionary Society 1795-1895. London, Oxford University Press, volume 2, pp. 153-156.
 
-[^50] (1834) Missionary Contributions: Collections by Mrs Mault For the Girls’ School at Nagercoil, _Missionary Chronicle for October 1834,_ p.437: <https://books.google.co.uk/books?id=\_scoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA437#v=onepage&q&f=false>
+[^50]: (1834) Missionary Contributions: Collections by Mrs Mault For the Girls’ School at Nagercoil, _Missionary Chronicle for October 1834,_ p.437: <https://books.google.co.uk/books?id=\_scoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA437#v=onepage&q&f=false>
 
-[^51] (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 284: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
+[^51]: (1837) Thursday, May 11th. The Annual Public Meeting. Exeter Hall, _The Missionary Magazine and Chronicle, June 1837, p. 284: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA493#v=onepage&q&f=false>_
 
-[^52] (1838) Missionary Contributions: Geneva, _Missionary Magazine and Chronicle for Feburary 1838,_ p.16: <https://books.google.co.uk/books?id=5PUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=RA1-PA16#v=onepage&q&f=false>
+[^52]: (1838) Missionary Contributions: Geneva, _Missionary Magazine and Chronicle for Feburary 1838,_ p.16: <https://books.google.co.uk/books?id=5PUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=RA1-PA16#v=onepage&q&f=false>
 
-[^53] (1838) Missionary Contributions: Geneva, _Missionary Magazine and Chronicle for July 1838,_ p.364: <https://books.google.co.uk/books?id=5PUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=RA1-PA364#v=onepage&q&f=false>
+[^53]: (1838) Missionary Contributions: Geneva, _Missionary Magazine and Chronicle for July 1838,_ p.364: <https://books.google.co.uk/books?id=5PUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=RA1-PA364#v=onepage&q&f=false>
 
-[^54] Knill was replaced in late 1836 by the Rev. John Hands, another returned missionary from India.
+[^54]: Knill was replaced in late 1836 by the Rev. John Hands, another returned missionary from India.
 
-[^55] Knill’s wife, Sarah Notman, also came from a Quaker family, her father having been appointed as inspector general of tanneries for the Russian Tsar, Alexander I: Burrell, C. (1860) _The Life of the Rev. Richard Knill of St Petersburgh._ London; James Nisbet and Co., p. 100: <https://books.google.co.uk/books?id=b00BAAAAQAAJ&newbks=1&newbks_redir=0&pg=PA100#v=onepage&q&f=false>; Rosslyn, W. (2007). Women with a Mission: British Female Evangelicals in the Russian Empire in the Early Nineteenth Century. Women in Russian Culture and Society, 1700–1825. W. Rosslyn and A. Tosi. London, Palgrave Macmillan UK**:** 219-240.
+[^55]: Knill’s wife, Sarah Notman, also came from a Quaker family, her father having been appointed as inspector general of tanneries for the Russian Tsar, Alexander I: Burrell, C. (1860) _The Life of the Rev. Richard Knill of St Petersburgh._ London; James Nisbet and Co., p. 100: <https://books.google.co.uk/books?id=b00BAAAAQAAJ&newbks=1&newbks_redir=0&pg=PA100#v=onepage&q&f=false>; Rosslyn, W. (2007). Women with a Mission: British Female Evangelicals in the Russian Empire in the Early Nineteenth Century. Women in Russian Culture and Society, 1700–1825. W. Rosslyn and A. Tosi. London, Palgrave Macmillan UK**:** 219-240.
 
-[^56] Kaarninen, M. (2022). The Trials of Sarah Wheeler (1807–1867): Experiencing Submission. Histories of Experience in the World of Lived Religion. S. Katajala-Peltomaa and R. M. Toivo. Cham, Springer International Publishing**:** 195-217.
+[^56]: Kaarninen, M. (2022). The Trials of Sarah Wheeler (1807–1867): Experiencing Submission. Histories of Experience in the World of Lived Religion. S. Katajala-Peltomaa and R. M. Toivo. Cham, Springer International Publishing**:** 195-217.
 
-[^57] (1833) Return of Missionaries, _Missionary Chronicle for October 1833,_ p.464: <https://books.google.co.uk/books?id=8tFGAQAAMAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA464#v=onepage&q&f=false>
+[^57]: (1833) Return of Missionaries, _Missionary Chronicle for October 1833,_ p.464: <https://books.google.co.uk/books?id=8tFGAQAAMAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA464#v=onepage&q&f=false>
 
-[^58] (1834) Missionary Contributions: Collections by Mrs Mault For the Girls’ School at Nagercoil, _Missionary Chronicle for October 1834,_ p.437: <https://books.google.co.uk/books?id=\_scoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA437#v=onepage&q&f=false>
+[^58]: (1834) Missionary Contributions: Collections by Mrs Mault For the Girls’ School at Nagercoil, _Missionary Chronicle for October 1834,_ p.437: <https://books.google.co.uk/books?id=\_scoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA437#v=onepage&q&f=false>
 
 [^59] (1835) Departure of Missionaries, _Missionary Chronicle for November  1835,_ p.482: <https://books.google.co.uk/books?id=bsgoAAAAYAAJ&newbks=1&newbks_redir=0&dq=missionary%20chronicle&pg=PA483#v=onepage&q&f=false>
 
-[^60] SOAS Special Collections: CWM.LMS.Travancore. Incoming Box 2. 1832-38. Nagercoil, September 7th 1836.
+[^60]: SOAS Special Collections: CWM.LMS.Travancore. Incoming Box 2. 1832-38. Nagercoil, September 7th 1836.
 
-[^61] (1837) Female Schools at Nagercoil in South Travancore, _Missionary Chronicle for April 1837,_ pp.197-199: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA197#v=onepage&q&f=false>
+[^61]: (1837) Female Schools at Nagercoil in South Travancore, _Missionary Chronicle for April 1837,_ pp.197-199: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA197#v=onepage&q&f=false>
 
-[^62] Montgomery, J. (1831). Journal of voyages and travels by the Rev. Daniel Tyerman and George Bennet, esq: Deputed from the London missionary society, to visit their various stations in the South sea islands, China, India, &c., between the years 1821 and 1829. London, F. Westley and A.H. Davis, Volume 2, p. 460: <https://books.google.co.uk/books?id=WsBIAQAAIAAJ&newbks=1&newbks_redir=0&dq=tyerman%20bennet%20volume%202&pg=PA460#v=onepage&q&f=false>
+[^62]: Montgomery, J. (1831). Journal of voyages and travels by the Rev. Daniel Tyerman and George Bennet, esq: Deputed from the London missionary society, to visit their various stations in the South sea islands, China, India, &c., between the years 1821 and 1829. London, F. Westley and A.H. Davis, Volume 2, p. 460: <https://books.google.co.uk/books?id=WsBIAQAAIAAJ&newbks=1&newbks_redir=0&dq=tyerman%20bennet%20volume%202&pg=PA460#v=onepage&q&f=false>
 
-[^63] Montgomery, J. (1831). Journal of voyages and travels by the Rev. Daniel Tyerman and George Bennet, esq: Deputed from the London missionary society, to visit their various stations in the South sea islands, China, India, &c., between the years 1821 and 1829. London, F. Westley and A.H. Davis, Volume 2, p. 460: <https://books.google.co.uk/books?id=WsBIAQAAIAAJ&newbks=1&newbks_redir=0&dq=tyerman%20bennet%20volume%202&pg=PA460#v=onepage&q&f=false>
+[^63]: Montgomery, J. (1831). Journal of voyages and travels by the Rev. Daniel Tyerman and George Bennet, esq: Deputed from the London missionary society, to visit their various stations in the South sea islands, China, India, &c., between the years 1821 and 1829. London, F. Westley and A.H. Davis, Volume 2, p. 460: <https://books.google.co.uk/books?id=WsBIAQAAIAAJ&newbks=1&newbks_redir=0&dq=tyerman%20bennet%20volume%202&pg=PA460#v=onepage&q&f=false>
 
-[^64] It was kept with a box of medals, won by the Pareychaley Embroidery Industry (Travancore), at early twentieth century industrial exhibitions including the Festival of Empire at Crystal Palace in London in 1911. This was established after 1845 by Louisa Abbs, who went to Neyoor with her missionary husband with Charles Mead when he returned there in October 1837.
+[^64]: It was kept with a box of medals, won by the Pareychaley Embroidery Industry (Travancore), at early twentieth century industrial exhibitions including the Festival of Empire at Crystal Palace in London in 1911. This was established after 1845 by Louisa Abbs, who went to Neyoor with her missionary husband with Charles Mead when he returned there in October 1837.
 
-[^65] Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, xi.
+[^65]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, xi.
 
-[^66] Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp.2-3.
+[^66]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp.2-3.
 
-[^67] (1859) Pillar-Lace Working in Bedfordshire, _Illustrated London News,_ Saturday 5 February 1859, issue 958, p.133. Cited in (2015) Charlotte Yonge and the London Illustrated News, Lace In Context: <https://laceincontext.com/charlotte-yonge-and-the-london-illustrated-news/>
+[^67]: (1859) Pillar-Lace Working in Bedfordshire, _Illustrated London News,_ Saturday 5 February 1859, issue 958, p.133. Cited in (2015) Charlotte Yonge and the London Illustrated News, Lace In Context: <https://laceincontext.com/charlotte-yonge-and-the-london-illustrated-news/>
 
-[^68] In May 1837, the Missionary Magazine recorded a donation of £85 from the Aberdeen ‘Ladies and Juvenile Society for Africa’ in Scotland, which a subsequent issue recorded was “the proceeds of a sale of ladies work at Aberdeen on behalf of the funds of the London Missionary Society”; (1837) Missionary Contributions, _Missionary Chronicle for September 1837,_ p.456: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA456#v=onepage&q&f=false>
+[^68]: In May 1837, the Missionary Magazine recorded a donation of £85 from the Aberdeen ‘Ladies and Juvenile Society for Africa’ in Scotland, which a subsequent issue recorded was “the proceeds of a sale of ladies work at Aberdeen on behalf of the funds of the London Missionary Society”; (1837) Missionary Contributions, _Missionary Chronicle for September 1837,_ p.456: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA456#v=onepage&q&f=false>
 
-[^69] Engels, F. (1892). The condition of the working class in England in 1844. London, Swan Sonnenschein & Co, p.193: <https://books.google.co.uk/books?id=B4YpAAAAYAAJ&newbks=1&newbks_redir=0&dq=engels%20condition%20of%20the%20working%20class%20in%20england&pg=PA193#v=onepage&q&f=false>
+[^69]: Engels, F. (1892). The condition of the working class in England in 1844. London, Swan Sonnenschein & Co, p.193: <https://books.google.co.uk/books?id=B4YpAAAAYAAJ&newbks=1&newbks_redir=0&dq=engels%20condition%20of%20the%20working%20class%20in%20england&pg=PA193#v=onepage&q&f=false>
 
-[^70] Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, p.155.
+[^70]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, p.155.
 
-[^71] Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, 153.
+[^71]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, 153.
 
-[^72] Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp. 153-4.
+[^72]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp. 153-4.
 
 {% endbackmatter %}
