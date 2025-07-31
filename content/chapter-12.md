@@ -14,14 +14,6 @@ page_pdf_output: true
 
 {% figure "fig-c12-1" %}
 
-{% figure "fig-c12-2" %}
-
-{% figure "fig-c12-3" %}
-
-{% figure "fig-c12-4" %}
-
-{% figure "fig-c12-5" %}
-
 Heavy winds and high waves made landing at Avarua extremely challenging – John Williams was almost crushed between the side of the ship and the boat as he reached for his infant son. Mary, his wife, bailed water continuously as others rowed them ashore.  Landing on the beach, John described what he saw as ‘the greatest concourse of people I had seen since we left England’.  It being a Sunday, worshippers were leaving their chapel, the women dressed in white bark cloth and bonnets, the men in clothes ‘of native manufacture’ and hats.[^⁠1]
 
 Mary and John Williams had come to assist Charles and Elizabeth Pitman to establish their mission on the island. The Pitmans had crossed paths with George Bennet and Daniel Tyerman at New South Wales in 1825 ([Chapter 10](https://argonauts2022.net/10-two-of-the-tur-rursna/)), who directed them to Rarotonga. Tyerman and Bennet visited the island on their way to Sydney in June 1824, describing its chapel as ‘half finished’ and the people as ‘gentle, upright, and well behaved, attending with diligence to the means of grace, and daily making progess in the arts of civilised life’.[^⁠2]
@@ -234,8 +226,6 @@ Acknowledgements
 I have been incredibly lucky to have worked closely over the years with a number of colleagues with Pacific specialisms over the years, from whom I have learned an enormous amount: Steven Hooper, Karen Jacobs, Nicholas Thomas, Julie Adams, Maia Nuku and Alice Christophe, among others. Nevertheless, as an interloper in the region, any errors or faults are entirely my own.
 
 Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and Jeffrey Sissons in setting up a collaborative PhD project with the British Museum to further unpack this extraordinary process of conversion and collection through the surviving collections. I am looking forward to their feedback on this chaper, as well as that of Mililani Ganivet, who we appointed to the studentship in 2023.
-
-{% figure "fig-c12-1" %}
 
 {% backmatter %}
 
