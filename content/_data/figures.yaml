@@ -1492,6 +1492,14 @@ figure_list:
   - id: "fig-c12-3"
     src: figures/part-2/12/c12-3.jpg
     label: ""
-    caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George BaxterWellcome Collection EPB/B/54934/1""
+    caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George BaxterWellcome Collection EPB/B/54934/1"
     credit: "https://wellcomecollection.org/works/ecjb2pbu"
     alt: "Illustration of two national idols: a tall figure wrapped in cloth and a smaller statue labeled The Fisherman's god."
+
+    id: "fig-c12-4"
+    src: "figures/part-2/12/c12-4.png"
+    label: ""
+    caption: "Destruction of the Idols at Otaheite. pulling down a Pagan Altar, and building a Christian Church.Cover of Missionary Sketches 6, published in July 1819.Archive.org"
+    credit: "Archive.org"
+    alt: "An illustration of people destroying pagan idols and an altar, with smoke rising amidst tropical foliage, symbolizing a religious transition."
+

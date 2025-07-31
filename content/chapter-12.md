@@ -28,6 +28,8 @@ In Williams’ (1837) book, _A Narrative of Missionary Enterprises_, there is an
 
 {% figure "fig-c12-3" %}
 
+{% figure "fig-c12-4" %}
+
 Similarly, just as Williams did not describe the ‘obscene figure’ at the bottom of the ancestral pole, known in the Rarotonga language as _ki’iki’i_, the image in his book avoids showing the phallus with which the twelve foot long pole originally terminated. Whether this had also been removed is unclear.[^⁠4] In his text, however, Williams notes that:
 
 _It is not, however, so respectable in appearance as when in its own country; for his Britannic Majesty’s officers, fearing lest the god should be made a vehicle for defrauding the king, very unceremoniously took it to pieces; and not being so well skilled in making gods as in protecting the revenue, they have not made it so handsome as when it was an object of veneration…_[^⁠5]
