@@ -1476,30 +1476,139 @@ figure_list:
     alt: "A serene landscape depicting a lush scene with palm trees, a river, and distant architecture, with figures engaged in tranquil activities."
 
   - id: "fig-c12-1"
-    src: figures/part-2/12/c12-1.jpg
-    label: ""
-    caption: "Ki’iki’i or Ancestral Pole, sent to London by John Williams in the whaling ship, Sir Andrew Hammond (Captain Hammer). British Museum Oc1978,Q.845.a-c"
-    credit: "©The Trustees of the British Museum. Oc1978,Q.845.a-c."
+    src: "figures/part-2/12/c12-1.jpg"
+    caption: "Ki'iki'i or Ancestral Pole, sent to London by John Williams in the whaling ship, Sir Andrew Hammond (Captain Hammer)British Museum Oc1978,Q.845.a-c"
+    credit: "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-845-a"
     alt: "Ancestral polee, wrapped in alternating light and dark strips of material."
 
-    id: "fig-c12-2"
-    src: figures/part-2/12/c12-2.jpg
-    label: ""
-    caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827. Woodcut engraving by George Baxter for the title page of John Williams’ 'A Narrative of Missionary Enterprises', published in 1837. Wellcome Collection EPB/B/54934/1."
-    credit: "https://wellcomecollection.org/works/ecjb2pbu."
+  - id: "fig-c12-2"
+    src: "figures/part-2/12/c12-2.jpg"
+    caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George Baxter for the title page of John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
+    credit: "https://wellcomecollection.org/works/ecjb2pbu"
     alt: "Cover page of A Narrative of Missionary Enterprises in the South Sea Islands by John Williams, featuring an illustration of island life."
 
   - id: "fig-c12-3"
-    src: figures/part-2/12/c12-3.jpg
-    label: ""
+    src: "figures/part-2/12/c12-3.jpg"
     caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George BaxterWellcome Collection EPB/B/54934/1"
     credit: "https://wellcomecollection.org/works/ecjb2pbu"
     alt: "Illustration of two national idols: a tall figure wrapped in cloth and a smaller statue labeled The Fisherman's god."
 
-    id: "fig-c12-4"
-    src: "figures/part-2/12/c12-4.png"
-    label: ""
+  - id: "fig-c12-4"
+    src: "figures/part-2/12/c12-4.jpg"
     caption: "Destruction of the Idols at Otaheite. pulling down a Pagan Altar, and building a Christian Church.Cover of Missionary Sketches 6, published in July 1819.Archive.org"
-    credit: "Archive.org"
+    credit: "https://archive.org/details/missionarysketch00lond/page/n22/mode/1up"
     alt: "An illustration of people destroying pagan idols and an altar, with smoke rising amidst tropical foliage, symbolizing a religious transition."
 
+  - id: "fig-c12-5"
+    src: "figures/part-2/12/c12-5.png"
+    caption: "Portrait of the young John WilliamsProduced for the London Missionary Society when he was aapointed as a missionary, before leaving for the Pacific.SOAS Special Collections (CWM/LMS/Home/Miniature Portraits/Box 4/John Williams)"
+    credit: "https://digital.soas.ac.uk/EK00000124/00001/"
+    alt: "A portrait of John Williams, distinguished by period attire, with handwritten details about his life and contributions beneath the image."
+
+  - id: "fig-c12-6"
+    src: "figures/part-2/12/c12-6.png"
+    caption: "Portrait of the young Mary WilliamsProduced for the London Missionary Society when she was appointed as a missionary wife, before leaving for the Pacific.SOAS Special Collections (CWM/LMS/Home/Miniature Portraits/Box 4/Mary Williams)"
+    credit: "https://digital.soas.ac.uk/EK00000125/00001/"
+    alt: "Portrait of Mary Williams, dated 1816-1852, with inscription detailing her appointment and register number, framed with a cream border."
+
+  - id: "fig-c12-7"
+    src: "figures/part-2/12/c12-7.jpg"
+    caption: "City of David - Missionary Settlement in the Island of Raiatea. The Chapel is seen above the mast of the canoe. the Mission-house near the centre. on the highest hill on the left is the Po, or Hades of this and of all the other islands [Taputapuatea]. The white surf marks the sitaution of the coral-rocks.' This was the location of the mission station at Vauaara [Fa'aroa] until 1824.Engraved by Fenner Sears & Co. Drawn by John Demis from a sketch by D. Tyerman. Published in 1831 in Journal of Voyages and Travel by the Rev. Daniel Tyerman and George Bennet, Esq. compiled from original documents by James Montgomery. London. Frederick Westley and A.H. Davis.Wellcome Collection EPB/B/37234.v1"
+    credit: "https://wellcomecollection.org/works/kk3vehbw"
+    alt: "A scenic engraving of the City of David, Balaklava, featuring boats on water with mountains and a coastal settlement in the background."
+
+  - id: "fig-c12-8"
+    src: "figures/part-2/12/c12-8.jpg"
+    caption: "Bay in South Sea Island (ships surrounded by canoes)Part of a collection of 30 large watercolours used on lecture tours in Britain by John Williams during the 1834 and 1837.National Library of Australia, Rex Nan Kivell Collection NK1224/27"
+    credit: "https://nla.gov.au/nla.obj-133503946/view"
+    alt: "A serene river landscape with two sailing ships, surrounded by lush mountains and cliffs under a pastel sky."
+
+  - id: "fig-c12-9"
+    src: "figures/part-2/12/c12-9.jpg"
+    caption: "Settlement at Utumaoro in Raiatea'This was the location of the mission after 1824. An engraving of this image featured in Missionary Sketches 47 (October 1829).Part of a collection of 30 large watercolours used on lecture tours in Britain by John Williams during the 1834 and 1837.National Library of Australia, Rex Nan Kivell Collection NK1224/24"
+    credit: "https://archive.org/details/missionarysketch00lond/page/n184/mode/1up"
+    alt: "A tranquil seascape featuring a sailing ship, coastal homes, and a prominent mountain under a soft, cloudy sky."
+   
+  - id: "fig-c12-10"
+    src: "figures/part-2/12/c12-10.jpg"
+    caption: "Representations of Taaroa Upoo Vahu (A'a) from RurutuCover of Missionary Sketches 24, published in January 1824.Archive.org"
+    credit: "https://archive.org/details/missionarysketch00lond/page/n92/mode/1up"
+    alt: "Illustration of a Polynesian idol, showing its front and back, with dimensions labeled below in an 1824 missionary publication."
+
+  - id: "fig-c12-11"
+    src: "figures/part-2/12/c12-11.jpg"
+    caption: "Idols' worshipped by the Inhabitants of the South Sea IslandsPrinted to face the title page of Volume 2 of William Ellis (1829) Polynesian Researches (London. Fisher, Son & Jackson).Wellcome Collection EPB/B/21643/1.v2"
+    credit: "https://wellcomecollection.org/works/uue7tp4t"
+    alt: "A collection of ornate South Sea Island idols, featuring intricate carvings and figures on wooden sculptures and totems."
+
+  - id: "fig-c12-12"
+    src: "figures/part-2/12/c12-12.png"
+    caption: "Satellite imagery showing the locations of Ra'iatea. Rurutu, Aitutaki, Rarotonga and SydneyLocations marked on Google Maps"
+    credit: 
+    alt: "Map of the southwestern Pacific Ocean showing Australia, New Zealand, and nearby islands like Raiatea and Rarotonga."
+
+  - id: "fig-c12-13"
+    src: "figures/part-2/12/c12-13.jpg"
+    caption: "John Williams residence at Ra'iatea, a model for houses subsequently built at Aitutaki and RarotongaWoodcut engraving by George Baxter printed opposite p.476 in John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
+    credit: 
+    alt: "Illustration of a thatched-roof house surrounded by lush palm trees, featuring two figures conversing in the garden."
+
+  - id: "fig-c12-14"
+    src: "figures/part-2/12/c12-14.jpg"
+    caption: "Idol' acquired by John Williams at Aitutaki (together with 'the Snare for catching a god'Image from British Museum (Oc,LMS.38) alongside woodcut engraving by George Baxter printed on p.65 in John Williams' A Narrative of Missionary Enterprises, published in 1837British Museum (Oc,LMS.38) & Wellcome Collection EPB/B/54934/1"
+    credit: 
+    alt: "A tall, carved wooden figure stands on the left, alongside a vintage illustration of a similar figure and a lasso on an antique page."
+
+  - id: "fig-c12-15"
+    src: "figures/part-2/12/c12-15.jpg"
+    caption: "Conveying the Idols to the Boat' at AitutakiWoodcut engraving by George Baxter printed on p.64 in John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
+    credit: 
+    alt: "An engraved scene depicting a riverside village with a house, fishermen, and a boat, surrounded by lush mountains and palm trees."
+
+  - id: "fig-c12-16"
+    src: "figures/part-2/12/c12-16.jpg"
+    caption: "Portraits of Papeiha and MakeaWoodcut engraving by George Baxter printed opposite p.576 in John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
+    credit: 
+    alt: "Two detailed portraits in black ink on paper, depicting figures in elegant attire."
+
+  - id: "fig-c12-17"
+    src: "figures/part-2/12/c12-17.jpg"
+    caption: "A cap from Aitutaki, worn formerly by the master of the ceremonies at the native dances. but now, by the judge of the island.'Image from British Museum (Oc,LMS.56) alongside woodcut engraving by George Baxter printed on p.537 in John Williams' A Narrative of Missionary Enterprises, published in 1837British Museum (Oc,LMS.56) & Wellcome Collection EPB/B/54934/1"
+    credit: 
+    alt: "A traditional Aitutaki cap adorned with feathers and plant fibers, paired with an illustrated guide from historical records."
+
+  - id: "fig-c12-18"
+    src: "figures/part-2/12/c12-18.png"
+    caption: "Map of Rarotonga, showing the three vaka (regions)Wikimedia Commons"
+    credit: 
+    alt: "Map of Rarotonga, illustrating tribes (VAKA), roads, streams, and elevations with summits marked. Includes airport location."
+
+  - id: "fig-c12-19"
+    src: "figures/part-2/12/c12-19.jpg"
+    caption: "Makea, King of Rarotonga' (ariki of Te Au O Tonga vaka)Part of a collection of 30 large watercolours used on lecture tours in Britain by John Williams during the 1834 and 1837.It seems like that the head and shoulders portrait of Makea, above, is based on this painting.National Library of Australia, Rex Nan Kivell Collection NK1224/6"
+    credit: 
+    alt: "A Polynesian figure stands in traditional attire, holding a feathered implement and a wooden item, amidst a lush landscape."
+
+  - id: "fig-c12-20"
+    src: "figures/part-2/12/c12-20.jpg"
+    caption: "View of the Factory Zone at Canton, during the trial of four British seamen, 1 October 1807Chinese artistNational Maritime Museum BHC0580"
+    credit: 
+    alt: "Illustration of a tall, cylindrical sculpture wrapped in cloth, topped with a carved figure and feathers, labeled Diagram 10."
+
+  - id: "fig-c12-21"
+    src: "figures/part-2/12/c12-21.jpg"
+    caption: "Te po, a Chief of Rarotonga' (Pa Te Pou ariki of Takitumu vaka), as readers would have encountered himColour image, published opposite the title page of John Williams (1837) A Narrative of Missionary Enterprises. Lithograph, printed in Oil Colours by George Baxter, from a painting by John Williams JuniorBritish Museum Oc2006,Prt.38"
+    credit: 
+    alt: "An illustration of a Polynesian chief with a spear, standing by the water, accompanied by a title page of a missionary's narrative."
+
+  - id: "fig-c12-22"
+    src: "figures/part-2/12/c12-22.jpg"
+    caption: "Imagined image of an Ancient Britain (Pict warrior), with stained and painted bodyWatercolour image made by John White between 1585 and 1593. Part of an album of drawings which include the first European images of indigenous Americans, made at the 'Lost Colony' of Roanoke. British Museum 1906,0509.1.26"
+    credit: 
+    alt: "A muscular figure stands confidently, holding a spear and shield, adorned with intricate body markings, surrounded by remnants of an ancient setting."
+
+  - id: "fig-c12-23"
+    src: "figures/part-2/12/c12-23.jpg"
+    caption: "Portrait of Papeiha (left) facing Isaia, his son (right)From Gems from the Coral Islands by the Rev. William Gill (1856), Volume II, facing p.232Hathi Trust (New York Public Library)"
+    credit: 
+    alt: "Two men stand side by side, one wearing a white shirt with a scarf and the other in a formal black suit with a bow tie."
