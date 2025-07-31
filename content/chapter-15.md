@@ -1,7 +1,9 @@
 ---
 label: 15
 title: "The Departure of the Camden, Missionary Ship"
-subtitle: 
+subtitle: "New London Bridge, 11 April 1838"
+
+
 layout: essay
 order: 44
 classes:
