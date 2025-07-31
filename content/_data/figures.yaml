@@ -1476,30 +1476,30 @@ figure_list:
     alt: "A serene landscape depicting a lush scene with palm trees, a river, and distant architecture, with figures engaged in tranquil activities."
 
   - id: "fig-c12-1"
-    src: "figures/part-2/12/c12-1.jpg"
+    src: figures/part-2/12/c12-1.jpg
     caption: "Ki'iki'i or Ancestral Pole, sent to London by John Williams in the whaling ship, Sir Andrew Hammond (Captain Hammer)British Museum Oc1978,Q.845.a-c"
     credit: "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-845-a"
     alt: "Ancestral polee, wrapped in alternating light and dark strips of material."
 
   - id: "fig-c12-2"
-    src: "figures/part-2/12/c12-2.jpg"
+    src: figures/part-2/12/c12-2.jpg
     caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George Baxter for the title page of John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
     credit: "https://wellcomecollection.org/works/ecjb2pbu"
     alt: "Cover page of A Narrative of Missionary Enterprises in the South Sea Islands by John Williams, featuring an illustration of island life."
 
   - id: "fig-c12-3"
-    src: "figures/part-2/12/c12-3.jpg"
+    src: figures/part-2/12/c12-3.jpg
     caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George BaxterWellcome Collection EPB/B/54934/1"
     credit: "https://wellcomecollection.org/works/ecjb2pbu"
     alt: "Illustration of two national idols: a tall figure wrapped in cloth and a smaller statue labeled The Fisherman's god."
 
   - id: "fig-c12-4"
-    src: "figures/part-2/12/c12-4.jpg"
+    src: figures/part-2/12/c12-4.jpg
     caption: "Destruction of the Idols at Otaheite. pulling down a Pagan Altar, and building a Christian Church.Cover of Missionary Sketches 6, published in July 1819.Archive.org"
     credit: "https://archive.org/details/missionarysketch00lond/page/n22/mode/1up"
     alt: "An illustration of people destroying pagan idols and an altar, with smoke rising amidst tropical foliage, symbolizing a religious transition."
 
-  - id: "fig-c12-5"
+  - id: fig-c12-5
     src: "figures/part-2/12/c12-5.png"
     caption: "Portrait of the young John WilliamsProduced for the London Missionary Society when he was aapointed as a missionary, before leaving for the Pacific.SOAS Special Collections (CWM/LMS/Home/Miniature Portraits/Box 4/John Williams)"
     credit: "https://digital.soas.ac.uk/EK00000124/00001/"
