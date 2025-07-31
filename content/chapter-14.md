@@ -279,7 +279,7 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 
 ## Notes
 
-[^1] Contemporary orthography would render this as Kariavili near Mandaikadu
+[^1]: Contemporary orthography would render this as Kariavili near Mandaikadu
 
 [^2] (1837) Demon Worship in South Travancore, _The Missionary Magazine and Chronicle, September 1837, pp. 441-444: <https://books.google.co.uk/books?id=zfUDAAAAQAAJ&newbks=1&newbks_redir=0&dq=evangelical%20magazine%20and%20missionary%20chronicle&pg=PA441#v=onepage&q&f=false>_
 
