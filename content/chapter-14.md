@@ -12,49 +12,6 @@ abstract:
 page_pdf_output: true
 ---
 
-{% figure "fig-c14-1" %}
-
-{% figure "fig-c14-2" %}
-
-{% figure "fig-c14-3" %}
-
-{% figure "fig-c14-4" %}
-
-{% figure "fig-c14-5" %}
-
-{% figure "fig-c14-6" %}
-
-{% figure "fig-c14-7" %}
-
-{% figure "fig-c14-8" %}
-
-{% figure "fig-c14-9" %}
-
-{% figure "fig-c14-10" %}
-
-{% figure "fig-c14-11" %}
-
-{% figure "fig-c14-12" %}
-
-{% figure "fig-c14-13" %}
-
-{% figure "fig-c14-14" %}
-
-{% figure "fig-c14-15" %}
-
-{% figure "fig-c14-16" %}
-
-{% figure "fig-c14-17" %}
-
-{% figure "fig-c14-18" %}
-
-{% figure "fig-c14-19" %}
-
-{% figure "fig-c14-20" %}
-
-{% figure "fig-c14-21" %}
-
-
 Around 300 Christians gathered in the early morning at a temple ‘in a beautiful grove of jack and Palmyra trees, and surrounded by several fine banyans’.[^1] [^2] At its heart were two reclining figures, six feet long and made from sun baked brick, plastered with chunam (highly polished plaster).
 
 According to the Rev. Charles Mead, who returned to England soon afterwards, they represented Pattera-Kalee (Bhadrakali) and Veerapathiran (Virabhadra), female and male emanations of the wrath of Shiva, with ‘faces painted to give them a terrific appearance’. Their faces were soon removed with an Indian spade (mamatee). While paid labourers cleared ‘the rubbish’:
@@ -276,7 +233,47 @@ It seems important to also acknowledge the influence of my students, in conversa
 
 I would also like to acknowledge Aayushi Gupta, with whom I had a number of extremely stimulating conversations about female Zenana missions in India while she was developing her PhD proposal. This chapter is intended to offer something of a prehistory for that movement.
 
+{% figure "fig-c14-1" %}
 
+{% figure "fig-c14-2" %}
+
+{% figure "fig-c14-3" %}
+
+{% figure "fig-c14-4" %}
+
+{% figure "fig-c14-5" %}
+
+{% figure "fig-c14-6" %}
+
+{% figure "fig-c14-7" %}
+
+{% figure "fig-c14-8" %}
+
+{% figure "fig-c14-9" %}
+
+{% figure "fig-c14-10" %}
+
+{% figure "fig-c14-11" %}
+
+{% figure "fig-c14-12" %}
+
+{% figure "fig-c14-13" %}
+
+{% figure "fig-c14-14" %}
+
+{% figure "fig-c14-15" %}
+
+{% figure "fig-c14-16" %}
+
+{% figure "fig-c14-17" %}
+
+{% figure "fig-c14-18" %}
+
+{% figure "fig-c14-19" %}
+
+{% figure "fig-c14-20" %}
+
+{% figure "fig-c14-21" %}
 
 {% backmatter %}
 
