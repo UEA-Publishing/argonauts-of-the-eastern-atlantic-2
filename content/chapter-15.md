@@ -31,7 +31,7 @@ As the paddle steamer approached the _Camden_, anchored at Gravesend in Kent, th
 
 Ten missionaries, eight missionary wives, as well as the eldest son of John Williams together with his new wife transferred to the _Camden,_ and Baxter sketched the moment the final sail unfurled as the _Camden_ began to move, water lapping at her bow. For around ten miles, the _City of Canterbury_ continued beside the _Camden_, allowing him time to finish the sketch, including details of the fully laden ship, with three flags flying from her masts.
 
-That on the fore-mast carried the Society’s emblem – a dove with a green sprig in its beak and that at the stern features the word ‘Bethel’, ‘house of God’ in Hebrew, the name given by Jacob to the place he dreamed of a stairway stretching between Heaven and Earth.[^5]
+That on the fore-mast carried the Society’s emblem: a dove with a green sprig in its beak and that at the stern features the word ‘Bethel’, ‘house of God’ in Hebrew, the name given by Jacob to the place he dreamed of a stairway stretching between Heaven and Earth.[^5]
 
 Atop the main-mast, the highest point of the ship, the words on the flag are harder to make out, partly because they are reversed in the colour image and partly because they are not English words. The ‘Ladies of Rev. W. Woodhouse’s congregation, Swansea’ had made a flag for the Camden with the Welsh inscription _Cenad Hedd_, meaning ‘Messenger of Peace’.[^6]
 
@@ -41,15 +41,15 @@ There the image of the _Camden_ was printed above a caption ‘_And they accompa
 
 In _Farewell to Viriamu_ (the Tahitian version of Williams’ name), a booklet given to those on the _City of Canterbury_, the first hymn referred to Williams as ‘APOSTLE OF THE ISLES’.[^8] The text which followed Baxter’s engraving in the May 1838 _Missionary Magazine_ declared the significance of his departure in national rather than biblical terms:
 
-England stands pre-eminent among the nations of the earth as a maritime power… But never, since the departure of the Duff, has a vessel left our shores under circumstances and for objects entirely similar to those which have marked the departure of the Camden.[^9]
+> England stands pre-eminent among the nations of the earth as a maritime power… But never, since the departure of the Duff, has a vessel left our shores under circumstances and for objects entirely similar to those which have marked the departure of the Camden.[^9]
 
 If John Williams was a living Apostle, following a path set by St. Paul, his departure in the _Camden_ demanded commemoration. Working with John Snow, the publisher of _Missionary Enterprises,_ who, together with Prout, remained with Williams on the _Camden_ until it left English waters a week later, Baxter created a colour print to be sold in its own right.[^10] Adverts at the front of Snow’s publications listed this alongside his books as follows:
 
-Dedicated to the London Missionary Society, price 4s.
+_Dedicated to the London Missionary Society, price 4s._
 
-A SPLENDID COLOURED PRINT,
+_A SPLENDID COLOURED PRINT,_
 
-Representing the Departure of the CAMDEN Missionary Ship, with the Rev. J. WILLIAMS and Missionaries for the South Seas, from the River Thames; sketched on the spot, and printed in Oil Colours by G. BAXTER, Patentee. Size of Print, including tinted board, 10 inches by 14 inches.[^11]
+_Representing the Departure of the CAMDEN Missionary Ship, with the Rev. J. WILLIAMS and Missionaries for the South Seas, from the River Thames; sketched on the spot, and printed in Oil Colours by G. BAXTER, Patentee. Size of Print, including tinted board, 10 inches by 14 inches._[^11]
 
 The board on which the print was mounted included many of the same details, as well as a title in bold letters, **The Departure of the Camden, Missionary Ship,** the title of this chapter.
 
