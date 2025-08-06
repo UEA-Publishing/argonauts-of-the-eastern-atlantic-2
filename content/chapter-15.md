@@ -109,17 +109,17 @@ Fauea, who had taken Williams to Samoa, was supposed to tie a stone to _Papo_ be
 
 Beyond this ‘god of war’, Williams suggested that Samoans ‘generally have no idols to destroy’.[^32] The Chiefs were nevertheless persuaded to break their taboos by consuming their _etu_, the bird, fish or reptile to which they were spiritually bound. Williams suggested that ‘like the ancient Miletans’ they expected to die as a consequence, but when no harm came to them, acknowledged ‘that Jehovah was the true God’.[^33]
 
-On the way back to Rarotonga, having rescued the wife of Puna, the evangelist to Rurutu (Chapter 12), who had been marooned at Niuatoputapu attempting to return to Ra’iatea, the _Messenger of Peace_ suddenly filled with water. Assisted by Samuel Henry and the crew of the English whaler _Elizabeth,_ who happened to be at Tonga, the source of the leak was discovered – a hole in the keel which had been filled with mud and stones during the hurricane.
+On the way back to Rarotonga, having rescued the wife of Puna, the evangelist to Rurutu (Chapter 12), who had been marooned at Niuatoputapu attempting to return to Ra’iatea, the _Messenger of Peace_ suddenly filled with water. Assisted by Samuel Henry and the crew of the English whaler, _Elizabeth,_ who happened to be at Tonga, the source of the leak was discovered – a hole in the keel which had been filled with mud and stones during the hurricane.
 
 After several months at Rarotonga in early 1833, where Williams continued working on translating the New Testament alongside other missionaries, he returned to Tahiti in July 1833. Meeting a weaver, sent from London by the Directors, Williams delivered him to Rarotonga before returning to Ra’iatea. When a British whaling ship, _Sir Andrew Hammond,_ arrived at the island, ready to make a return journey, Williams, his wife and three children took berths on board, sailing via Cape Horn.
 
-Arriving in Britain on 11 June 1834, nearly eighteen years after they had left at the age of twenty, John and Mary Williams discovered a metropolis transforming almost as fast as the Pacific islands they had left. One significant change, after nearly four decades of London Missionary Society operations, was the increased number of people in Britain with experience of overseas postings.
+Arriving in Britain on 11 June 1834, nearly 18 years after they had left at the age of 20, John and Mary Williams discovered a metropolis transforming almost as fast as the Pacific islands they had left. One significant change, after nearly four decades of London Missionary Society operations, was the increased number of people in Britain with experience of overseas postings.
 
 William Ellis had been Foreign Secretary since 1832 (Chapter 13), Martha Mault had been promoting female education since the previous September (Chapter 14), while other former missionaries, such as Henry Townley (Chapter 6), had returned from India to lead British churches.
 
 When the income of the Society had fallen off rapidly from a peak in 1830, the Directors recognised the potential for missionary speakers to inspire donations. In early 1833, Richard Knill had been invited by William Ellis to return from St Petersburg in Russia to ‘promote the interest of the Society’ , not only among existing auxiliaries:
 
-but also to organise new societies, wherever practicable, and thus bring under contribution several extensive districts, which are at present yielding very inadequate pecuniary aid towards the great object of evangelising the world.[^34]
+> but also to organise new societies, wherever practicable, and thus bring under contribution several extensive districts, which are at present yielding very inadequate pecuniary aid towards the great object of evangelising the world.[^34]
 
 With the abolition of slavery in British colonies approaching in August 1834, Knill’s fundraising had focussed on establishing missions among those who would soon be emancipated. The close links between Missionary work and abolition had been illustrated at the Society’s Annual Meeting in May 1834 which was chaired by Thomas Fowell Buxton, M.P. and leader of the parliamentary anti-slavery lobby.[^35]
 
@@ -129,15 +129,15 @@ Speaking at Carr’s Lane Chapel, where ‘Pomare’s Idol Gods’ had been exhi
 
 Williams’ descriptions of the Pacific emphasised its spiritual darkness, dwelling on ‘idol-worship’, infanticide and human sacrifice, but blended this rhetorical _othering_ with what Jane Samson has called _brothering_ – a parallel emphasis on a potential for redemption.[^38] In discussing human sacrifice, Williams asked his audience to imagine their distress if their own husbands and fathers had been selected as a victim, declaring:
 
-And do not for a moment imagine, my dear hearers, that because these wives, and sons and daughters, are of a different colour from yourselves, that they are without natural affection. ‘_God hath made of one blood all that dwell upon the earth’._[^39]
+> And do not for a moment imagine, my dear hearers, that because these wives, and sons and daughters, are of a different colour from yourselves, that they are without natural affection. ‘_God hath made of one blood all that dwell upon the earth’._[^39]
 
-Alongside speaking at meetings, Williams engaged the Directors in London, persuading them to support the establishment of a theological college at Rarotonga but struggled to get them to take on the expense of a missionary ship. An account of the Tahitian missions, written for the Directors, was printed in the _Missionary Magazine_ in April 1835_,_ where he was introduced in relation to a history of sending ‘idols’ home as indications of conversion:
+Alongside speaking at meetings, Williams engaged the Directors in London, persuading them to support the establishment of a theological college at Rarotonga but struggled to get them to take on the expense of a missionary ship. An account of the Tahitian missions, written for the Directors, was printed in the _Missionary Magazine_ in April 1835, where he was introduced in relation to a history of sending ‘idols’ home as indications of conversion:
 
-By the enterprise and diligence of Mr. Williams in conjunction with his brethren, the gospel has been extended to the numerous islands situated to the west and south of Tahiti, where idolatry has been abolished, whence coffins-full of _dead gods_ have been shipped for England, and where flourishing churches now exist.[^40]
+> By the enterprise and diligence of Mr. Williams in conjunction with his brethren, the gospel has been extended to the numerous islands situated to the west and south of Tahiti, where idolatry has been abolished, whence coffins-full of _dead gods_ have been shipped for England, and where flourishing churches now exist.[^40]
 
 Williams acknowledged many challenges, two decades after the initial conversion of Tahiti, including the widespread use of ‘ardent spirits’, but suggested this was not unexpected since:
 
-Christianity imposes great restraints upon a people who have been habituated to the unrestrained influence of passion; this was restrained while the excitement of novelty lasted, but as soon as that subsided, these restraints became irksome.[^41]
+_Christianity imposes great restraints upon a people who have been habituated to the unrestrained influence of passion; this was restrained while the excitement of novelty lasted, but as soon as that subsided, these restraints became irksome._[^41]
 
 Nevertheless, he asserted that ‘in all the lamentable defections, from Christian doctrine and purity… I have never heard of _one_ individual that has ever thought of returning to the worship of their former gods’.[^42]
 
@@ -153,7 +153,7 @@ In December 1835, in place of its usual portrait, the _Evangelical Magazine_ eve
 
 During 1836, John Williams continued to tour the country, addressing meetings of Missionary Auxiliaries (often five or six a week), while working on his book. In more informal settings, Ebenezer Prout remembered him bringing out cases ‘of curiosities which he had brought from the islands’ in order to speak at length about:
 
-A singular medley of idols, dresses, ornaments, domestic utensils, implements of industry and weapons of war; and not infrequently, Mr Williams arrayed his own portly person in the native tiputa and mat, fixed a spear by his side, and adorned his head with the towering cap of many colours, worn on high days by the chiefs; and, as he marched up and down his parlour, he was as happy as any one of the guests whose cheerful mirth he had thus excited. To this exhibition, he would add explanations of each relic; naming and sometimes describing the island from which he obtained it; the use of the object, or the customs connected with it; and various other interesting particulars.[^51]
+> A singular medley of idols, dresses, ornaments, domestic utensils, implements of industry and weapons of war; and not infrequently, Mr Williams arrayed his own portly person in the native tiputa and mat, fixed a spear by his side, and adorned his head with the towering cap of many colours, worn on high days by the chiefs; and, as he marched up and down his parlour, he was as happy as any one of the guests whose cheerful mirth he had thus excited. To this exhibition, he would add explanations of each relic; naming and sometimes describing the island from which he obtained it; the use of the object, or the customs connected with it; and various other interesting particulars.[^51]
 
 Such items were sometimes given to guests who displayed a particular interest in them, and there are examples in museum collections such as the Field Museum in Chicago and the Auckland Museum, which seem to have been given to Prout by Williams.
 
