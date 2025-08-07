@@ -1,7 +1,8 @@
 ---
 label: 16
 title: "Idol taken in the late war, from the chief temple at Chusan"
-subtitle: 
+subtitle: Harbour of Chusan, 4 July 1840
+
 layout: essay
 order: 45
 classes:
@@ -15,7 +16,7 @@ page_pdf_output: true
 
 As the paddle steamer _Atalanta_ towed the 74 gun flagship of an invading fleet, _HMS Wellesley,_ into the harbour, she struck a sand bank. Those on deck thought the smaller steamer would be smashed ‘to a thousand shivers’ but the _Wellesley_ also caught the bottom, only grazing the steamer’s side and knocking off her starboard paddle-box.[^1]
 
-Zhoushan’s shoreline appeared to be covered by a ‘forest of merchant-craft’, with eleven ‘war-junks… easily distinguished by their flaunting streamers, red-muzzled guns, and painted poops’ forming a protective line in front of them.[^2] The _Wellesley_ anchored opposite the town of Dinghai. The _Conway_ (26 guns), _Alligator_ (28 guns) and _Rattlesnake_ (troopship) followed her into the harbour and took up positions near a hill with a temple on its summit.[^3]
+Zhoushan’s shoreline appeared to be covered by a ‘forest of merchant-craft’, with 11 ‘war-junks… easily distinguished by their flaunting streamers, red-muzzled guns, and painted poops’ forming a protective line in front of them.[^2] The _Wellesley_ anchored opposite the town of Dinghai. The _Conway_ (26 guns), _Alligator_ (28 guns) and _Rattlesnake_ (troopship) followed her into the harbour and took up positions near a hill with a temple on its summit.[^3]
 
 John Fletcher, Captain of the _Wellesley_, Robert Jocelyn, Military Secretary, and Karl Gützlaff, their translator (and a missionary), boarded the ‘Chumpin’ or Admiral’s junk, three tiger’s heads painted on its stern. Unwelcome visitors, they were nevertheless greeted ‘with great civility’, told the Admiral was on shore, and offered tea.[^4]
 
@@ -47,11 +48,11 @@ Severing his links with the Dutch Missionary Society, a despondent Gützlaff mad
 
 In December 1831, Gützlaff arrived at Macao, having travelled the length of China’s coast with a group of Chinese sailors he later described as ‘from the most debased class of people’:
 
-The major part of them are opium-smokers, gamblers, thieves, and fornicators. They will indulge in the drug till all their wages are squandered; they will gamble as long as a farthing remains; they will pull off their only jacket and give it to a prostitute… A person who has lived among these men, would be best qualified to give a description of Sodom and Gomorrah, as well as to appreciate the blessings of Christianity…[^12]
+> The major part of them are opium-smokers, gamblers, thieves, and fornicators. They will indulge in the drug till all their wages are squandered; they will gamble as long as a farthing remains; they will pull off their only jacket and give it to a prostitute… A person who has lived among these men, would be best qualified to give a description of Sodom and Gomorrah, as well as to appreciate the blessings of Christianity…[^12]
 
 Nevertheless, Gützlaff’s immersion in Chinese language and customs gave him a fluency and perspective unparalleled among other Europeans. He was not, however, particularly suited to working with them. Robert Morrison, with whom Gützlaff stayed in Macao, wrote to the LMS treasurer in London, that:
 
-He would not work well, I fear, with others. Secondly, he would be insubordinate and, at first, domineering. He is unaccustomed to the yoke of social intercourse, but seems since he came to improve.[^13]
+_He would not work well, I fear, with others. Secondly, he would be insubordinate and, at first, domineering. He is unaccustomed to the yoke of social intercourse, but seems since he came to improve._[^13]
 
 By February 1832, Gützlaff had been employed as translator and physician on an East India Company vessel, the _Lord Amherst_. This was to sail as far as Korea “to ascertain how far the northern ports of this Empire may gradually be opened to British commerce’.[^14]
 
