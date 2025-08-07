@@ -54,7 +54,7 @@ Nevertheless, Gützlaff’s immersion in Chinese language and customs gave him a
 
 _He would not work well, I fear, with others. Secondly, he would be insubordinate and, at first, domineering. He is unaccustomed to the yoke of social intercourse, but seems since he came to improve._[^13]
 
-By February 1832, Gützlaff had been employed as translator and physician on an East India Company vessel, the _Lord Amherst_. This was to sail as far as Korea “to ascertain how far the northern ports of this Empire may gradually be opened to British commerce’.[^14]
+By February 1832, Gützlaff had been employed as translator and physician on an East India Company vessel, the _Lord Amherst_. This was to sail as far as Korea 'to ascertain how far the northern ports of this Empire may gradually be opened to British commerce’.[^14]
 
 Captain Lindsay’s report on the _Lord Amherst’s_ journey, together with a supplementary section by Gützlaff, was published in London in 1833. Seemingly anticipating the subsequent invasion, details were given of Chinese harbours and rivers, reporting that their defences were often in disrepair and the soldiers poorly trained and equipped.
 
@@ -64,21 +64,21 @@ While British manufactures only traded for comparatively low prices, opium was e
 
 By October 1832, Gützlaff had been hired as an interpreter and guide for the _Sylph_, an armed clipper that was built in India for the Parsi merchant Rustomji Cowasji Banaji. The _Sylph_ had recently arrived from Calcutta with a cargo of opium and was chartered by the traders William Jardine and James Matheson to seek out new trading locations along the Chinese coast.[^19]
 
-Gützlaff’s account of this third voyage, published in London in 1834 as the final part of his _Journal of Three Voyages Along the Coast of China_, notes that he joined the _Sylph_ only _‘_After much consultation with others, and a conflict in my own mind’.[^20] His account of the voyage, in an uncharacteristically diplomatic manner, makes no mention of the opium that was sold from the vessel, which as translator he presumably negotiated prices for.
+Gützlaff’s account of this third voyage, published in London in 1834 as the final part of his _Journal of Three Voyages Along the Coast of China_, notes that he joined the _Sylph_ only ‘After much consultation with others, and a conflict in my own mind’.[^20] His account of the voyage, in an uncharacteristically diplomatic manner, makes no mention of the opium that was sold from the vessel, which as translator he presumably negotiated prices for.
 
-Gützlaff does state, however, that he took and distributed three times the number of religious books on this trip as he had on his earlier voyages, providing ‘an opportunity of scattering the light of divine truth’.[^21] The Sylph returned to Lintin Island (Nei Lingding Island), the centre for opium trading near Macau, on 19 April 1833.[^22]
+Gützlaff does state, however, that he took and distributed three times the number of religious books on this trip as he had on his earlier voyages, providing ‘an opportunity of scattering the light of divine truth’.[^21] The _Sylph_ returned to Lintin Island (Nei Lingding Island), the centre for opium trading near Macau, on 19 April 1833.[^22]
 
 In December 1833, on renewal of its Royal Charter, the East India Company lost its monopoly and therefore control of British trade with China, rendering opium trading essentially unregulated and, as a result, extremely competitive. Gützlaff continued to be employed by Jardine Matheson & Company, who were determined to dominate the trade, making at least four more voyages between 1833 and 1835.[^23]
 
-One of these journeys had the additional purpose of obtaining tea seeds and plants, as well as information about their cultivation and processing. There was concern that Britain’s substantial market for tea, worth £4 million a year to the East India Company and the source of 7% of Britain’s public revenue in excise duties, created a dependency on a potentially unstable supply at Canton.[^24]
+One of these journeys had the additional purpose of obtaining tea seeds and plants, as well as information about their cultivation and processing. There was concern that Britain’s substantial market for tea, worth four million pounds a year to the East India Company and the source of 7 per cent of Britain’s public revenue in excise duties, created a dependency on a potentially unstable supply at Canton.[^24]
 
 Attempts to reduce the unidirectional transfer of European silver to China had resulted in a triangular trade, in which opium grown in India was illegally traded to China by ‘country traders’ such as Jardine Matheson & Co. The narcotics trade between India and China remained officially independent of the East India Company, who nevertheless used the resulting silver to purchase Chinese tea. This model was obviously disrupted when the East India Company was converted into what became an essentially administrative body, responsible principally for the government of India.[^25]
 
-The establishment of Indian tea plantations offered a way for the Company to short-circuit the Chinese trade. George J. Gordon was sent by the East India Company’s Tea Committee to China from India in June 1834, where he engaged Jardine Matheson & Co to assist him.[^26]  He secretly travelled into the hills of Fujian with Gützlaff as translator, seeking tea seeds, plants and cultivators to send to India. Most of the seedlings ultimately died, and tea production in Assam proceeded using local plants but neverthrless drew on the technical knowledge of Chinese workers.[^27]
+The establishment of Indian tea plantations offered a way for the Company to short-circuit the Chinese trade. George J. Gordon was sent by the East India Company’s Tea Committee to China from India in June 1834, where he engaged Jardine Matheson & Co. to assist him.[^26]  He secretly travelled into the hills of Fujian with Gützlaff as translator, seeking tea seeds, plants and cultivators to send to India. Most of the seedlings ultimately died, and tea production in Assam proceeded using local plants but neverthrless drew on the technical knowledge of Chinese workers.[^27]
 
 Following the end of East India Company’s monopoly in China, Robert Morrison’s services as translator were transferred to Lord Napier, the newly appointed Chief Superintendent of Trade for the British Government. Arriving at Canton in late July 1834 without an official permit, Napier attempted to establish direct diplomatic relations with Chinese officials, in which Britain, having established global naval dominance alongside a substantial Asian empire, sought to be treated as an equal.
 
-Napier had Robert Morrison direct a letter directly to Lu Kun, Governor-General of Liangguang, rather than going through the Canton Hong merchants as the East India Company had customarily done.[^28] Lu Kun refused to accept private letters from an ‘outside barbarian’, creating a diplomatic impasse. Robert Morrison died on 1 August 1834, within a week of Napier’s arrival, and was replaced as official translator by his twenty-year-old son, John Robert Morrison.
+Napier had Robert Morrison direct a letter directly to Lu Kun, Governor-General of Liangguang, rather than going through the Canton Hong merchants as the East India Company had customarily done.[^28] Lu Kun refused to accept private letters from an ‘outside barbarian’, creating a diplomatic impasse. Robert Morrison died on 1 August 1834, within a week of Napier’s arrival, and was replaced as official translator by his 20 year old son, John Robert Morrison.
 
 In August 1834, in the midst of growing frustration, Lord Napier wrote to London suggesting, for the first time, that the British might take possession of Hong Kong island to establish a trading entrepôt. When Lu Kun halted British and American trade, ordering Chinese staff to leave the factories, Napier ordered two British frigates and a cutter to approach Canton, exchanging fire with Chinese forces at Whampoa.
 
@@ -86,7 +86,7 @@ British and Indian merchants ultimately pressurised Napier, who was seriously il
 
 In December, Gützlaff was recruited as a second Chinese interpreter by John Francis Davis, Napier’s replacement as British Superintendent of Trade. Davis was the son of an East India Company director and had worked at Canton as a young man, accompanying Lord Amherst’s embassy to Peking in 1816 with Robert Morrison (Chapter 9). Peaceful trading relations resumed at Canton, at least for a time.[^30]
 
-In 1835, James Matheson (of Jardine Matheson & Co) traveled to London along with Napier’s widow in an attempt to drum up support for a war against China. Ultimately dismissed by the Duke of Wellington, Britain’s Foreign Secretary at the time, Matheson nevertheless raised the profile of China among British statesmen, not least through the publication of his book _The Present Position of Prospects of the British Trade with China_, a free-trade tract demanding ‘the full countenance and support of the British government’.[^31]
+In 1835, James Matheson (of Jardine Matheson & Co.) travelled to London along with Napier’s widow in an attempt to drum up support for a war against China. Ultimately dismissed by the Duke of Wellington, Britain’s Foreign Secretary at the time, Matheson nevertheless raised the profile of China among British statesmen, not least through the publication of his book _The Present Position of Prospects of the British Trade with China_, a free-trade tract demanding ‘the full countenance and support of the British government’.[^31]
 
 In September 1835, as a mark of Gützlaff’s growing celebrity in Europe, the _Evangelical Magazine_ announced the publication of a print for sale, showing him ‘in the dress of a Fokien Sailor’. This was based on a painting made by George Chinnery at Canton, which had recently been exhibited at the Royal Academy in London.[^35]
 
@@ -104,19 +104,19 @@ This showed Medhurst, together with Choo Ti Lang, a Confucian scholar from Guang
 
 Summarising the British reaction to Gützlaff’s accounts of his voyages, Medhurst suggested that:
 
-There were not a few, also, who insinuated that his lively imagination, and confident expectation, had led him to give too high a colouring to things; while his zeal had prompted him to state what he wished or contemplated, rather than what he actually experienced.[^36]
+> There were not a few, also, who insinuated that his lively imagination, and confident expectation, had led him to give too high a colouring to things; while his zeal had prompted him to state what he wished or contemplated, rather than what he actually experienced.[^36]
 
 Medhurst presented his own voyage as intended to ‘set this question at rest’ as well as ’to ascertain the openings which existed, for the propagation of the Gospel, in that empire’.[^37] He made it very clear he felt that ‘All wise and good men, also, consider the cause of God contaminated’ by a connections with opium vessels:
 
-But the most serious objection is, that the Chinese bring it as the main argument against Christianity, that its professors vend opium; with how much greater force would they urge this objection, should a missionary embark in an opium ship, and carry out boxes of tracts in company with chests of opium?[^38]
+> But the most serious objection is, that the Chinese bring it as the main argument against Christianity, that its professors vend opium; with how much greater force would they urge this objection, should a missionary embark in an opium ship, and carry out boxes of tracts in company with chests of opium?[^38]
 
 Medhurst was clear that ‘the evils connected with the disposal of opium’ on such a voyage ‘were likely to be greater, more extensive, and more durable, than the good that might be accomplished by the distribution of books’.[^39] Such objections betray a fairly obvious criticism of the approach taken by Gützlaff, though how apparent this would have been to all contemporary readers is unclear.[^40]
 
 Choo Tih Lang was baptised at Hackney on 20 July 1838, having recently joined the crowds to see the coronation of Queen Victoria.[^41] At the end of that month, just over three months after the departure of the Camden (Chapter 15), he sailed from Gravesend with Medhurst and his family, as well as William Lockhart, recently appointed as a  medical missionary to China.[^42] The first of the Society’s medical missionaries, Archibald Ramsay, had established a Medical Mission at Neyyoor in Travancore (Chapter 14), only months earlier.[^43]
 
-In September 1838, most likely with the assistance of the London agents for Jardine Matheson & Co, Gützlaff published his own two-volume book, _China Opened._ This opened with an advertisement declaring:
+In September 1838, most likely with the assistance of the London agents for Jardine Matheson & Co., Gützlaff published his own two-volume book, _China Opened._ This opened with an advertisement declaring:
 
-China is now happily open to our commerce; China will soon be open to our more general intercourse: and China will eventually be open to Missionary enterprise. It is therefore a favourable and indicative circumstance, that it is being opened to our understanding by a variety of useful publications.[^44]
+> China is now happily open to our commerce; China will soon be open to our more general intercourse: and China will eventually be open to Missionary enterprise. It is therefore a favourable and indicative circumstance, that it is being opened to our understanding by a variety of useful publications.[^44]
 
 Gützlaff seems to have regarded missionary and trading interests as essentially aligned in their efforts to ‘open’ China, whereas Medhurst was rather more cautious about entangling evangelical efforts with those of opium dealers. This difference between the two men seems to have marked an emerging division with Britain’s evangelical communities.
 
@@ -134,15 +134,15 @@ News of these events began arriving in London during late summer, and on 27 Sept
 
 It took time to raise a fleet from across the Empire, but twenty-four ships from England, the Cape, India, and New South Wales sailed from Singapore to Macao at the end of May 1840. What they didn’t have, however, was anyone who could speak Chinese.
 
-John Robert Morrison and Charles Gützlaff were seconded to the fleet as translators, along with Robert Thom, an employee of Jardine Matheson & Company. With the entrance to Pearl River and Canton blockaded, a number of ships sailed north to Chusan. On the 3[^rd] of July, the _Atalanta_ made its way into the harbour to establish a route.
+John Robert Morrison and Charles Gützlaff were seconded to the fleet as translators, along with Robert Thom, an employee of Jardine Matheson & Co. With the entrance to Pearl River and Canton blockaded, a number of ships sailed north to Chusan. On the 3 July, the _Atalanta_ made its way into the harbour to establish a route.
 
-The Chinese delegation left the Wellesley at around 8pm on 4 July 1840, but sounds of activity and the sight of lanterns moving about on the shore lasted all night. Chinese trading ships were allowed to sail between the British ships ‘laden half way up their masts with good and merchandise, and crowded with women and children… although in their cargoes many a captain might have made their fortune’.[^48]
+The Chinese delegation left the _Wellesley_ at around 8pm on 4 July 1840, but sounds of activity and the sight of lanterns moving about on the shore lasted all night. Chinese trading ships were allowed to sail between the British ships ‘laden half way up their masts with goods and merchandise, and crowded with women and children… although in their cargoes many a captain might have made their fortune’.[^48]
 
 According to official despatches, sent by Commodore Bremer, by morning Chinese commanders:
 
-had placed a body of troops on the the Temple hill, together with three guns in position, twenty-one guns were in line on the different wharfs, and on a round tower of solid masonry they had five guns. The war junks were hauled on shore in line, with their rudders unhung, and presented thirty-four guns, and forty-five large gingals.[^49]
+> had placed a body of troops on the the Temple hill, together with three guns in position, twenty-one guns were in line on the different wharfs, and on a round tower of solid masonry they had five guns. The war junks were hauled on shore in line, with their rudders unhung, and presented thirty-four guns, and forty-five large gingals.[^49]
 
-High tide at noon allowed the remaining men-of-war (_Cruiser_ and _Algerine,_ 18 guns each_),_ as well as a number of transport ships to enter the harbour. By half-past two, with landing troops waiting in boats, the Wellesley fired a single shot at the round masonry tower. This was answered by the Chinese guns and responded to by a cannonade lasting around eight minutes, the British ships having between them over 200 guns.
+High tide at noon allowed the remaining men-of-war (_Cruiser_ and _Algerine,_ 18 guns each_), as well as a number of transport ships to enter the harbour. By half-past two, with landing troops waiting in boats, the Wellesley fired a single shot at the round masonry tower. This was answered by the Chinese guns and responded to by a cannonade lasting around eight minutes, the British ships having between them over 200 guns.
 
 When the smoke cleared, the shoreline had been cleared of people and the landing force arrived on the beach where ‘bodies, bows and arrows, broken spears and guns’ were ‘the sole occupants of the field’.[^50] The Eighteenth Royal Irish Regiment took possession of the temple on the hill, but the city walls of Tinghai were not breached until the following morning.
 
@@ -150,17 +150,17 @@ Entering the largely abandoned town with Gützlaff, Jocelyn found placards on ho
 
 In his published account, Jocelyn recorded that ‘many of these fairy shoes were appropriated by us as lawful _loot’._ A footnote in the published account explains that ‘loot’ is ‘A Bengalee word for plunder, at which, by-the-bye, they are peculiar adepts’.[^52] Miniature women’s shoes were by no means the only things plundered, however. An article in the Indian Gazette declared that after troops were landed ‘a more complete pillage could not be conceived than then took place’:
 
-Every house was indiscriminately broken open; every drawer and box ransacked; the streets strewed with fragments of furniture, pictures, chairs, tables, grain of all sorts, &c; and the whole set off by the dead, or living bodies of the inhabitants, who had been unable to leave their city from the wounds received from our merciless guns….
+> Every house was indiscriminately broken open; every drawer and box ransacked; the streets strewed with fragments of furniture, pictures, chairs, tables, grain of all sorts, &c; and the whole set off by the dead, or living bodies of the inhabitants, who had been unable to leave their city from the wounds received from our merciless guns….
 
 It went on:
 
-The plunder was carried to an extreme — that is to say, did not cease till there was nothing left to take; and the plunderers will no doubt be able, on our return to Calcutta, to place at their friends’ disposal, and for the ornamenting of their houses, trophies gained, not from Chinese soldiers or from a field of battle, but from the harmless and peaceable inhabitants and tradesmen of a city doomed to destruction by our men-of-war; who, a few days previous, issued a very strict order to all the transports to use forbearance towards all the natives in our dealings with them, as we did not war with the people, but required reparation at the hands of the Chinese Government.[^53]
+> The plunder was carried to an extreme — that is to say, did not cease till there was nothing left to take; and the plunderers will no doubt be able, on our return to Calcutta, to place at their friends’ disposal, and for the ornamenting of their houses, trophies gained, not from Chinese soldiers or from a field of battle, but from the harmless and peaceable inhabitants and tradesmen of a city doomed to destruction by our men-of-war; who, a few days previous, issued a very strict order to all the transports to use forbearance towards all the natives in our dealings with them, as we did not war with the people, but required reparation at the hands of the Chinese Government.[^53]
 
 This passage was to be reprinted many times, particularly by those who argued that the ‘opium war’, with its use of what came to be known as ‘gunboat diplomacy’, had placed a moral stain on the British nation.⁠[^54]
 
 Many evangelicals continued to campaign against the opium trade, with the Missionary Museum displaying opium pipes, as well a series of:
 
-Six etchings by a Chinese artist named Sunqua, exhibiting the Progress of the Opium Smoker from health and prosperity, to misery and degradation, and forming together a counterpart to Hogarth’s famous set of the ‘Rake’s Progress’. Presented by Rev. Micaiah Hill of Berhampore.[^55]
+> Six etchings by a Chinese artist named Sunqua, exhibiting the 'Progress of the Opium Smoker' from health and prosperity, to misery and degradation, and forming together a counterpart to Hogarth’s famous set of the ‘Rake’s Progress’. Presented by Rev. Micaiah Hill of Berhampore.[^55]
 
 These seem to have painted in early 1837, a detailed description appearing in April of that year in _The Chinese Repository_, a periodical published by American Protestant missionaries at Canton.[^56] Nevertheless, the anti-opium stance of the London Missionary Museum did not prevent it openly acknowledging that at least one of the items displayed in the case alongside Sunqua’s paintings was the result of looting at Zhoushan.
 
@@ -170,7 +170,7 @@ Although disappointed to find no bullion in the public treasury, they neverthele
 
 As part of his description of the aftermath of the invasion, Jocelyn described seeing temple figures ‘surpassed by none in China’:
 
-In the great temple, some of the figures in the principal hall are upwards of fifteen feet high, handsomely wrought, standing in the centre on a lofty pedestal, while around the walls are small images of the same description in all sorts of grotesque attitudes. We were particularly struck by one, the figure of a woman, with a child apparently issuing from her breast, and a glory round her head. It seems difficult to say from what this has arisen, unless for pictures of the Virgin, which the Chinese formerly obtained from the Jesuit missionaries, and have this distorted.
+> In the great temple, some of the figures in the principal hall are upwards of fifteen feet high, handsomely wrought, standing in the centre on a lofty pedestal, while around the walls are small images of the same description in all sorts of grotesque attitudes. We were particularly struck by one, the figure of a woman, with a child apparently issuing from her breast, and a glory round her head. It seems difficult to say from what this has arisen, unless for pictures of the Virgin, which the Chinese formerly obtained from the Jesuit missionaries, and have this distorted.
 
 Did the ‘Idol taken in the late war, from the chief temple at Chusan’ at the Missionary Museum form part of the military spoils of the invasion on 5 July 1840? Was it sent to the museum by missionary supporters in India, like ‘Burmese Idols’ had been following the invasion of Rangoon in 1824? Did it from part of an allocation of spoils to John Robert Morrison or Charles Gützlaff, in their role as interpreters? Or was it purchased by them at the auction organised by the prize agents after the battle?
 
@@ -178,11 +178,11 @@ I haven’t been able to establish any conclusive evidence to show how this item
 
 In addition, the LMS was quick to take advantage of the British capture of Zhoushan. William Lockhart worked briefly at the missionary hospital in Macao following his arrival in early 1839, but left for Batavia that August because of the developing conflict. At the end of August 1840, Lockhart, together with a number of other new missionary recruits, wrote to the Directors from Macao, expressing a hope that the ‘home government’ might suppress the opium trade, and suggesting a new Mission should be established in the Chusan Archipelago, by then under British control.[^58]
 
-The following month Lockhart sailed to Chusan to establish a missionary hospital, where, by the 14[^th] December he had treated 1600 people, many of them sickly soldiers.[^59] Gützlaff’s second wife sailed for Dinghai in October, to join her husband, who had been appointed Chief Magistrate. At the end of February 1841, Lockhart left Zhoushan after the British returned the island to Chinese hands, in exchange for the cession of Hong Kong and an indemnity of $6 million.[^60]
+The following month Lockhart sailed to Chusan to establish a missionary hospital, where, by 14 December he had treated 1600 people, many of them sickly soldiers.[^59] Gützlaff’s second wife sailed for Dinghai in October, to join her husband, who had been appointed Chief Magistrate. At the end of February 1841, Lockhart left Zhoushan after the British returned the island to Chinese hands, in exchange for the cession of Hong Kong and an indemnity of $6 million.[^60]
 
 The agreement, however, was rejected by both the Chinese Emperor and the British Government, so Chusan was invaded once again on 1 October 1841. The British conflict with China ultimately concluded at Nanjing in August 1842. There, once again, Gützlaff and Morrison played important parts in translating the treaty. This opened five Chinese ports to British trade (Canton or Guangzhou, Amoy or Xiamen, Fuchow or Fuzhou, Ningbo and Shanghai) and committed the Chinese government to an increased indemnity of $21 million.[^61]
 
-In an image commemorating the signing of the treaty aboard the _HMS Cornwallis,_ Gützlaff is once again shown near the centre, standing behind the table where the Chinese delegates are seated. His position is mirrored by John Robert Morrison although the translator sitting at the table was not a missionary, but Robert Thom, Jardine Matheson & Company’s translator.
+In an image commemorating the signing of the treaty aboard the HMS _Cornwallis,_ Gützlaff is once again shown near the centre, standing behind the table where the Chinese delegates are seated. His position is mirrored by John Robert Morrison although the translator sitting at the table was not a missionary, but Robert Thom, Jardine Matheson & Co.’s translator.
 
 Following the signing of the Treaty of Nanjing, Gütlaff returned to Zhoushan as Chief Magistrate, but when John Robert Morrison died in August 1843, he became Chinese secretary to the British government at Hong Kong. Zhoushan was eventually restored to China in July 1846 after the indemnity had been paid.
 
@@ -190,11 +190,11 @@ By that time, many felt that the island would have been a better long-term Briti
 
 When conflict with China once again tipped into military confrontation a decade and a half later, Zhoushan was occupied for a third time, on 21 April 1860. On that occasion, the published narrative of Garnet Wolseley noted that:
 
-The gods and various paraphernalia of idolatry were removed from the temples to places of security by the priests and other parties interested in their preservation.[^64]
+> The gods and various paraphernalia of idolatry were removed from the temples to places of security by the priests and other parties interested in their preservation.[^64]
 
-In late 1843, with news of the conflict in China still fresh in Europe, a twenty-five year old Karl Marx sat down to write the introduction for _A Contribution to the Critique of Hegel’s_ _Philosophy of Right._ Summarising the position developed by Ludwig Feuerbach in his 1841 book _Das Wesen des Christentums_ (translated as _The Essence of Christianity_ by George Eliot in 1854), he wrote that ‘the foundation of irreligious criticism is: _Man makes religion_, religion does not make man’.[^65] He then famously suggested:
+In late 1843, with news of the conflict in China still fresh in Europe, a 25 year old Karl Marx sat down to write the introduction for _A Contribution to the Critique of Hegel’s_ _Philosophy of Right._ Summarising the position developed by Ludwig Feuerbach in his 1841 book _Das Wesen des Christentums_ (translated as _The Essence of Christianity_ by George Eliot in 1854), he wrote that ‘the foundation of irreligious criticism is: _Man makes religion_, religion does not make man’.[^65] He then famously suggested:
 
-_Religious_ suffering is, at one and the same time, the _expression_ of real suffering and a _protest_ against real suffering. Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the _opium_ of the people.[^66]
+> _Religious_ suffering is, at one and the same time, the _expression_ of real suffering and a _protest_ against real suffering. Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the _opium_ of the people.[^66]
 
 Marx argued that religion should be abolished so that the illusory happiness of the people could be converted into a demand for real happiness, resulting from the abolition of conditions of life that need such illusions.
 
