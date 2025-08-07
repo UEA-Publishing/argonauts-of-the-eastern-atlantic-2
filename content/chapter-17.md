@@ -1,7 +1,8 @@
 ---
 label: 17
 title: "An exact model of a Bechuana house"
-subtitle: 
+subtitle: Mission House, Blomfield Street, London, 23 January 1843
+
 layout: essay
 order: 46
 classes:
