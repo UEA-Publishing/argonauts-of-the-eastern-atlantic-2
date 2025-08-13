@@ -1,7 +1,8 @@
 ---
 label: 19
 title: "Rainitsontsoraka. Christian Martyr."
-subtitle: 
+subtitle: Antananarivo, 25 September 1856
+
 layout: essay
 order: 48
 classes:
