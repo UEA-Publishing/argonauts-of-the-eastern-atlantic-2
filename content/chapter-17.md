@@ -54,9 +54,9 @@ The description which provides this chapter’s title comes from a later catalog
 
 Bizarrely, an image described as a ‘New Zealand Hunt and Fence of Garden’ appeared in _The New Zealanders,_ published in 1830, alongside images of a number of a number of other items from the Missionary Museum.[^15] In April 1839, following the relocation of the museum in 1835, the collector and curator Henry Syer Cuming wrote to the Directors about ‘the miserable state of the Missionary Museum… not only of utter confusion and Chaos, but in a state of ruin and decay’. He suggested items in the collection were:
 
-fast going to decay, the damp walls have generated mould… the Moth had committed its ravages… leaving hairless skins to mask its progress… the spider has spun its web in every corner, and the extraordinary works both of God and Man are alike obscured, and disfigured with dust and cobwebs.[^16]
+> fast going to decay, the damp walls have generated mould… the Moth had committed its ravages… leaving hairless skins to mask its progress… the spider has spun its web in every corner, and the extraordinary works both of God and Man are alike obscured, and disfigured with dust and cobwebs.[^16]
 
-e demanded, ‘Is it so much to ask, that those Idols to which the Heathen once paid divine honours, be preserved in England as a monument of the glorious triumphs of the Cross, achieved by the Christian armies of our Country’. Cuming volunteered his services towards ‘identifying localities’, presumably necessary if a South African house could be mistaken for one from New Zealand.[^17]
+He demanded, ‘Is it so much to ask, that those Idols to which the Heathen once paid divine honours, be preserved in England as a monument of the glorious triumphs of the Cross, achieved by the Christian armies of our Country’. Cuming volunteered his services towards ‘identifying localities’, presumably necessary if a South African house could be mistaken for one from New Zealand.[^17]
 
 It is unclear whether Cuming’s offer to undertake the ‘Augean task of arranging the Missionary Museum’ was taken up, but it seems to have at least prompted some action. Someone directed to the museum by the former LMS missionary Lancelot Threlkeld in Australia (Chapter 10), who was pleased to find Threlkeld’s portrait still on display, published an account of a visit to the museum soon afterwards, in January 1840. He suggested that ‘although the arrangement of the numerous specimens is at present very imperfect, and no catalogue has been published, we obtained every necessary information from the labels affixed to the different articles, and from the intelligence and attention of the curator’, quite possibly Cuming himself.[^18]
 
@@ -64,15 +64,15 @@ Cuming’s engagement with the museum is suggestive of the growing interest in w
 
 When the description of the museum featured in the account of Moffat’s Valedictory service in 1843, a catalogue was once again available. This suggests the description of the model house may actually have been updated while Moffat was in Britain, between June 1839 and January 1843.
 
-As a young and relatively unknown missionary, Moffat had remained unnamed in the 1826 catalogue. By the 1860 edition, however, he was recorded as the donor of nineteen items. Some were likely donated in 1839, but others were already at the museum by 1826.
+As a young and relatively unknown missionary, Moffat had remained unnamed in the 1826 catalogue. By the 1860 edition, however, he was recorded as the donor of 19 items. Some were likely donated in 1839, but others were already at the museum by 1826.
 
 As well as the addition of Moffat’s name to multiple catalogue descriptions, another notable change was the inclusion of a number of Setswana words in later catalogue descriptions (just as Australian words were used for a small number of items in the 1826 catalogue – see chapter 10). These included:
 
 - _Litlaka_, or sandals made of hide, four pairs, worn by the Bechuana tribe.
 - _Makantsa_, a Bechuana sash, suspended on the hip, in their dances.
 - _Manyena_. Ear-drops of brass wire. Bechuana.
-- _Mihitsana_. Finger-rings, of ditto.\[Brass wire\] From ditto.\[Bechuana\]
-- _Matlatla_. Bechuana earplates of copper, worn only by persons of distinction.- Presented by the Rev. R. Moffat
+- _Mihitsana_. Finger-rings, of ditto. \[Brass wire\] From ditto. \[Bechuana\]
+- _Matlatla_. Bechuana earplates of copper, worn only by persons of distinction. Presented by the Rev. R. Moffat
 - _Likhau_, large angular plates of copper, worn across the breast by Mantatee warriors.
 - _Litola_, or sticks, for producing fire by friction. Bechuana.
 - _Limao_, or needles and cases, used by the Bechuanas, Barolongs, and Mantatees.
@@ -86,21 +86,21 @@ Although his parents returned South to pursue an allegiance with the powerful em
 
 This sort of relationship is termed _mafisa_ in Setswana, enabling poorer members of a community to gain access to cattle in return for looking after them, using their milk and keeping some of the offspring. It is, however, a relationship that involves an expectation of loyalty. Mokotedi also seems to have assisted Moffat with the work of translation, as well as working as a typesetter at the mission printing press.
 
-In southern Africa, Mokotedi had been dependent on Moffat. Arriving in Britain, he was celebrated as an African Christian and the given the same treatment as other visitors such as Mary, John and Martha in 1804 (Chapter 2), but also more recently Jan Tzatzoe, Andries Stoffels, and James Read junior (Chapter 15). According to Moffat:
+In southern Africa, Mokotedi had been dependent on Moffat. Arriving in Britain, he was celebrated as an African Christian and given the same treatment as other visitors such as Mary, John and Martha in 1804 (Chapter 2), but also more recently Jan Tzatzoe, Andries Stoffels, and James Read junior (Chapter 15). According to Moffat:
 
-He was taken to platforms & schools to give addresses and to be admired. He was invited to jaunts, picnics & evening parties. He was taken by the arm & led into dazzling drawing rooms, became the toy of the young ladies; & some old ones too, he was politely asked the favour of locks from his hair & mementoes from his pen.[^23]
+> He was taken to platforms & schools to give addresses and to be admired. He was invited to jaunts, picnics & evening parties. He was taken by the arm & led into dazzling drawing rooms, became the toy of the young ladies; & some old ones too, he was politely asked the favour of locks from his hair & mementoes from his pen.[^23]
 
-At a Juvenile Missionary Meeting at Exeter Hall in March 1840, Moffat introduced Mokotedi, telling the assembled children of his rescue from the field of battle with his mother, when ‘bloody battle axes” had been thrown at Moffat’s head. He also introduced Sarah Roby, a young African girl, buried alive as a baby but rescued and adopted by the Moffats. She had been named after the wife of Moffat’s mentor in Manchester, William Roby, and served the Moffats as a maid. In England, she was ‘learning the infant school system, with a view to instructing her countrywomen’.[^24]
+At a Juvenile Missionary Meeting at Exeter Hall in March 1840, Moffat introduced Mokotedi, telling the assembled children of his rescue from the field of battle with his mother, when ‘bloody battle axes' had been thrown at Moffat’s head. He also introduced Sarah Roby, a young African girl, buried alive as a baby but rescued and adopted by the Moffats. She had been named after the wife of Moffat’s mentor in Manchester, William Roby, and served the Moffats as a maid. In England, she was ‘learning the infant school system, with a view to instructing her countrywomen’.[^24]
 
 When William Wallace Scott painted Moffat in 1842, Mokotedi and Sarah Roby were shown at his feet. Mokotedi’s face appears only inches from a copy of the Setswana New Testament, open in Moffat’s hand. The book, together with Moffat’s face, hands, and white shirt are bright points of light in an otherwise rather gloomy painting, presumably intended to show Moffat a bringing light into Africa’s ‘heathen darkness’.
 
-Mokotedi’s posture, in particular, echoes the beseeching attitude taken by an enslaved African in the famous icon of the slavery abolition movement, who asked ‘Am I not a man and a brother?’ Such images served to connect the anti-slavery movement with a wave of missionary work in Africa. Less than a year after the final emancipation of slaves across the British Empire, on 1 August 1838, Thomas Fowell Buxton established the _Society for the Extinction of Slavery and for the Civilization of Africa,_ on 1 June 1840 at Exeter Hall. The following year, this sent a major expedition of three Royal Navy steamers up the Niger River in West Africa, with the aim of promoting legitimate commerce alongside Christianity to replace the slave trade.[^25]
+Mokotedi’s posture, in particular, echoes the beseeching attitude taken by an enslaved African in the famous icon of the slavery abolition movement, who asked ‘Am I not a man and a brother?’ Such images served to connect the anti-slavery movement with a wave of missionary work in Africa. Less than a year after the final emancipation of slaves across the British Empire, on 1 August 1838, Thomas Fowell Buxton established the _Society for the Extinction of Slavery and for the Civilization of Africa,_ on 1 June 1840 at Exeter Hall. The following year, they sent a major expedition of three Royal Navy steamers up the Niger River in West Africa, with the aim of promoting legitimate commerce alongside Christianity to replace the slave trade.[^25]
 
 This turn to Africa, after the abolition of slavery, also seems to have impacted a young medical missionary initially inspired by Karl Gützlaff’s call for missionaries to China (Chapter 16). Following a series of meetings with Robert Moffat in London, David Livingstone sailed for southern Africa in November 1840. He would become the most enduringly famous British missionary of the nineteenth century, and certainly the only one to be granted a British state funeral after his death in Africa in 1873 (see Chapter 21).
 
 Robert Moffat played an important role in shifting missionary attitudes towards Africa and Africans. Unlike Johannes Van Der Kemp and James Read who took African wives, and, according to their critics, even adopted African dress, Moffat carefully cultivated his distance.
 
-When it had been proposed that Robert Moffat replace James Read as head of the LMS mission at Dithakong in 1820, Robert Hamilton, another resident missionary, noted that Kgosi Mothibi pointed out that “all were not alike, that Mr. Read, I and John Hendrick did not beat the children when they came and plagued us.” Moffat had only worked in the region for two years, but his reputation already preceded him.[^26]
+When it had been proposed that Robert Moffat replace James Read as head of the LMS mission at Dithakong in 1820, Robert Hamilton, another resident missionary, noted that Kgosi Mothibi pointed out that 'all were not alike, that Mr. Read, I and John Hendrick did not beat the children when they came and plagued us.' Moffat had only worked in the region for two years, but his reputation already preceded him.[^26]
 
 Following his appointment, Moffat dismissed a number of African Christians from their formal (and salaried) roles at the mission, including Cupido Kakkerlak, a stalwart of the church at Bethelsdorp who had been Campbell’s ‘travelling director’ in 1813 (Chapter 3). Using influence gained at the Battle of Dithakong, Moffat set about moving the mission to Seoding, closer to Kuruman’s natural spring after he returned from the Cape in 1824.
 
@@ -108,9 +108,9 @@ Moffat seems to have been anxious to escape his own dependence on Kgosi Mothibi.
 
 In January 1825, Andrew Smith, a military doctor recently appointed Superintendent of the South African Museum in Cape Town, wrote to Moffat asking him to collect for the new museum. He expressed a particular interest in snakes, frogs, as well as ‘an animal near Latakoo somewhat like an armadillo covered with scales’, presumably the pangolin. Smith also sent Moffat arsenical soap along with a set of printed instructions describing how to preserve their skins.[^29]
 
-What Moffat actually sent to Cape Town is unclear, although a knife with an ivory handle carved in the form a zebra at the South African Museum in Cape Town (now Iziko 3306) is associated with an old label with Moffat’s name on it. When Smith led the _Expedition for Exploring Central Africa_ beyond the boundary of the Cape Colony in 1834, it was to mission stations, including Kuruman, that he initially went. In a report, published following his return to Cape Town, Smith wrote:
+What Moffat actually sent to Cape Town is unclear, although a knife with an ivory handle carved in the form a zebra at the South African Museum in Cape Town (now Iziko 3306) is associated with an old label with Moffat’s name on it. When Smith led the 'Expedition for Exploring Central Africa' beyond the boundary of the Cape Colony in 1834, it was to mission stations, including Kuruman, that he initially went. In a report, published following his return to Cape Town, Smith wrote:
 
-The importance of the services which were rendered by the various Missionaries we visited, will, ere this, have been apparent; yet, comparatively speaking, but a small proportion of their real utility has been noticed, from the necessity of abstaining, on the present occasion, from particular details. To all of them I consider the Association to be deeply indebted for whatever degree of success has attended the exertions of the expedition and to Mr Moffat especially, for the friendly reception and the kind treatment which we experienced from Umsiligas \[Mzilikazi\][^30].
+> The importance of the services which were rendered by the various Missionaries we visited, will, ere this, have been apparent; yet, comparatively speaking, but a small proportion of their real utility has been noticed, from the necessity of abstaining, on the present occasion, from particular details. To all of them I consider the Association to be deeply indebted for whatever degree of success has attended the exertions of the expedition and to Mr Moffat especially, for the friendly reception and the kind treatment which we experienced from Umsiligas \[Mzilikazi\][^30].
 
 Moffat’s establishment of a personal fiefdom at Kuruman in the decade before Smith’s arrival had been associated with a significant building programme. While the model house at the Missionary Museum in London represented a typical building at Maruping \[New Dithakong or Lattakoo\] in the early 1820s, when Smith’s expedition arrived at Kuruman in 1835 they found a row of stone buildings. One member of the expedition even described the mission as ‘the most perfect station’.[^31]
 
@@ -126,7 +126,7 @@ In March 1840, less than a year after Moffat’s return to Britain, the cover of
 
 In the foreground are the well-tended mission gardens, surrounded by hedges, facing a row of rectangular buildings including the chapel (its roof must have been imagined by Bell since it had not been completed when he visited). The description, printed in 1840, explains:
 
-The Mission Church occupies the centre — the buildings on either side the Church are the dwelling house of the Missionaries — the conical buildings in the rear, the huts of the natives; and the mountain in the distance marks the locality of the outstation, Hamhana.[^39]
+> The Mission Church occupies the centre — the buildings on either side the Church are the dwelling house of the Missionaries — the conical buildings in the rear, the huts of the natives; and the mountain in the distance marks the locality of the outstation, Hamhana.[^39]
 
 In striking contrast to the Mission Museum, where the conical Tswana house occupied a prominent central place, such houses are only a background feature of this image, located at the rear and referred to in the caption as ‘the huts of the natives’. Such derogatory and dismissive terms had not always been so readily used.
 
@@ -136,15 +136,15 @@ The fence could be crossed at a single gap in the front, narrower at the bottom,
 
 While the design of the house varied ‘according to the wants and inclinations of its owner’, Burchell suggested that he hadn’t seen a single building with straight lines or a right angle, suggesting:
 
-it seems therefore, that their own observation and experience, has taught these people by practical demonstration, the axiom that a circle comprises a greater area than any other figure of equal circumference… this, the making of the outer fence, or the walls, is performed with as little labor as possible.[^42]
+> it seems therefore, that their own observation and experience, has taught these people by practical demonstration, the axiom that a circle comprises a greater area than any other figure of equal circumference… this, the making of the outer fence, or the walls, is performed with as little labor as possible.[^42]
 
 The roofs of the larger houses covered a space of around 26 feet in diameter, extending beyond the walls to create a veranda-style space that was shaded from the sun and rain. As well as providing a sleeping place, the house was also used for storing:
 
-clothing and arms, for which, darkness is convenient as it conceals the property from the knowledge of their neighbours or of strangers. The only opening therefore, is the _doorway_; which may be better described as, a hole in the wall just large enough to admit a person to creep through, and of the shape of an irregular oval, the larger end of which being upwards, and the smaller a foot above the floor.[^43]
+> clothing and arms, for which, darkness is convenient as it conceals the property from the knowledge of their neighbours or of strangers. The only opening therefore, is the _doorway_; which may be better described as, a hole in the wall just large enough to admit a person to creep through, and of the shape of an irregular oval, the larger end of which being upwards, and the smaller a foot above the floor.[^43]
 
 It is not easy to make out from photographs, but when I shone a light into the interior of Moffat’s model house at the British Museum, I could see that the entrance was indeed an irregular oval. Burchell praised the ‘neatness, good order and cleanness’ of the dwellings he saw, particularly evident in the ‘better houses’, suggesting:
 
-If we consider the habits and customs of this nation, their mode of life, and the state of society among them, we must acknowledge that such dwellings as have now been described are exceedingly convenient and perfectly suited to every want and fitted to every circumstance[^44]
+> If we consider the habits and customs of this nation, their mode of life, and the state of society among them, we must acknowledge that such dwellings as have now been described are exceedingly convenient and perfectly suited to every want and fitted to every circumstance[^44]
 
 One key feature of such houses was that they could be built from locally available materials whenever the _motse_ or village was relocated, a not infrequent occurrence. However, they needed constant renewal, in particular through re-thatching and re-plastering the walls and floor after seasonal thunderstorms.
 
@@ -158,7 +158,7 @@ The anthropologist Jean Comaroff has suggested that the Setswana word for house,
 
 Houses of the type depicted by Moffat’s model, built largely built by women, provided family groups with their own enclosing body, with space at their centre for venerated ancestors, made present at least partly through the presence of ancestral possessions. In the Setswana Bible, Moffat ended up translating ‘God’ as _Modimo_, which the historian Paul Landau has suggested may have simply referred to an ultimate ‘ancestor’ in earlier times.[^48]
 
-While ancestors and their spirits were also a feature of ceremonial life in Polynesia (Chapters 12 & 13), there does not seem to have been any obvious southern African equivalent to the carved representations of spirits which became a focus for missionary invective against ‘idols’, hence their absence in the missionary museum. One does have to wonder, however, how conscious Moffat was that people venerated particular animals when he gave the skin and bones of two crocodiles to the Missionary Museum.
+While ancestors and their spirits were also a feature of ceremonial life in Polynesia (Chapters 12 and 13), there does not seem to have been any obvious southern African equivalent to the carved representations of spirits which became a focus for missionary invective against ‘idols’, hence their absence in the missionary museum. One does have to wonder, however, how conscious Moffat was that people venerated particular animals when he gave the skin and bones of two crocodiles to the Missionary Museum.
 
 Indeed, John Mokotedi Serian was one of the ‘people of the crocodile’ (Bakwena) for whom the killing and eating of crocodiles was certainly forbidden, so how comfortable he would have felt travelling travelling to Britain with the remains of two of these creatures can only be imagined.
 
@@ -168,27 +168,27 @@ Familiar with the portraits on display in Moffat’s house, as well as the ‘fi
 
 When told him they showed carvings worshipped by other nations, he accused her of fibbing and sought out Moffat for confirmation. When he confirmed that the people who made such objects of veneration from wood and stone had the same capacities as himself — heads, lungs, and the capacity to speak — he replied ‘After this, never say that the Bechuanas are either foolish or ignorant”. Taking out his own whistle, carved from ivory, he asked:
 
-What would my people think if I were to worship that?… They would think I was a madman, and would throw me over a precipice, and cover me with stones.[^49]
+> What would my people think if I were to worship that?… They would think I was a madman, and would throw me over a precipice, and cover me with stones.[^49]
 
 Moffat asserted that this proved the absence of idolatry in southern Africa, although the manner in which the man thought he would be killed suggests he may have believed he would ultimately have been accused of witchcraft if he behaved in this way.
 
 Moffat went on to tell his audience that the Botswana ‘can reason, and reason well; that they can express themselves in language that would vie with the or more civilised nations’, giving the example of ‘one of their public parliaments’ where you will see:
 
-the profoundest order, while orator after orator, or senator – call them if you please – after senator, rises and describes the state of the nation, the different movements that are to be attended to, or plans that are to be devised or exertions made, in order to save the state or save the town. I have heard them cutting hairs, I should almost say.[^50]
+> the profoundest order, while orator after orator, or senator – call them if you please – after senator, rises and describes the state of the nation, the different movements that are to be attended to, or plans that are to be devised or exertions made, in order to save the state or save the town. I have heard them cutting hairs, I should almost say.[^50]
 
-While clear about the intellectual capacities of individual Africans, as well as the decorum of their political institutions, Moffat seems felt that their lives nevertheless needed to be reoriented around a Christian God. The large stone chapel at Kuruman arguably reflects this attitude in material form. Rather than being hidden at centre of domestic space, Modimo, the ultimate ancestor, was provided with a prominent and permanent space at the centre of his new community.
+While clear about the intellectual capacities of individual Africans, as well as the decorum of their political institutions, Moffat seems felt that their lives nevertheless needed to be reoriented around a Christian God. The large stone chapel at Kuruman arguably reflects this attitude in material form. Rather than being hidden at the centre of domestic space, Modimo, the ultimate ancestor, was provided with a prominent and permanent space at the centre of his new community.
 
 When Moffat first proposed establishing his mission at Seoding, Mothibi had objected that there not enough trees from which to build houses. While Moffat partly solved this problem by building the mission buildings from stone, and locating roof beams elsewhere, the mission’s location likely limited the scale of the houses which could be easily built by the Africans who made their homes there. The establishment of a permanent stone-built church at Kuruman coincided with a reduction in scale of the houses built by African Christian for themselves, and, over time the removal of sacred space from their centre.
 
 Given that Moffat kept copies of _Missionary Sketches_ at his home, he likely followed reports of conversions in Polynesia, where the efforts of his ‘missionary brother’, John Williams, were generally crowned by the communal building of substantial new places of worship, as at Rarotonga (Chapter 12). Indeed, the 1826 catalogue of the Missionary Museum described the display of the  ‘Household Idols of Pomare’ in front of:
 
-A large model Church, 712 feet long, built for Pomare, for the worship of Jehovah.[^51]
+_A large model Church, 712 feet long, built for Pomare, for the worship of Jehovah._[^51]
 
 Such Polynesian edifices, frequently built at the site of a former _marae_ (ceremonial enclosures), were largely initiated and overseen by Polynesian leaders. The stone chapel at Kuruman, however, seems to have been overwhelmingly built by Europeans, with Africans only providing unskilled labour (excepting the earlier chapel built by Jan Arendt).
 
 The article about the chapel, printed in the _Missionary Chronicle_ in 1840, underlined that it had largely been a European effort, suggesting that:
 
-The raising of the roof was found to be an herculean and dangerous task, in a country where there were neither blocks nor tackles, and but few individuals who dared to trust themselves on naked walls. While the roof was proceeding, the natives often remarked that the Missionaries must have been brought up in a baboon’s country, and therefore accustomed to precipices and walls.[^52]
+> The raising of the roof was found to be an herculean and dangerous task, in a country where there were neither blocks nor tackles, and but few individuals who dared to trust themselves on naked walls. While the roof was proceeding, the natives often remarked that the Missionaries must have been brought up in a baboon’s country, and therefore accustomed to precipices and walls.[^52]
 
 The Chapel finally opened in November 1838, shortly before Moffat and his family returned to Britain. The final paragraph of the _Missionary Chronicle_ article pointed out that a shortfall of just under £100 remained on the chapel, presumably hoping the article would stimulate further donations to clear this.
 
@@ -204,7 +204,7 @@ In the foreground of the scene, Baxter superimposed the commanding figures of Ro
 
 When Moffat replied to Rev. Binney’s address during the evening meeting on 23 January 1843, he made a number of remarks about ‘native agency’:
 
-I have, it is true, not all the confidence that some, less experienced, have in certain kinds of native agency. Native agency may very properly be compared to a body of sepoys, who will fight well while they have good English officers to lead them on.[^54]
+> I have, it is true, not all the confidence that some, less experienced, have in certain kinds of native agency. Native agency may very properly be compared to a body of sepoys, who will fight well while they have good English officers to lead them on.[^54]
 
 How did John Mokotedi Serian, sitting near to Moffat, feel when he heard his patron assert a subaltern status for himself and his people within the missionary enterprise? A week later, they boarded a steamer together at London Bridge, transferring to the _Fortitude_ at Gravesend, which took them to the Cape.
 
