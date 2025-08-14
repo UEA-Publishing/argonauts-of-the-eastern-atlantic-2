@@ -201,11 +201,11 @@ _hundreds, nay, thousands of people, who would be willing to work if they could 
 
 By June 1850, the influence of ‘deep and universal poverty on the resources of the Mission Churches’ in the West Indies was noted in the _Missionary Magazine_:
 
-“During the last year,” writes Mr. Pettigrew, of Berbice, “we have often been asked for bread by those who, only a short time ago, have large sums of money to the cause of God.”[^⁠71]
+_“During the last year,” writes Mr. Pettigrew, of Berbice, “we have often been asked for bread by those who, only a short time ago, have large sums of money to the cause of God.”_[^⁠71]
 
 On 14 December 1849, Joseph Ketley marked his birthday by writing to the Directors of the London Missionary Society about their gift:
 
-_This day completes the 47^th year of my earthly pilgrimage, and the 21[^st] of my public service in the Guiana field of Missions[^⁠72].
+_This day completes the 47[^th] year of my earthly pilgrimage, and the 21[^st] of my public service in the Guiana field of Missions._[^⁠72]
 
 Comparing the 1849 to 1828 when he arrived in Demerara, Ketley noted:
 
