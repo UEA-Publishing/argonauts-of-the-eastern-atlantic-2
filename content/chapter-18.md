@@ -415,4 +415,5 @@ To me at least, it captures something of the struggles of the congregation and p
 
 [^78]: 1860\. ‘The Missionary Museum. No. IV’. _The Juvenile Missionary Magazine_, May 1 1860, p. 103: <https://books.google.co.uk/books?id=V2AEAAAAQAAJ&newbks=1&newbks_redir=0&dq=juvenile%20missionary%20magazine&pg=PA103#v=onepage&q&f=false>
 
+
 {% endbackmatter %}
