@@ -1,6 +1,6 @@
 ---
 label: 19
-title: "Rainitsontsoraka. Christian Martyr."
+title: "Rainitsontsoraka. Christian Martyr"
 subtitle: Antananarivo, 25 September 1856
 
 layout: essay
@@ -20,9 +20,9 @@ Before they had finished, members of the Royal court began to arrive, keen to ha
 
 In a book published over a decade later, in 1867, Ellis declared:
 
-not the least valued treasure among my Malagasy photographs is the likeness of this amiable and beloved man, whose portrait I was able to secure, as early as daylight permitted, on the morning of the last day I spent at the capital, in the year 1856.[^⁠3]
+> not the least valued treasure among my Malagasy photographs is the likeness of this amiable and beloved man, whose portrait I was able to secure, as early as daylight permitted, on the morning of the last day I spent at the capital, in the year 1856.[^⁠3]
 
-In July 1857, less than a year after Ellis left Madagascar, Rainitsontsoraka, would be among a group of thirteen Christians stoned to death at Fiadana (Fiadanana), on the outskirts of Antananarivo.
+In July 1857, less than a year after Ellis left Madagascar, Rainitsontsoraka, would be among a group of 13 Christians stoned to death at Fiadana (Fiadanana), on the outskirts of Antananarivo.
 
 A faded plate glass negative at the Wisbech and Fenland Museum ([WISFM : EL.73](https://www.wisbechmuseum.org.uk/)) bears a ghostly trace of Rainitsontsoraka’s face. Following the death of William Ellis in June 1872, his son, John Eimeo Ellis, sent it to the town where his father had grown up.
 
@@ -30,7 +30,7 @@ William Ellis had donated items from the Pacific to the museum in 1841, includin
 
 The negative, however, was accessioned as part of a series of ‘photographic negatives of views and portraits of eminent personages in Madagascar’.[^⁠4] In April 1874, the Museum Committee recorded its thanks to Samuel Smith, a local photographer, for presenting:
 
-A complete set of photographs from the negatives taken by the late Mr W Ellis in Madagascar. Also to the President for a folio volume containing the same[^⁠5]
+_A complete set of photographs from the negatives taken by the late Mr W Ellis in Madagascar. Also to the President for a folio volume containing the same._[^⁠5]
 
 A handwritten index, pasted at the front of the volume, describes the first of the three photographs pasted on page 27, after a series of portraits of Kings, Prime Ministers and ‘Officers of the Palace’ as, quite simply, ‘No. 1. Rainitsontsoraka. Christian Martyr’.[^⁠6] Showing only the sitter’s head and shoulders and wearing a plain white lamba, this is clearly not the full-length portrait Ellis described making in the morning on 25 September. Was Rainitsontsoraka photographed by Ellis on more than one occasion?
 
@@ -84,11 +84,11 @@ By 1830, the New Testament translation had been completed, feeding an increasing
 
 In April 1833, the LMS Board formally dissolved their connection with Griffiths, refusing to pay his bills, so he began trading, including with donations made by missionary supporters in Britain, leading Freeman to accuse him of ‘absolute fraud’.[^⁠22]These tensions did little to reassure Ranavalona of the good intentions of Christians, especially when a local prophet promised that slaves would soon be freed and all would be equals. Such radical eschatological egalitarianism would likely unsettle any Queen!
 
-In March 1835, Queen Ranavalona proclaimed an end to practices that challenged the customs of her ancestors, even outlawing Christian books. By the end of June, the complete Bible was printed in Malagasy and secretly distributed, with seventy copies buried on the island (Chapter 28).[^⁠23]
+In March 1835, Queen Ranavalona proclaimed an end to practices that challenged the customs of her ancestors, even outlawing Christian books. By the end of June, the complete Bible was printed in Malagasy and secretly distributed, with 70 copies buried on the island (Chapter 28).[^⁠23]
 
-By September 1836, the majority of missionaries had left the island, eighteen years after Bevan and Jones first arrived. Editing the _History of Madagascar_ as these turbulent events unfolded, Ellis seems to have paused the work, only to be given access to the manuscript journals of James Hastie by Lord Glenelg (Charles Grant), Secretary of State for the Colonies from 1835 to 1839 and an ally of the humanitarian faction.[^⁠24]
+By September 1836, the majority of missionaries had left the island, 18 years after Bevan and Jones first arrived. Editing the _History of Madagascar_ as these turbulent events unfolded, Ellis seems to have paused the work, only to be given access to the manuscript journals of James Hastie by Lord Glenelg (Charles Grant), Secretary of State for the Colonies from 1835 to 1839 and an ally of the humanitarian faction.[^⁠24]
 
-The arrival in Britain of Jones, Griffiths and Baker, the missionary printer from Madagascar, allowed Ellis to check the contents of the _History’s_ for accuracy, and to further expand the work (at least according to its preface). In early 1837, two senior members of the Merina court, both former missionary scholars, came to London as an embassy from the royal court, prompting Freeman’s return from Cape Town.[^⁠25]
+The arrival in Britain of Jones, Griffiths and Baker, the missionary printer from Madagascar, allowed Ellis to check the contents of the _History_ for accuracy, and to further expand the work (at least according to its preface). In early 1837, two senior members of the Merina court, both former missionary scholars, came to London as an embassy from the royal court, prompting Freeman’s return from Cape Town.[^⁠25]
 
 In early 1838, news reached Britain of the martyrdom of Rasalama the previous August, the first Malagasy Christian to be put to death for refusing to recant in the face of persecution (initially identified as Rafaravavy, and referred to as such in the subtitle of the _History of Madagascar_). Further persecutions followed, with some Christians escaping to Mauritius. Six of these found their way to England, where they addressed missionary meetings during the summer of 1839.[^⁠26]
 
@@ -98,17 +98,17 @@ David Jones, the original missionary to Madagascar died at Mauritius in May 1841
 
 Missionary work at Madagascar effectively ceased, and though further persecutions followed in 1849, the Malagasy Christian Church persisted underground. A false report of the death of Queen Ranavalona reached London in early 1852, and rumours of other changes prompted William Ellis, approaching the age of sixty, to volunteer to visit the island for the first time.[^⁠29]
 
-William Ellis left England on 14 April 1853 in the _Indiana_, a ‘fine iron screw steam-ship’, on which he found the engine room ‘a place of great attraction… where the wonderful adjustment of the vast machinery, and easy working of the whole, notwithstanding the motion of the sea, often excited intense admiration’. He learned from the Scottish engineer that under full force the ship used thirty tons of coal a day, its propeller making 3540 revolutions an hour, each propelling them nineteen feet forwards.[^⁠30]
+William Ellis left England on 14 April 1853 in the _Indiana_, a ‘fine iron screw steam-ship’, on which he found the engine room ‘a place of great attraction… where the wonderful adjustment of the vast machinery, and easy working of the whole, notwithstanding the motion of the sea, often excited intense admiration’. He learned from the Scottish engineer that under full force the ship used 30 tons of coal a day, its propeller making 3540 revolutions an hour, each propelling them 19 feet forwards.[^⁠30]
 
-Another consequence of the steam engine was the sixty gallons of fresh water it condensed each day, a significant luxury compared to sea voyages Ellis had completed under sail three decades earlier. After refuelling at St. Vincent, the vessel reached Ascension on 6 May, where Ellis attempted to make some photographs. When he developed the negatives, however, he discovered they were significantly overexposed, even though he significantly reduced the exposure time he would have used in England.[^⁠31]
+Another consequence of the steam engine was the 60 gallons of fresh water it condensed each day, a significant luxury compared to sea voyages Ellis had completed under sail three decades earlier. After refuelling at St. Vincent, the vessel reached Ascension on 6 May, where Ellis attempted to make some photographs. When he developed the negatives, however, he discovered they were significantly overexposed, even though he had massively reduced the exposure time he would have used in England.[^⁠31]
 
-On 22 May, the _Indiana_ arrived at Cape Town, the Colony having recently been granted a parliament in which the franchise was racially blind (but restricted to males with property worth over £25). Ellis met James Cameron, a missionary artisan at Madagascar between 1826 and 1835, who was to accompany him on his journey. Cameron was the first person at the Cape to use the calotype process, in 1848, and had been making daguerreotypes professionally since 1850.[^⁠32] The pair left four days later, on 26 May, and by 7 June had arrived at Mauritius. There they met John Le Brun, still serving as an LMS missionary after nearly forty years, now assisted by his two sons.
+On 22 May, the _Indiana_ arrived at Cape Town, the Colony having recently been granted a parliament in which the franchise was racially blind (but restricted to males with property worth over £25). Ellis met James Cameron, a missionary artisan at Madagascar between 1826 and 1835, who was to accompany him on his journey. Cameron was the first person at the Cape to use the calotype process, in 1848, and had been making daguerreotypes professionally since 1850.[^⁠32] The pair left four days later, on 26 May, and by 7 June had arrived at Mauritius. There they met John Le Brun, still serving as an LMS missionary after nearly 40 years, now assisted by his two sons.
 
-Ellis was extremely sea-sick on the weeklong voyage to Madagascar, made on a small schooner, and on arrival was confronted on arrival by the ‘revolting spectacle’ of the skulls of some of the twenty-one sailors who had been killed during an unsuccessful combined French and British attack on the town in June 1845, fixed onto high poles at Tamatave, a port on the East of the island.[^⁠33]
+Ellis was extremely sea-sick on the weeklong voyage to Madagascar, made on a small schooner, and on arrival was confronted by the ‘revolting spectacle’ of the skulls of some of the 21 sailors who had been killed during an unsuccessful combined French and British attack on the town in June 1845, fixed onto high poles at Tamatave, a port on the East of the island.[^⁠33]
 
-A canoe approached with the harbour master, asking who they were in ‘imperfect English’. When told they brought a letter for the queen from the traders at Mauritius, they were told she had already demanded compensation for the 1845 attack:
+A canoe approached with the harbour master, asking who they were in ‘imperfect English’. When told they had brought a letter for the queen from the traders at Mauritius, they were told that she had already demanded compensation for the 1845 attack:
 
-He asked if it was right to go to a country and shoot down the people because we did not like their laws? He soon informed us that he had been a member of the embassy sent to Europe in 1837; that he had visited France and England, and knew that whoever went to reside in either of these countries must be subject to the laws of the county so long as they remained there[^⁠34].
+> He asked if it was right to go to a country and shoot down the people because we did not like their laws? He soon informed us that he had been a member of the embassy sent to Europe in 1837; that he had visited France and England, and knew that whoever went to reside in either of these countries must be subject to the laws of the county so long as they remained there[^⁠34].
 
 They sent letters to Cameron’s old friends in Antananarivo, as well as to the Queen, requesting to visit the capital. During the time they spent waiting at the coast for a reply, Ellis attempted to learn Malagasy, and was struck that many words appeared the same as those he knew form Eastern Polynesia. He also made a collection of plants, some of which he presented to the Crystal Palace on his return.[^⁠35]
 
@@ -136,7 +136,7 @@ When news of the worsening epidemic at Mauritius reached Madagascar, including t
 
 A shield, not unlike the one he is shown holding was loaned from the Missionary Museum to the British Museum in 1890 (Af, LMS.1), although it does not seem to feature in nineteenth century catalogues of the Missionary museum until the exhibition at Paris in 1867 (Chapter 20). The catalogue that was published around 1860, however, refers to this image in its description of an ornament made of large silver claws and glass beads, which appears on Rafaralahy’s chest.[^⁠47]
 
-Ellis’s visitors also expressed a great deal of interest in his photographic apparatus. He told them it was used for ‘taking people’s likenesses in a minute of two by means of the sun or the light’, and many asked him for portraits. One man quickly slipped home, returning with a large bundle of clothes, carried by one of his servants. This included ‘a handsome scarlet lamba and other attractive articles of dress’ he intended to wear for his portrait.[^⁠48]
+Ellis’s visitors also expressed a great deal of interest in his photographic apparatus. He told them it was used for ‘taking people’s likenesses in a minute or two by means of the sun or the light’, and many asked him for portraits. One man quickly slipped home, returning with a large bundle of clothes, carried by one of his servants. This included ‘a handsome scarlet lamba and other attractive articles of dress’ he intended to wear for his portrait.[^⁠48]
 
 He was disappointed when told him Ellis needed time to assemble the camera and darkroom, and that the colour of the lamba wouldn’t appear in the monochrome image. Once Ellis prepared the necessary chemicals, he began making images using the wet collodion process. When he made positive prints from these a few days later, people were delighted, fetching friends and relatives who engaged in a long conversation ‘about how it could be done’:
 
@@ -148,17 +148,17 @@ People were immediately keen to frame the resulting images, some bringing large 
 
 Ellis tells us that people were scrupulous about removing their grey hairs and other marks of age, so perhaps an ageless image was intended to preserve their youthful appearance for posterity. He also made a number of photographs of the scenery on wax paper using the calotype process, but these proved of little interest compared to ‘the intense interest excited by the portraits’ in which:
 
-the aspect, the dress, the ornaments, and all the little accompaniments were subjects of curious examination and animated remark by wives and children, as well as companions and friends. One man had a mole on his cheek, and, as it was on the side next the light, it came to clear and strong; nothing excited more remark than this. I saw the man himself after feeling the mole on his cheek with his finger, go and touch the mole on the picture hanging up to dry, exclaiming, “How very wonderful! I never felt anything here,” putting his finger to his the mole on his cheek, “and yet there it is,” pointing to the picture.[^⁠52]
+> the aspect, the dress, the ornaments, and all the little accompaniments were subjects of curious examination and animated remark by wives and children, as well as companions and friends. One man had a mole on his cheek, and, as it was on the side next the light, it came to clear and strong; nothing excited more remark than this. I saw the man himself after feeling the mole on his cheek with his finger, go and touch the mole on the picture hanging up to dry, exclaiming, “How very wonderful! I never felt anything here,” putting his finger to his the mole on his cheek, “and yet there it is,” pointing to the picture.[^⁠52]
 
 This prompted Ellis to suggest ‘evident anxiety about personal appearance’ was common to all humans, noting:
 
-I never suggested the arrangement of the dress of the hair; but rarely found any one come and sit for a likeness without giving some previous attention to one or both. Even the labouring woman, returning from work in the field, with her child at her back, as shown on the adjoining page, when asked if she would have her likeness taken, adjusted her burden before having her _tout ensemble_ rendered permanent.[^⁠53]
+> I never suggested the arrangement of the dress or the hair; but rarely found any one come and sit for a likeness without giving some previous attention to one or both. Even the labouring woman, returning from work in the field, with her child at her back, as shown on the adjoining page, when asked if she would have her likeness taken, adjusted her burden before having her _tout ensemble_ rendered permanent.[^⁠53]
 
 Women came with servants to arrange their hair, while men brought a mirror and comb, sometimes asking for a bowl of water to moisten their hair.
 
 Almost immediately, Ellis’s photographs prompted him to compare both the dress and the physical appearance of the various subjects of his photographs. He commented on differences in hair styles between Hova and Betsimasaraka women, and was ‘struck with the remarkably European cast of many of their countenances’, suggesting that:
 
-Phrenologically they are a fine people, having frequently high foreheads with a considerable amount of those developments which are supposed to indicate intellectual capacity, as well as moral excellence.[^⁠54]
+_Phrenologically they are a fine people, having frequently high foreheads with a considerable amount of those developments which are supposed to indicate intellectual capacity, as well as moral excellence._[^⁠54]
 
 These comments were followed in his published account with a portrait of ‘a Hova chief’, said to ‘exhibit a type of head that I met with occasionally on the coast and at the capital’. Ellis commented on the slightness of the ‘olive tinge’ in the man’s complexion, suggesting that among the Hovas this was generally less ‘than is frequently seem amongst the inhabitants of the south of Europe’.[^⁠55]
 
@@ -172,15 +172,15 @@ In speculating on the origins of these differences in physical appearance, Ellis
 
 Although initially presented and evaluated in phrenological as well as racial terms, Ellis also provided a description of the character of the man whose disembodied head he discussed in his book, stating:
 
-his disposition always appeared peculiarly gentle and benevolent. He usually wore the large white lamba, bordered with the _akotso_, or five broad stripes, the distinctive badge of the Hovas. The accompanying wood engraving is a faithful, but not particularly flattering, copy of the photograph of which I brought home a number of copies.[^⁠60]
+> his disposition always appeared peculiarly gentle and benevolent. He usually wore the large white lamba, bordered with the _akotso_, or five broad stripes, the distinctive badge of the Hovas. The accompanying wood engraving is a faithful, but not particularly flattering, copy of the photograph of which I brought home a number of copies.[^⁠60]
 
 Ellis states that he got to know this man when he came to ask for medical assistance for a family member who was ill, and had much to do with him at both the coast and the capital. The description of this meeting appears to match one given for his initial meeting with Rainitsontsoraka in a subsequent account, _Madagascar Revisited,_ published in 1867.[^⁠61]
 
-Was the published portrait of a ‘Hova Chief’ an engraver’s interpretation of the rather washed out negative held at Wisbech, in which the man depicted also wears an _akotso_? Does the location of the placement of this image in the text suggest that Ellis first photographed Rainisontsoraka for the first time at Tamatave in 1854, and is its relatively poor quality suggestive of this?
+Was the published portrait of a ‘Hova Chief’ an engraver’s interpretation of the rather washed-out negative held at Wisbech, in which the man depicted also wears an _akotso_? Does the location of the placement of this image in the text suggest that Ellis first photographed Rainisontsoraka at Tamatave in 1854, and is its relatively poor quality suggestive of this?
 
 Another photograph at the Royal Ontario Museum appears to be a much better match for the image of the ’Hova Chief’, and a later account of Rainitsontsoraka’s life suggests he was probably being held in chains at the time for his participation in Christian meetings.
 
-On 4 September 1854, Ellis left Tamatave to travel to Mahavelona, known to Europeans as Foule Pointe, forty-five miles to the North. He was carried in a palanquin by four men, two others carrying his camera and photographic equipment with a third taking his camera stand and a small stool, and a fourth a carpet-bag with a tea-kettle and some crockery inside.[^⁠62]
+On 4 September 1854, Ellis left Tamatave to travel to Mahavelona, known to Europeans as Foule Pointe, 45 miles to the North. He was carried in a palanquin by four men, two others carrying his camera and photographic equipment with a third taking his camera stand and a small stool, and a fourth a carpet-bag with a tea-kettle and some crockery inside.[^⁠62]
 
 During their stops to rest, Ellis photographed trees and plants using the calotype process, developing his negatives at night. Arriving at Foule Point, he spent the evening secretly meeting with local Christians who asked questions about religious belief and practice in England. Reflecting on the meeting, he noted ‘the deep and peculiar sympathy which we all seemed to feel’:
 
