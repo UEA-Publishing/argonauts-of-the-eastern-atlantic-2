@@ -184,13 +184,13 @@ On 4 September 1854, Ellis left Tamatave to travel to Mahavelona, known to Europ
 
 During their stops to rest, Ellis photographed trees and plants using the calotype process, developing his negatives at night. Arriving at Foule Point, he spent the evening secretly meeting with local Christians who asked questions about religious belief and practice in England. Reflecting on the meeting, he noted ‘the deep and peculiar sympathy which we all seemed to feel’:
 
-We were inhabitants of different hemispheres, and belonged to communities widely separated from each other by their relative civilisation and social position; yet we met and conferred together with a degree of confidence, satisfaction, and even enjoyments, as entire and sincere as if we have been long united in the closest human fellowship; and we felt, that we cherished aspirations as identical as if we were ultimately to be gathered into one common home.[^⁠63]
+> We were inhabitants of different hemispheres, and belonged to communities widely separated from each other by their relative civilisation and social position; yet we met and conferred together with a degree of confidence, satisfaction, and even enjoyments, as entire and sincere as if we have been long united in the closest human fellowship; and we felt, that we cherished aspirations as identical as if we were ultimately to be gathered into one common home.[^⁠63]
 
 Although Ellis was able to consider the racial identities and origins of his Malagasy friends, as well as to entertain fairly dubious phrenological theories concerning the shape of their heads, this did not prevent him from also ‘brothering’ them – asserting the essential similarity of human sympathies on which missionary activity was ultimately predicated.
 
 Indeed, he went on to suggest that ’sympathy so entire and uniform under all the diversities of external condition… can spring from only one source’, divine influence, arguing that in time ‘the estranged and separated members of the human family’ would ultimately be united ‘in one hallowed bond of brotherhood and peace’.[^⁠64]
 
-Although asked for a portrait by the Governor of Foule Point, his proved impossible due to heavy rain. Returning to Tamatave, Ellis left Madagascar on 14 September 1854_._ According to his own account, his cabin was so filled with boxes, baskets and bales of orchids that there was only enough room left for him to climb directly into the berth. On 20 December, he left Mauritius for the Cape, where he spent five months visiting LMS missions on behalf of the Directors.[^⁠65]
+Although asked for a portrait by the Governor of Foule Point, this proved impossible due to heavy rain. Returning to Tamatave, Ellis left Madagascar on 14 September 1854. According to his own account, his cabin was so filled with boxes, baskets and bales of orchids that there was only enough room left for him to climb directly into the berth. On 20 December, he left Mauritius for the Cape, where he spent five months visiting LMS missions on behalf of the Directors.[^⁠65]
 
 Stopping at Salt Pans Drift in the Great Karoo in March 1855, on his way to Cradock (Nxuba), Ellis stayed with the Trollip family, descendants of English settlers to South Africa who arrived in 1820. In their house he found a ‘well-filled bookcase’ including _The Women of England_, ‘alongside several other equally familiar volumes by the same writer, which I had little expected to meet with in this remote part of Africa’. The writer, Sarah Stickney, was in fact William Ellis’s wife, the two having married in 1837 following the death of Ellis’ first wife, Mary Mercy Moor, in 1835.[^⁠66]
 
@@ -210,13 +210,13 @@ Ellis met many old friends in Madagascar, including the family of a man whose po
 
 On 17 July, an English speaking guide who had worked in the Cape for several years as a youth arrived to take them to the capital. As well as his photographic equipment, Ellis took a model electric telegraph that he hoped to demonstrate, in the expectation it would:
 
-heighten their sense of the amazing resources of civilised nations, and the many advantages to be derived from upright and amicable intercourse with them.[^⁠73]
+> heighten their sense of the amazing resources of civilised nations, and the many advantages to be derived from upright and amicable intercourse with them.[^⁠73]
 
 His visitors were evidently much impressed when told a cannon could be fired from miles away by means of a wire connected to a battery, but Ellis was disappointed to discover that a French Jesuit had already offered to establish a telegraph between Tamatave and the kingdom’s inland capital, Antananarivo.
 
 Ellis left Tamatave on 6 August 1856, four men carrying him in a palanquin. On the road they met ‘two chiefs’ who had seen the photographs Ellis had given to people two years earlier, and asked whether he intended to make more at the capital.[^⁠74]
 
-On 26 August they arrived at Antananarivo where Ellis was provided with accommodation by the Queen. The following day he was visited by the twenty-six year old son of Queen Ranavalona and evident heir to the thrown, Prince Rakoto (later Radama II). He wore ‘a black dress-coat and pantaloons, gold embroidered velvet waistcoat, and white cravat’. Ellis showed him photographs of his house and family, back in England.[^⁠75]
+On 26 August they arrived at Antananarivo where Ellis was provided with accommodation by the Queen. The following day he was visited by the 26 year old son of Queen Ranavalona and evident heir to the thrown, Prince Rakoto (later Radama II). He wore ‘a black dress-coat and pantaloons, gold embroidered velvet waistcoat, and white cravat’. Ellis showed him photographs of his house and family, back in England.[^⁠75]
 
 They spoke about Queen Victoria, international affairs and the war with Russia in Crimea, as well as the British alliance with France. According to Ellis, the prince spoke of ‘the English having often interfered to protect the weak and the injured, and to prevent wrong’, but how much of this was a charitable interpretation, applied by Ellis forthe benefit of his English readers, is unclear.[^⁠76]
 
@@ -224,7 +224,7 @@ The Prince asked about the meaning of the term ‘protection’, probing rumours
 
 For Ellis, the rivalry with French Catholics for the island presumably reminded him of Tahiti where he began his missionary career. Tahiti had been declared a French protectorate in 1842, although Huahine where Ellis also lived, remained independent, at least in 1856.
 
-Ellis received a visit from the family of a (Christian) friend who had died shortly after he left in 1854. Ellis took ‘a small likeness of my friend’ out of his portfolio and handed to his father, who looked at it and wept. His mother kissed the photograph, weeping silently, but profusely for several minutes. He then gave a full-length portrait to the man’s widow who also wept. After they all cried together, Ellis offered to give them one of the photographs, but they asked him to frame to better preserve their relative’s memory.[^⁠78]
+Ellis received a visit from the family of a (Christian) friend who had died shortly after he left in 1854. Ellis took ‘a small likeness of my friend’ out of his portfolio and handed to his father, who looked at it and wept. His mother kissed the photograph, weeping silently, but profusely for several minutes. He then gave a full-length portrait to the man’s widow who also wept. After they all cried together, Ellis offered to give them one of the photographs, but they asked him to frame it to better preserve their relative’s memory.[^⁠78]
 
 Ellis was soon visited by an officer from the Royal Court to discusse the gifts he had brought. Although of interest to the officers, the electric telegraph had already been dismissed by the Queen. When they talked about photography, he told Ellis that the Queen and some of other people had the idea that ‘if their likenesses were taken they would soon die; that the likeness resembled the spirit of a person, and when that was gone said, “Why what is there left?”.[^⁠79]
 
@@ -236,7 +236,7 @@ Ellis had hesitated to use his camera at the capital, but when he received a not
 
 He soon found, however, that he had no acetic acid to make a developing solution. Roger Fenton had helped him make a list of necessary items, but somehow Ellis omitted the acetic acid:
 
-My perplexity was great; and I am sure all photographers who have been in similar circumstances of destitution, in a country where there were no chemist’s shops, and no fellow-photographers of whom to borrow, will be able fully to sympathise with me.[^⁠83]
+> My perplexity was great; and I am sure all photographers who have been in similar circumstances of destitution, in a country where there were no chemist’s shops, and no fellow-photographers of whom to borrow, will be able fully to sympathise with me.[^⁠83]
 
 As the Prince became increasingly impatient for his photograph, Ells attempted to experiment with alternatives to the missing acetic acid. Summoned to present his gifts to the Queen, he took engravings of Queen Victoria and Prince Albert, as well as a colour print of Windsor Castle. Returning to his dark room to continue his experiments, he was called away to a dance, at which he regretted not having a camera to record the opulent costumes.[^⁠84]
 
@@ -248,7 +248,7 @@ Ellis woke early on Monday 22 September, however, to set up some matting as a ba
 
 The following morning, the prince returned to be photographed with his wife (whose swollen face the day before led her to avoid the camera), and they both joined Ellis in the dark room to witness the developing process. Ellis then offered to make a full-length portrait using a larger plate of glass, 15 by 12 inches, but had to set up a temporary stand to allow the princess to keep her head still while standing for a minute. This was followed by a joint portrait of the couple, which they watched developing in the dark room together:
 
-The distinctness of tones in the princess’s necklace, and the bouquet in her hand, with the strong relief of the star in the prince’s breast, and the book he held, caused them to marvel quite as much as the features of their countenances. They had moved very slightly, and the photograph was not so good as that of the single figures: but it was passable and afforded them great satisfaction.[^⁠87]
+> The distinctness of tones in the princess’s necklace, and the bouquet in her hand, with the strong relief of the star in the prince’s breast, and the book he held, caused them to marvel quite as much as the features of their countenances. They had moved very slightly, and the photograph was not so good as that of the single figures: but it was passable and afforded them great satisfaction.[^⁠87]
 
 Next, Ellis tried to photograph an officer, ‘who had come in a richly embroidered uniform’, but the sunlight in the middle of the day resulted in ‘a bad and burnt impression’.[^⁠88]
 
@@ -256,11 +256,11 @@ Ellis suggests it was the following day that he attempted to make the full-lengt
 
 On 26 September 1856, Ellis left Antananarivo for the coast.[^⁠89]
 
-In the early morning on 25 September 1856, when he photographed his friend, William Ellis seems to have been pursuing an alternative agenda. Rather than simply photographing high-status royals, keen to use photography to immortalise themselves in all their imported finery, he wanted to make portraits of key members of the underground Christian Church. They largely remained largely nameless in the text he published in 1859, presumably at least partly to protect thei identities.
+In the early morning on 25 September 1856, when he photographed his friend, William Ellis seems to have been pursuing an alternative agenda. Rather than simply photographing high-status royals, keen to use photography to immortalise themselves in all their imported finery, he wanted to make portraits of key members of the underground Christian Church. They largely remained nameless in the text he published in 1859, presumably at least partly to protect thei identities.
 
 Nevertheless, in concluding _Three Visits to Madagascar_, Ellis connected the plight of Malagasy Christians to the persecution of Christians in earlier ages, suggesting that the authorities in Madagascar:
 
-Only imitated the Diocletians of the early ages, and the Alvas, the Medicis, and the Marys of more recent times, and with corresponding results in the invincible constancy of those who fell and the subsequent fruits of the imperishable seed which was scattered in the martyrs’ blood.[^⁠90]
+> Only imitated the Diocletians of the early ages, and the Alvas, the Medicis, and the Marys of more recent times, and with corresponding results in the invincible constancy of those who fell and the subsequent fruits of the imperishable seed which was scattered in the martyrs’ blood.[^⁠90]
 
 News of the death of Queen Ranavalona, the ascension to the throne of Prince Rakoto as Radama II, and the end of the persecution of the Christians reached Britain in autumn 1861. Ellis made his way back to Madagascar in November 1861, arriving on 22 May 1862.[^⁠91] During her husband’s third long-term absence, Sarah Stickney published her own work on the island, _Madagascar: Its Social and Religious Progress,_ early in 1863.[^⁠92] William Ellis would not return home until October 1865.[^⁠93]
 
@@ -272,7 +272,7 @@ When the same printing plate was re-used in _The Martyr Church_, published in 18
 
 In _Madagascar Revisited_, published in 1867, Ellis explained that Rainitsontsoraka had ‘been among the little band who gathered in my inner room in the concealment of night’ to worship, and was:
 
-my daily and most pleasant companion during my first visit to Antananarivo, and who was one of the distinguished witnesses for Christ who suffered in this last and severest ordeal.[^⁠97]
+> my daily and most pleasant companion during my first visit to Antananarivo, and who was one of the distinguished witnesses for Christ who suffered in this last and severest ordeal.[^⁠97]
 
 He would be the person Ellis gave his remaining medicine and medical book when he left Antananarivo in 1856.
 
@@ -286,13 +286,13 @@ Named as worshipping Christians once more, they were imprisoned for two years an
 
 In 1855, the fetters were removed from the two brothers, shortly before Ellis visited Antananarivo. At the end of the account of his life, Rainitsontsoraka declared:
 
-This is the state of the work of the Lord with me, which I made known unto you, beloved brother; and all the friends here visit you. May you live, and have happiness, saith RAINITSONTSORAKA and his brother.[^⁠102]
+_This is the state of the work of the Lord with me, which I made known unto you, beloved brother; and all the friends here visit you. May you live, and have happiness, saith RAINITSONTSORAKA and his brother._[^⁠102]
 
 It seems clear to me at least that the man in the photograph wearing the striped lamba is the same as the one in the photograph with ‘Native Christian Pastor’ written on the back. It is less clear that this man is the one in the photograph labelled ‘Rainitsontsoraka’. Is it possible that the man in the brown silk lamba was in fact not Rainitsontsoraka but rather Rainimanga, his brother who was also a Christian?
 
 Converting the surviving negative at Wisbech into a positive image, this looks to me like another man altogether. Did Ellis incorrectly label this, failing to recognise his friend’s face in the negative image? Or was the error made in 1874 when an index was compiled for the prints made by Samuel Smith, after Ellis had died?
 
-In some ways, we can regard these photographs from Madagascar as an extension of the many portraits of faithful Christian individuals which had appeared at the front of the _Evangelical Magazine_ for over half a century_._  As photographs, however, they encourage us to look deeper into the faces of their subjects, chemically preserved for posterity, treating these images as proxies for their identities as individuals, even after death – possibly even as indexes of their very souls.
+In some ways, we can regard these photographs from Madagascar as an extension of the many portraits of faithful Christian individuals which had appeared at the front of the _Evangelical Magazine_ for over half a century. As photographs, however, they encourage us to look deeper into the faces of their subjects, chemically preserved for posterity, treating these images as proxies for their identities as individuals, even after death – possibly even as indexes of their very souls.
 
 Acknowledgements
 
@@ -300,7 +300,7 @@ I am very grateful to Robert Bell for providing me with access to the Ellis mate
 
 I have learned a lot about Madgascar from working with John Mack, and am extremely grateful that he agreed to give up time at a tricky time to read and comment on the chapter, as well as for putting me in touch with Simon Peers, whose work on the photographs was extremely valuable as I tried to make sense of them.
 
-I learned an awful lot from Elizabeth Edwards about photographs and photography as a student, as well as from Amelia King, whose thesis on Baptist photography in Congo, whose thesis Elizabeth kingly agreed to examine. It was Amelia who made it clear just how important photographs of distant family members were in missionary homes, inspiring my engagement with the photograph featuring Sarah Stickney in this chapter.
+I learned an awful lot from Elizabeth Edwards about photographs and photography as a student, as well as from Amelia King, whose thesis was on Baptist missionary photography in Congo, which Elizabeth kingly agreed to examine. It was Amelia who made it clear just how important photographs of distant family members were in missionary homes, inspiring my engagement with the photograph featuring Sarah Stickney in this chapter.
 
 
 {% figure "fig-c19-1" %}
