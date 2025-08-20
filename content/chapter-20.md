@@ -1,7 +1,8 @@
 ---
 label: 20
 title: "Missions, Erromango, No. 725"
-subtitle: 
+subtitle: Exposition Universelle, Paris, Summer 1867
+
 layout: essay
 order: 49
 classes:
@@ -12,7 +13,7 @@ abstract: |
 page_pdf_output: true
 ---
 
-Sketched in a small black notebook, now at the Centre for Anthropology Library at the British Museum, is the slender outline of a club, its handle separated from the gently curved head by a slim band, with additional lozenges carved at either end. Marked above the head of the club is a measurement, two and a half inches, presumably the diameter, while the length of the club is written along its side, 2ft 10in. Next to the bottom of the club is an enlarged oval, evidently depicting a pattern carved into the base.[^⁠1]
+Sketched in a small black notebook, now at the Centre for Anthropology Library at the British Museum, is the slender outline of a club, its handle separated from the gently curved head by a slim band, with additional lozenges carved at either end. Marked above the head of the club is a measurement, two and a half inches, presumably the diameter, while the length of the club is written along its side, 2 feet 10 inches. Next to the bottom of the club is an enlarged oval, evidently depicting a pattern carved into the base.[^⁠1]
 
 As well as these sketches and the accompanying measurements are three words, written in pencil: ‘Missions’, ‘Erromango.’, and ‘No. 725’. There is also what appears to be an abbreviated inscription, possibly in shorthand. The page forms part of two sequences in the notebook which have the word ‘Missions’ written at the top of each page.[^⁠2] A number of these pages feature sketches of familiar artefacts from the collections of the London Missionary Society, including an apron of iron beads ([Chapter 8](https://argonauts2022.net/mantatese-apron/)) and a quadrangular club from South America ([Chapter 5](https://argonauts2022.net/pehi/)).
 
