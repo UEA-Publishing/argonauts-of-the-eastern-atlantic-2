@@ -18,6 +18,8 @@ Ellis was keen to support these ‘fellow-workers’, suggesting that ‘a few c
 
 Ellis referred Leipoldt to the list at the end of his letter, itemising ‘the accompanying specimens’, as well as books ‘prepared by our Missionaries in different parts of the World’.[^3]
 
+{% figure "fig-c13-1" %}
+
 With items from the Pacific, South Asia, China and southern Africa, the list covers the main areas in which the LMS had been most active over the previous 35 years. Half the ‘specimens’ appear to have been religious ‘idols’, from Tahiti, the Cook Islands, Myanmar, India and possibly China, with a similar number of seemingly everyday items from Africa – a ladle, a knife, a necklace and two rings.
 
 While not obviously demonstrating ‘the degradation of the heathen’, these would have been of considerable interest in Barmen, since the Rhenish Missionary Society sent its first four recruits to South Africa under the guidance of John Philip, the Scottish superintendent of LMS missions there. Philip had travelled to London in 1826 to lobby for the rights of indigenous people at the Cape (more on this below), returning to South Africa in 1829 with recruits from the LMS, the Rhenish Missionary Society, as well as the Paris Evangelical Missionary Society (a Protestant organisation established in 1822).[^4]
@@ -382,3 +384,4 @@ I am also grateful to David Wengrow for a long friendship, extending back to an 
 [^65]: _Engels, F. (1969 \[1845\]). Condition of the Working Class in England. Introduction. Available at:_ [_https://www.marxists.org/archive/marx/works/download/pdf/condition-working-class-england.pdf_](https://www.marxists.org/archive/marx/works/download/pdf/condition-working-class-england.pdf)
 
 {% endbackmatter %}
+
