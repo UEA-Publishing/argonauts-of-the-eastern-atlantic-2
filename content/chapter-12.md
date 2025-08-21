@@ -168,9 +168,17 @@ When Williams delivered a sermon in the chapel, Papeiha and Vahapata before the 
 
 Sailing in search of Rarotonga, Papeiha updated Williams on events at Aitutaki over the previous eighteen months, including three periods of armed conflict (suggesting Christian conquest was not as bloodless as claimed). Papeiha and Vahapata had initially been regarded as ‘Two logs of drift-wood, washed on shore by the waves of the ocean’, but their status was enhanced by the arrival of the _Endeavour_ on her way to New South Wales in December 1822, bringing spelling books, axes, pigs and goats from Ra’iatea.[^42]
 
+{% figuregroup '2' "fig-c12-14, fig-c12-15"%}
+
+{% figure "fig-c12-16" %}
+
 Soon afterwards, Papeiha called for the destruction of the island’s _maraes_, the presentation of ‘idols’ to him, and the construction of a chapel. Gleaming white, with plaster made from roasted coral, the new chapel must have dazzled those who had never before seen such a building.
 
 After a week of searching unsuccessfully for Rarotonga, the _Endeavour_ steered for the island of Mangaia. Swimming ashore, Papeiha explained the nature of the ship and its mission. On landing, however, the teachers and their property were seized – a saw broken into three, bonnets dragged through the water, bedsteads seized, and cocoa-nut oil poured over people’s bodies. The teachers’ wives were carried into the woods, only to be rescued when the ship fired a small cannon.
+
+{% figure "fig-c12-17" %}
+
+{% figuregroup '2' "fig-c12-18, fig-c12-19"%}
 
 Papeiha, who had been strangled during the attack with a tiputa (a poncho type upper garment made of bark cloth, worn by many converts), told the leader who had encouraged them to land what he thought of this behaviour. The man in question, we are told, wept, declaring that all heads were an equal height on his island.[^43] Months later, the _Endeavour_ returned to Mangaia on its way to New South Wales with Tyerman and Bennet, leaving Davida and Tiere, both unmarried men from Taha’a, as missionaries on the island, which had suffered a severe epidemic following this earlier visit.
 
@@ -191,6 +199,8 @@ _Satan knows well that this ship was the most fatal weapon ever formed against h
 Appealing for funds for a replacement, Williams and Threlkeld wrote:
 
 > Think not of the expense of such a vessel. Remember the gods are to be her cargo, and your reward. Twice has the Lord God sent you these from hence and from other islands, and your eyes shall see yet greater things.[^50]
+
+{% figure "fig-c12-20" %}
 
 When Williams returned to Rarotonga in May 1827, it had been less than four years since his first visit. When Tyerman and Bennet, together with Threlkeld, visited the island on their way to to New South Wales in late 1824 they reported that the whole population were already engaged in building a six hundred foot long chapel.[^51] How had Papeiha reorganised the island along Christian principles in such a short period?
 
@@ -354,6 +364,7 @@ Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and 
 [^57]: Gordon, G. (1863). The Last Martyrs of Erromanga. Halifax, Nova Scotia, Macnab & Shaffer, p.237: <https://books.google.co.uk/books?id=CAMFAAAAYAAJ&pg=PA106&dq=The+Last+Martyrs+of+Erromanga&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjTlpDZ08aFAxV-VkEAHbuEDmIQ6AF6BAgKEAI#v=onepage&q&f=false>
 
 {% endbackmatter %}
+
 
 
 
