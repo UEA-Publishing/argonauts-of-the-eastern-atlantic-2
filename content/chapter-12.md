@@ -224,13 +224,19 @@ Just as at Tahiti and Ra’iatea, the adoption of Christianity at Rarotonga was 
 
 _The desire of nearly all the people of the island is for their old practices being revived… should the Chiefs again turn their backs to the Teachers the people would for the greater part by far return with them with joy to their heathenish practices._[^54]
 
+{% figure "fig-c12-21" %}
+
 This chapter began with the image on the title page of John Williams’ book, showing the presentation and destruction of ‘idols’ in front of the teachers’ houses at Ngatangiia. It ends by considering this image as readers would have encounetred it in early editions of the book, alongside a colour image produced by George Baxter with the title ‘_Te Po, a Chief of Rarotonga’_ (Te Pou Ariki of Takitumu).
 
 The image is magnificent, showing  the _ariki_ with his spear aloft, holding a fan in the other hand. His noble body is wrapped with tattoos and gleaming white barkcloth, his head adorned by a headdress suggestive of a crown. His centrality within the image seems to demonstrate mastery over both land and sea. In the background, however, a lightly sketched European ship (not evident in the painting, above, on which this seems to have been based) is suggestive of new arrivals.
 
+{% figure "fig-c12-22" %}
+
 Viewed in combination with the image on the title page, which would have faced it when opening the book, the images present a contrast. They are images of before and after, suggestive of conversion, evoking images of imaginary tattooed British ancestors before the coming of Christianity. While the conversion of Rarotonga involved transformations in dress, as well as the replacement of one type of religious structure, the _marae_ with another, the _chapel_, these outward changes likely mask many continuities in the attitudes of the majority of the population.
 
 One undeniable change, however, seems to have been the destruction and removal of wood carvings that evoked ancestral power. The ‘gigantic idol’ at the Missionary Museum (now in the British Museum) appears to have been the only _ki’iki’i_ of its size to survive. In 1853, Isaia Papehia, the 15 year old son of Papeiha, whose maternal grandfather was _ariki_ of Tinomana, travelled to London with the Rev. William Gill, who had been a missionary on Rarotonga since 1839.[^55]
+
+{% figure "fig-c12-23" %}
 
 Visiting the Missionary Museum in London, Isaia encountered the ‘idol of his own grandfather of which he had heard much; the sight of it affected him to tears, and he expressed deep compassion for the people of his native land’.[^56]
 
@@ -364,6 +370,7 @@ Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and 
 [^57]: Gordon, G. (1863). The Last Martyrs of Erromanga. Halifax, Nova Scotia, Macnab & Shaffer, p.237: <https://books.google.co.uk/books?id=CAMFAAAAYAAJ&pg=PA106&dq=The+Last+Martyrs+of+Erromanga&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjTlpDZ08aFAxV-VkEAHbuEDmIQ6AF6BAgKEAI#v=onepage&q&f=false>
 
 {% endbackmatter %}
+
 
 
 
