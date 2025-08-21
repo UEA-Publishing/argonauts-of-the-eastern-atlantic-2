@@ -98,6 +98,8 @@ In a letter also sent in the _Hope_ to the Directors, Tamatoa explained that he 
 
 > some men said to me that I had taken care of the evil spirits, and that was the reason I was overtaken with sickness; I was requested by the people to burn the evil spirits, and I said Burn them, _Oro e a Hiro_ were the two evil spirits that were burned.[^22]
 
+{% figure "fig-c12-9" %}
+
 In August 1821, Threlkeld’s boat arrived back at Ra’iatea with letters from Au’ura, Puna and Mahamene, carrying what John Williams described as ’prisoners, the gods of the heathen, taken in this bloodless war, and won by the blood of Him who is Prince of Peace’. A letter sent by Puna and Mahamene described a meeting of ‘the chiefs and king’ at Rurutu when Au’ura proposed that ’the evil spirit be this instant cast into the fire’, suggesting that God had guided him to Ra’iatea ‘where the teachers are’. According to this letter, two men started up ‘inspired by the evil spirit’, stating ‘I have seen the foundation of the firmament, up in the sky. Taaroa brought me forth.’[^23]
 
 Auura then answered the evil spirit thus, ‘Do you leap up then, that we may see you flying up into the sky. Do so now, immediately. Truly thou art even the very foundation of deceit. The people of Rurutu have been completely destroyed through you, and through you alone, and now you shall not deceive us again…'.[^24]
@@ -107,6 +109,8 @@ Puna then advised the assembled men:
 _prepare one place where you may all eat together, you and your wives and children, and your king, at one eating place, and there the evil spirit who has just now inspired that man shall be completely ashamed: he has no refuge; but cast away every disgraceful thing from among you, for that is the reason he remains among you._[^25]
 
 When communal eating prompted no apparent ill effects, the people of Rurutu ‘boldly seized the gods, and then proceeded to demolish totally the Morais \[Maraes\], which was all completely effected that day.’ Puna and Mahamene then oversaw the construction of a chapel, in which Tyerman and Bennet noticed old spears being used ’to support the balustrade of the pulpit staircase’ in November 1822.⁠[^26]
+
+{% figure "fig-c12-10" %}
 
 The evening that Threlkeld’s boat arrived back at Ra’iatea, a meeting was held in the chapel, lit by a great many cocoa nut shell lamps. The evangelists’ accounts from Rurutu were shared and the ‘idols’ exhibited from the pulpit. According to Williams:
 
@@ -122,10 +126,7 @@ Another speaker observed:
 
 Religion clearly remained a material business for many members of the congregation at Ra’iatea. The wrapping of Christian women in gowns and bonnets could be read as advancement, just as the unwrapping and burning of ‘gods made with the hands’ marked a devaluation. Nevertheless, it is significant that the translated remarks of both Tamatoa and Tuahine refer primarily to ‘spirits’ rather than to ‘idols’, a Biblical term used mostly by European missionaries.
 
-{Figure "fig-c12-11"}
-['Idols' worshipped by the Inhabitants of the South Sea Islands](https://wellcomecollection.org/works/uue7tp4t)
-
-Printed to face the title page of Volume 2 of William Ellis (1829) _Polynesian Researches (_London: Fisher, Son & Jackson). [Wellcome Collection EPB/B/21643/1.v2](https://wellcomecollection.org/works/uue7tp4t)
+{% figure "fig-c12-11" %}
 
 Earlier religious practices involving _marae, to’o_ and _ti’i_ appear to have provided the means to manifest and communicate with immaterial spiritual entities – just as printed Bibles embodied the immaterial word of God, and newly built Chapels housed congregations through which the Holy Spirit could act on earth. Describing _ti’i_ (carvings representing spirits) and _to’o_ (pieces of hard wood representing national or family gods), following conversations with a maker of such things at Ra’iatea, William Ellis suggested that:
 
@@ -134,6 +135,8 @@ _Into these they supposed the god entered at certain seasons, or in answer to th
 Early nineteenth century Evangelical Christianity, with its emphasis on opening oneself to and accepting, the redeeming power of divine Grace must have been immediately comprehensible to people whose existing religious practices also concerned the channeling divine power in the world, even if they called this _mana_ rather than Grace. This sense of recognition appears to have been mutual, William Ellis declaring:
 
 > it is impossible not to feel interested in a people who were accustomed to consider themselves surrounded by invisible intelligences, and who recognised in the rising sun – the mild and silver moon – the shooting star – the meteor’s transient flame – the ocean’s roar – the tempest’s blast, or the evening breeze – the movements of mighty spirits.[^31]
+
+{% figuregroup '2' "fig-c12-12, fig-c12-13"%}
 
 In October 1821, John and Mary Williams traveled to New South Wales in the _Westmoreland_, a visiting ship, for health reasons.[^32] Inspired by what had recently taken place at Rurutu, Williams proposed taking further members of his congregation to serve as missionaries at Aitutaki, in what is now the Cook Islands. Members of the Church selected two of their number, Papeiha and Vahapata, for this work.[^33]
 
@@ -351,6 +354,7 @@ Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and 
 [^57]: Gordon, G. (1863). The Last Martyrs of Erromanga. Halifax, Nova Scotia, Macnab & Shaffer, p.237: <https://books.google.co.uk/books?id=CAMFAAAAYAAJ&pg=PA106&dq=The+Last+Martyrs+of+Erromanga&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjTlpDZ08aFAxV-VkEAHbuEDmIQ6AF6BAgKEAI#v=onepage&q&f=false>
 
 {% endbackmatter %}
+
 
 
 
