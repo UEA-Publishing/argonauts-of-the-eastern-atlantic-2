@@ -224,8 +224,6 @@ I am extremely grateful to Rachel Hand for drawing my attention to donation of m
 I am also grateful to David Wengrow for a long friendship, extending back to an excavation in Lesotho in 1998. His 2021 book with David Graeber, _The Dawn of Everything_, has stimulated me to reflect in this chapter on the peculiarity of British configurations of political subjecthood, as well as their global implications.
 
 
-{% figure "fig-c13-1" %}
-
 {% figure "fig-c13-2" %}
 
 {% figure "fig-c13-3" %}
@@ -384,4 +382,5 @@ I am also grateful to David Wengrow for a long friendship, extending back to an 
 [^65]: _Engels, F. (1969 \[1845\]). Condition of the Working Class in England. Introduction. Available at:_ [_https://www.marxists.org/archive/marx/works/download/pdf/condition-working-class-england.pdf_](https://www.marxists.org/archive/marx/works/download/pdf/condition-working-class-england.pdf)
 
 {% endbackmatter %}
+
 
