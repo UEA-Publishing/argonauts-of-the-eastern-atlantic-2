@@ -42,9 +42,7 @@ The script for this tale of conversion – the destruction of religious ‘idols
 
 Nearly two centuries after the event that was depicted on the title page of John Williams’ (1837) _Narrative of Missionary Enterprises_, above a quotation from Isaiah ii, 18 declaring  ‘And the idols he shall utterly abolish’, how best can we understand the conditions that prompted this performance of conversion?
 
-{% figure "fig-c12-5" %}
-
-{% figure "fig-c12-6" %}
+{% figuregroup '2' "fig-c12-5, fig-c12-6"%}
 
 John and Mary Williams had arrived in the Pacific ten years earlier, on 17 November 1817, together with four other missionary couples. Inspired by news of Pomare’s ‘overthrow of idolatry at Tahiti’ ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)), they formed part of a significant reinforcement for the, by then, fairly depleted first generation of European missionaries (four of whom had arrived in the _Duff_ in 1797 and the other four in the _Royal Admiral_, a convict ship, in 1801).
 
@@ -353,6 +351,7 @@ Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and 
 [^57]: Gordon, G. (1863). The Last Martyrs of Erromanga. Halifax, Nova Scotia, Macnab & Shaffer, p.237: <https://books.google.co.uk/books?id=CAMFAAAAYAAJ&pg=PA106&dq=The+Last+Martyrs+of+Erromanga&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjTlpDZ08aFAxV-VkEAHbuEDmIQ6AF6BAgKEAI#v=onepage&q&f=false>
 
 {% endbackmatter %}
+
 
 
 
