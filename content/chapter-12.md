@@ -22,8 +22,7 @@ Three days after the arrival of the Pitmans and the Williams, the ship on which 
 
 > A day or two afterwards, they requested us to take our seat outside the door; and on doing so, we observed a large concourse of people coming towards us, bearing heavy burdens. They walked in procession, and dropped at our feet fourteen immense idols, the smallest of which was above five yards in length. Each of these was composed of a piece of _aito_, or iron-wood, about four inches in diameter, carved with rude imitations of the human head at one end, and with an obscene figure at the other, wrapped around with native cloth, until it became two or three yards in circumference. Near the wood were red feathers, and a string of small pieces of polished pearl shells, which were said to be the _manava_, or soul of the god. Some of these idols were torn to pieces before our eyes; others were reserved to decorate the rafters of the chapel we proposed to erect; and one was kept to be sent to England, which is now in the Missionary Museum.[^3]
 
-{% figure "fig-c12-2" %}
-{% figure "fig-c12-3" %}
+{% figuregroup '2' "fig-c12-2, fig-c12-3"%}
 
 In Williams’ (1837) book, _A Narrative of Missionary Enterprises_, there is an image on the page after this description, showing what is described by a caption as ‘_One of the national idols’_, wrapped in layers of bark cloth, alongside its string of shells, or _manava,_ captioned as the ’_Soul of the idol_’. Empty space on the page is filled by a sketch of ‘_The Fisherman’s god_’, also from Rarotonga. This ‘Fisherman’s god’, now in the British Museum ([Oc,LMS.36](https://www.britishmuseum.org/collection/object/E_Oc-LMS-36)), appears to have been emasculated, though whether this happened in Rarotonga is unknown.
 
@@ -354,5 +353,6 @@ Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and 
 [^57]: Gordon, G. (1863). The Last Martyrs of Erromanga. Halifax, Nova Scotia, Macnab & Shaffer, p.237: <https://books.google.co.uk/books?id=CAMFAAAAYAAJ&pg=PA106&dq=The+Last+Martyrs+of+Erromanga&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjTlpDZ08aFAxV-VkEAHbuEDmIQ6AF6BAgKEAI#v=onepage&q&f=false>
 
 {% endbackmatter %}
+
 
 
