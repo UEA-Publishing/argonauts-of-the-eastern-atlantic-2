@@ -27,10 +27,6 @@ Three days after the arrival of the Pitmans and the Williams, the ship on which 
 
 In Williams’ (1837) book, _A Narrative of Missionary Enterprises_, there is an image on the page after this description, showing what is described by a caption as ‘_One of the national idols’_, wrapped in layers of bark cloth, alongside its string of shells, or _manava,_ captioned as the ’_Soul of the idol_’. Empty space on the page is filled by a sketch of ‘_The Fisherman’s god_’, also from Rarotonga. This ‘Fisherman’s god’, now in the British Museum ([Oc,LMS.36](https://www.britishmuseum.org/collection/object/E_Oc-LMS-36)), appears to have been emasculated, though whether this happened in Rarotonga is unknown.
 
-{% figure "fig-c12-2" %}
-
-{% figure "fig-c12-3" %}
-
 {% figure "fig-c12-4" %}
 
 Similarly, just as Williams did not describe the ‘obscene figure’ at the bottom of the ancestral pole, known in the Rarotonga language as _ki’iki’i_, the image in his book avoids showing the phallus with which the twelve foot long pole originally terminated. Whether this had also been removed is unclear.[^4] In his text, however, Williams notes that:
@@ -46,6 +42,10 @@ A few days after the performance of iconoclasm described by Williams, several th
 The script for this tale of conversion – the destruction of religious ‘idols’, the adoption of new forms of dress and the building of a new church, overseen from a distance by European missionaries, recapitulates the image produced for _Missionary Sketches_ in July 1819, where it illustrated the conversion of Tahiti under Pomare II ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)). Given that no Europeans had lived at Rarotonga for any length of time before May 1827, it seems safe to assume that at least part of this script was compatible, or at least comprehensible, in terms of existing Polynesian religious practices.
 
 Nearly two centuries after the event that was depicted on the title page of John Williams’ (1837) _Narrative of Missionary Enterprises_, above a quotation from Isaiah ii, 18 declaring  ‘And the idols he shall utterly abolish’, how best can we understand the conditions that prompted this performance of conversion?
+
+{% figure "fig-c12-5" %}
+
+{% figure "fig-c12-6" %}
 
 John and Mary Williams had arrived in the Pacific ten years earlier, on 17 November 1817, together with four other missionary couples. Inspired by news of Pomare’s ‘overthrow of idolatry at Tahiti’ ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)), they formed part of a significant reinforcement for the, by then, fairly depleted first generation of European missionaries (four of whom had arrived in the _Duff_ in 1797 and the other four in the _Royal Admiral_, a convict ship, in 1801).
 
@@ -71,6 +71,8 @@ Orsmond, in a somewhat embittered letter sent to England after he was dismissed 
 
 _The King changed his Gods, but he had no other reason but that of consolidating his Government. After his conquest it is true he went by short stages to shew his authority, receive presents from his newly acquired subjects, drink the abundance of native spirits, and then in their inebriety, cast down their Marae and destroy their Gods, thus by strategem taking away from any future rebellion thro the power of the idols which were always leaders in war._[^14]
 
+{% figure "fig-c12-7" %}
+
 The early years at Ra’iatea were spent building houses, chapels and bridges, including some on the neighbouring island of Taha’a.[^15] Williams’ appeal to supporters in Birmingham prompted a donation to assist his work, including:
 
 _two Casks, one containing Nails only, the other, Nails, Hammers, Bench Vices, Nippers, Pincers, Saws, Printing Ink and various other Articles._[^16]
@@ -86,6 +88,8 @@ Tuahine, added:
 > Whence comes the great waters? Is it not from the small streams that flow into them… I have been thinking that the Missionary Society in Britain is like the great water, and that such little Societies as ours are like the little streams. Let there be many little streams: let not ours be dry. Let missionaries be sent to every land. We are far better off now than we used to be. We do not now sleep with our cartridges under our heads, our guns by our sides, and our hearts in fear…[^19]
 
 Tuahine’s comments capture a sense that the adoption of Christianity was associated with an end to hostilities and the establishment of peace, but this entailed accepting the authority of the leaders who embraced the new religion such as Pomare II at Tahiti and Tamatoa at Ra’iatea.
+
+{% figure "fig-c12-8" %}
 
 In March 1821, a canoe arrived at Ra’iatea from Rurutu in the Austral Islands, 560 kilometres to the South, where disease had recently decimated the population. Au’ura, leader of the group, was deeply interested by Christian practices, learning to read during the time he spent at Ra’iatea. Four months later, the arrival of a ship, the _Hope_, tested the Ra’iateans’ commitment to supporting missionary activity by providing an opportunity for the 30 people who had come from Rurutu to return. Au’ura, however, stated that he didn’t wish to return to his ‘land of darkness without a light in his hand’.[^20]
 
@@ -350,4 +354,5 @@ Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and 
 [^57]: Gordon, G. (1863). The Last Martyrs of Erromanga. Halifax, Nova Scotia, Macnab & Shaffer, p.237: <https://books.google.co.uk/books?id=CAMFAAAAYAAJ&pg=PA106&dq=The+Last+Martyrs+of+Erromanga&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjTlpDZ08aFAxV-VkEAHbuEDmIQ6AF6BAgKEAI#v=onepage&q&f=false>
 
 {% endbackmatter %}
+
 
