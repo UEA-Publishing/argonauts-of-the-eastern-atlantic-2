@@ -109,33 +109,33 @@ Griffith thought the idea of the Higher Being could have ‘been obtained from t
 
 Interestingly, a brief summary of Griffith’s description in the _Missionary Chronicle_ was given in the scientific publication _Nature_ on 23 December 1880.[^⁠38] The emerging scientific field of Anthropology, with its roots in Britain’s anti-slavery and evangelical movement, was greatly concerned with religious practices and beliefs, drawing heavily on the accounts of missionaries like Griffith.
 
-The Quaker anthropologist E.B. Tylor argued in _Primitive Culture,_ his foundational 1871 book, that a belief in spiritual beings was an essential element in all religious practices. Critiquing the apparently contradictory statements of missionaries such as Robert Moffat ([Chapter 17](https://argonauts2022.net/17-model-bechuana-house/)) who declared that the people among whom he worked had no conception if immortality, while in the previous sentence giving a word for the shades or spirits of the dead, Tylor observed:
+The Quaker anthropologist E.B. Tylor argued in _Primitive Culture,_ his foundational 1871 book, that a belief in spiritual beings was an essential element in all religious practices. Critiquing the apparently contradictory statements of missionaries such as Robert Moffat ([Chapter 17](https://argonauts2022.net/17-model-bechuana-house/)) who declared that the people among whom he worked had no conception of immortality, while in the previous sentence giving a word for the shades or spirits of the dead, Tylor observed:
 
-But for the most part the “religious world” is so occupied in hating and despising the beliefs of the heathen whose vast regions of the globe are painted black on missionary maps, that they have little time or capacity left to understand them.[^⁠39]
+> But for the most part the “religious world” is so occupied in hating and despising the beliefs of the heathen whose vast regions of the globe are painted black on missionary maps, that they have little time or capacity left to understand them.[^⁠39]
 
 Instead, Tylor argued for the development of ‘kindly interest’ in ‘all record of men’s earnest seeking after truth with such light as they could find’, and it seems that this message may have impacted William Griffith’s attempt to understand ‘The Religious Notions of the Waguha’.[^⁠40] Tylor’s vision of the relationship between Christianity and other religions is worth considering, since it captures a perspective on civilisation and its history that was animating the establishment of museums of ethnology and anthropology across contemporary Britain, which would, in time, provide a home for many missionary collected artefacts (Chapter 22):
 
-No religion of mankind lies in utter isolation from the rest, and the thoughts and principles of modern Christianity are attached to intellectual clues which run back through far pre-Christian ages to the very origin of human civilisation, perhaps even of human existence.[^⁠41]
+> No religion of mankind lies in utter isolation from the rest, and the thoughts and principles of modern Christianity are attached to intellectual clues which run back through far pre-Christian ages to the very origin of human civilisation, perhaps even of human existence.[^⁠41]
 
 Central to these ‘thoughts and principles’, proposed Tylor, was ‘the deep-lying doctrine of Spiritual Beings’ which he suggested formed the ‘groundwork of the Philosophy of Religion’.[^⁠42] Tylor adopted the term Animism to describe this ‘ancient and world-wide philosophy, of which belief is the theory and worship is the practice’.[^⁠43] Moving away from an older, and essentially Old Testament, notions of idols and idolatry, Tylor argued that it was the belief in spiritual beings, and attempts to engage with them that lay behind the creation of such artefacts.
 
 The first volume of Tylor’s _Primitive Culture_ ended by declaring:
 
-The theory of the soul is one principal part of a system of religious philosophy, which unites, in an unbroken line of mental connexion, the savage fetish-worshipper and the civilised Christian. The divisions which have separated the great religions of the world into intolerant and hostile sects are for the most part superficial in comparison with the deepest of all religious schisms, that which divides Animism from Materialism.[^⁠44]
+> The theory of the soul is one principal part of a system of religious philosophy, which unites, in an unbroken line of mental connexion, the savage fetish-worshipper and the civilised Christian. The divisions which have separated the great religions of the world into intolerant and hostile sects are for the most part superficial in comparison with the deepest of all religious schisms, that which divides Animism from Materialism.[^⁠44]
 
 As someone who attended spiritualist seances (largely for scientific reasons), it is unclear on which side of this schism Tylor placed himself, but it is certainly true that missionaries and their potential converts were often united by a belief in spiritual beings, even if they disagreed about the best ways to engage with these.
 
 Since Griffith wrote his observations in May 1880, many missionaries, anthropologists and art historians have attempted to understand the ways in which Central Africa people understand and engage with the world of the spirits. What has emerged is a picture not significantly different to that articulated by Griffith. Indeed, W.F.P. Burton, Director of the Congo Evangelistic Mission, established in 1919, suggested that:
 
-Fear of the spirit-world holds the Luba in the most hideous thraldom, and is perhaps the biggest factor in controlling their entire lives from birth to death. [^⁠45]
+_Fear of the spirit-world holds the Luba in the most hideous thraldom, and is perhaps the biggest factor in controlling their entire lives from birth to death._ [^⁠45]
 
 In a chapter of his book on _Luba Religion and Magic_ with the title ‘The Idol’, Burton noted a confusion ‘among superficial observers of Luba custom’ between the spirit and the ‘idol-form in which he is supposed to live’:
 
-The distinction is as follows: a simple carved or moulded form is called &lt;<nkishi&gt;> (pl/ &lt;<bankishi&gt;>). It is a powerless lifeless image in wood or clay. The invisible being associated with a dead body is called a &lt;<mukishi&gt;> (pl. &lt;<bakishi&gt;>). One who is dead is often said to have become a &lt;<mukishi&gt;>, while a man who decorates the end of his walking stick with a human head is said to have carved a &lt;<nkishi&gt;>.[^⁠46]
+> The distinction is as follows: a simple carved or moulded form is called &lt;<nkishi&gt;> (pl/ &lt;<bankishi&gt;>). It is a powerless lifeless image in wood or clay. The invisible being associated with a dead body is called a &lt;<mukishi&gt;> (pl. &lt;<bakishi&gt;>). One who is dead is often said to have become a &lt;<mukishi&gt;>, while a man who decorates the end of his walking stick with a human head is said to have carved a &lt;<nkishi&gt;>.[^⁠46]
 
-Linked by a common root ‘-kishi’ the spirit and the carved image are theoretically distinct, although not always in practice. Burton noted that a spirit had to be induced ‘to enter into the form prepared for it’ through a process known as ‘kuyola’:
+> Linked by a common root ‘-kishi’ the spirit and the carved image are theoretically distinct, although not always in practice. Burton noted that a spirit had to be induced ‘to enter into the form prepared for it’ through a process known as ‘kuyola’:
 
-Often a piece of bone from a dead person is compounded with other ingredients {known as &lt;<bijimba&gt;>), in a horn or shell, and this charm is then inserted in the carved image, or tied about it, that the spirit may be induced to enter and to inhabit this form. When inhabited by a spirit, the form is no longer called a &lt;<nkishi&gt;> but a &lt;<mukishi&gt;>.[^⁠47]
+> Often a piece of bone from a dead person is compounded with other ingredients {known as &lt;<bijimba&gt;>), in a horn or shell, and this charm is then inserted in the carved image, or tied about it, that the spirit may be induced to enter and to inhabit this form. When inhabited by a spirit, the form is no longer called a &lt;<nkishi&gt;> but a &lt;<mukishi&gt;>.[^⁠47]
 
 Mary Nooter Roberts, who spent time researching Luba art during the 1980s, noted that the reason so many carvings take the form of female bodies is that only female bodies, perfected and enhanced by bodily decoration including deliberate scarification, were regarded as strong enough to contain powerful spirits, such as those of departed kings. Many Luba figures, like one of those at The British Museum (Af1910,-.441), gesture to their breasts, but rather than having sexual connotations this action alludes to a devotion to the secrets of Luba royal knowledge, safely kept there.[^⁠48]
 
@@ -153,11 +153,11 @@ Hutley was extremely interested in the use of bakishi, noting on 17 August 1880 
 
 When Hutley found a stone implement while bathing in the lake on 2 August 1880, he was told it was a relic of the past and that finding a spirit suggested he was fortunate. He was even given leaves to lay it on by Karembwe, who:
 
-said that now I was his brother this spirit was my father or some ancestor, and were I to leave it here and go to England it would find its way there. He gave me a lot of instructions as to what to do and promised that he himself would come up in the afternoon to give it the final touch required.[^⁠56]
+> said that now I was his brother this spirit was my father or some ancestor, and were I to leave it here and go to England it would find its way there. He gave me a lot of instructions as to what to do and promised that he himself would come up in the afternoon to give it the final touch required.[^⁠56]
 
 Whether Hutley followed these instructions is unclear, but when Edward Coode Hore addressed the Royal Geographical Society in November 1881 he referred to two pieces of stone, given to him by Hutley, stating that they were regarded with ‘great reverence as representatives or messengers from their deceased ancestors, storing them carefully away in little huts or baskets, carefully secured from damage’.[^⁠57] Hore felt these might originally have been part of digging stick weights, as used in Southern Africa,. He then noted:
 
-I have brought home specimens of arms, pottery, basket-work, cotton, bark, and palm-fibre cloths, as well as samples of the lake water, the water of the hot springs of Uguha, palm oil, mpufu oil, cotton, tobacco, china, clay, and the salt of Uvinsa and Ugogo, which may be seen at the London Missionary Society’s museum.[^⁠58]
+> I have brought home specimens of arms, pottery, basket-work, cotton, bark, and palm-fibre cloths, as well as samples of the lake water, the water of the hot springs of Uguha, palm oil, mpufu oil, cotton, tobacco, china, clay, and the salt of Uvinsa and Ugogo, which may be seen at the London Missionary Society’s museum.[^⁠58]
 
 Hore did not mention ‘wooden images’ or ‘spirits of the ancestors’.
 
@@ -169,7 +169,7 @@ Most of these visitors consisted of small groups of Europeans accompanied by lar
 
 Hutley continued to collect artefacts whenever he could, sending a small parcel of curiosities home to his friends in September 1880. He made no mention of acquiring any _bankishi_ until he was preparing to leave, due to poor health, in May 1881. Visiting Kasanga Mahongoro at Ruanda, he was shown into:
 
-a house apart where Shumari (his translator) made known to Kasanga that I had come to salute him, and as, I was going home, I wanted a spear and an Mkisi. They were soon after brought and two loads of meat given me, as well, for food. After an hour of more rest I returned to Butonga rather done up.
+> a house apart where Shumari (his translator) made known to Kasanga that I had come to salute him, and as, I was going home, I wanted a spear and an Mkisi. They were soon after brought and two loads of meat given me, as well, for food. After an hour of more rest I returned to Butonga rather done up.
 
 Was this Mkisi deconsecrated before being given to Hutley? Did it come from the Kasanga’s personal collection? On 3 June, Hutley returned with presents requested of him. Once again they went into a house ‘to _sema magambo_ \[discuss negotiate\]’ and he opened a box that contained three cloths, a piece of soap and a razor. His exchange partner was evidently pleased, but would ultimately have preferred to receive a gun.
 
@@ -179,7 +179,7 @@ One of the three figures now at The British Museum, that with six faces (Af1910,
 
 In his diary, Hutley records that on 16 June 1881, as he was preparing to leave:
 
-I receive a large, six-headed image from Griffith to take home to the Society, also a small parcel for some friend of his. Arrange with Palmer about sending over the boat as soon as possible. In the evening Kasanga Mahongoro sent word that he wanted us to take over some eight men and loads to Ujiji. We sent word back that our boat was too heavily laden this voyage.[^⁠63]
+> I receive a large, six-headed image from Griffith to take home to the Society, also a small parcel for some friend of his. Arrange with Palmer about sending over the boat as soon as possible. In the evening Kasanga Mahongoro sent word that he wanted us to take over some eight men and loads to Ujiji. We sent word back that our boat was too heavily laden this voyage.[^⁠63]
 
 In 1899, the same six-headed figure appeared in a photograph that accompanied a magazine article on the London Missionary Society museum, together with three other items captioned as ‘Wooden Representations of the Spirits of Ancestors from Central Africa’. While the figures on the left and right are recognisably the ones now at The British Museum, the location of the smaller figure at the front centre of the photograph, almost entirely covered by its palm fibre dress, is unknown today.
 
@@ -187,15 +187,15 @@ At the point this image was made, all the female images seem to have had some fo
 
 William Burton tells us that if a charm was removed from the location in which it has been erected:
 
-the spirit is supposed to depart at once, and the empty form which remains is regarded with contempt as useless.[^⁠64]
+_the spirit is supposed to depart at once, and the empty form which remains is regarded with contempt as useless._[^⁠64]
 
-Perhaps these figures had been ‘bakishi’, inhabited by the ‘spirits of ancestors’  through the _kuyola_ process, but having been removed from the locations they were at work, lost their spiritual potency to become ‘bankishi’ or simple ‘wooden images’ once again.
+Perhaps these figures had been ‘bakishi’, inhabited by the ‘spirits of ancestors’ through the _kuyola_ process, but having been removed from the locations they were at work, lost their spiritual potency to become ‘bankishi’ or simple ‘wooden images’ once again.
 
 When European modernists began to look at African sculpture with new eyes in the early decades of the twentieth century, these same images would come to be imbued with a new kind of potency (see Chapter 27).
 
 An image of one of these artefacts (Af1910,-.441) was included in a 1920 article on ‘Negro Art’, still wearing its fibre dress. The text suggested that until that point such works in the British Museum has been regarded as ‘curious and picturesque’, but that this:
 
-prevented them from seeing in these wooden sculptures and rare bronzes the only thing which matters — the element of essential beauty. We cannot feel this beauty until we have discarded the vulgar sentiment, — in itself a civilised barbarism…[^⁠65]
+> prevented them from seeing in these wooden sculptures and rare bronzes the only thing which matters — the element of essential beauty. We cannot feel this beauty until we have discarded the vulgar sentiment, — in itself a civilised barbarism…[^⁠65]
 
 
 Acknowledgements
