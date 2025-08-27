@@ -1,7 +1,8 @@
 ---
 label: 21
 title: "Representation of the Spirits of the Ancestors"
-subtitle: 
+subtitle: Ujiji, Lake Tanganyika, 23 August 1878
+
 layout: essay
 order: 50
 classes:
@@ -14,9 +15,9 @@ page_pdf_output: true
 
 {% figure "fig-c21-1" %}
 
-As we neared Ujiji, the open descent, bare of trees, showed off the whole caravan to the best advantage at a glance; and never in my life have I seen a procession which has given me such joy and pleasure. Yonder is Ujiji, towards which we have so long marched and waded, and here in due order are our goods intact and ourselves in excellent health — 225 men in single file, each, save the head man, with his load on head or shoulder.
+> As we neared Ujiji, the open descent, bare of trees, showed off the whole caravan to the best advantage at a glance; and never in my life have I seen a procession which has given me such joy and pleasure. Yonder is Ujiji, towards which we have so long marched and waded, and here in due order are our goods intact and ourselves in excellent health — 225 men in single file, each, save the head man, with his load on head or shoulder.
 
-In front walks the portly and consequential Songoro, bearing the Union Jack with white border, then the porters’ _kilangosi_ \[leading and senior guide and porter\], with lofty head-dress of nodding ostrich plumes, perseveringly working his legs to give due sound to the iron bells hung round his knees; and then come box, and bag, and bundle, tents, pots, and kettles, and little bundles of porters’ personal effects. In the centre of the procession Juma Mackay displays on a long bamboo the dove of peace with olive branch.[^⁠1]
+> In front walks the portly and consequential Songoro, bearing the Union Jack with white border, then the porters’ _kilangosi_ \[leading and senior guide and porter\], with lofty head-dress of nodding ostrich plumes, perseveringly working his legs to give due sound to the iron bells hung round his knees; and then come box, and bag, and bundle, tents, pots, and kettles, and little bundles of porters’ personal effects. In the centre of the procession Juma Mackay displays on a long bamboo the dove of peace with olive branch.[^⁠1]
 
 This excerpt, from the journal of Edward Coode Hore, captures something of the relief with which he completed his journey of 800 miles, begun at Zanzibar more than a year earlier. Initially led by the Rev. Roger Price, an experienced missionary from southern Africa (who was married to Robert Moffat’s daughter – [Chapter 17](https://argonauts2022.net/17-model-bechuana-house/)), the expedition began as a wagon train, with oxen and drivers brought from the Cape.[^⁠2]
 
