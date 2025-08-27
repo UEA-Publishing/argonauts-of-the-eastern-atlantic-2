@@ -12,6 +12,7 @@ abstract: |
 page_pdf_output: true
 ---
 
+{% figure "fig-c21-1" %}
 
 As we neared Ujiji, the open descent, bare of trees, showed off the whole caravan to the best advantage at a glance; and never in my life have I seen a procession which has given me such joy and pleasure. Yonder is Ujiji, towards which we have so long marched and waded, and here in due order are our goods intact and ourselves in excellent health — 225 men in single file, each, save the head man, with his load on head or shoulder.
 
@@ -203,7 +204,7 @@ When I began work on a display of material related to the Baptist Missionary Geo
 I am extremely grateful to Prof. Allen F. Roberts for his input at an early stage of planning this chapter. I have been lucky to have worked alongside Prof. John Mack and Prof. David Maxwell, from both of whom I have learnt a great deal about Central Africa. I also had the privilege to supervise Dr Amelia King’s PhD on photography associated with the Baptist Missionary Society in Congo.
 
 
-{% figure "fig-c21-1" %}
+
 
 {% figure "fig-c21-2" %}
 
