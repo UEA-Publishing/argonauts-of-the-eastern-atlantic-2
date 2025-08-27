@@ -364,4 +364,5 @@ I am extremely grateful to Prof. Allen F. Roberts for his input at an early stag
 
 [^65]: Salmon, André. 1920. ‘Negro Art’, in _The Burlington Magazine for Connoisseurs_ 36 (205), pp. 165-167: <https://www.jstor.org/stable/860977>
 
+
 {% endbackmatter %}
