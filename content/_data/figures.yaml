@@ -12,7 +12,7 @@ figure_list:
     credit: "Frazer, James George. 1911. The golden bough . a study in comparative religion. London. Macmillan"
     alt: "A collection of twelve hardcover volumes of The Golden Bough by Sir James George Frazer, featuring a cream-colored dust jacket."
   - id: "fig-intro-part-1-3"
-    src: intro-part-1-3.jpg
+    src: intro-part-1-3.png
     label: "fig-intro-part-1-3"
     caption: "Ulysses by James Joyce, first edition published in 1922"
     credit: ""
@@ -42,7 +42,7 @@ figure_list:
     credit: "British Museum 20122037.1"
     alt: "Close-up of a decorative textile featuring circular coral and shell beads, strung together with dark thread on a blue fabric base."
   - id: "fig-intro-part-1-8"
-    src: intro-part-1-8.jpg
+    src: intro-part-1-8.png
     label: "fig-intro-part-1-8"
     caption: "Three stranded cord"
     credit: ""
@@ -80,13 +80,13 @@ figure_list:
   - id: "fig-c12-5"
     src: c12-5.png
     label: "fig-c12-5"
-    caption: "Portrait of the young John WilliamsProduced for the London Missionary Society when he was aapointed as a missionary, before leaving for the Pacific"
+    caption: "Portrait of the young John Williams Produced for the London Missionary Society when he was aapointed as a missionary, before leaving for the Pacific"
     credit: "SOAS Special Collections (CWM/LMS/Home/Miniature Portraits/Box 4/John Williams)"
     alt: "A portrait of John Williams, distinguished by period attire, with handwritten details about his life and contributions beneath the image."
   - id: "fig-c12-6"
     src: c12-6.png
     label: "fig-c12-6"
-    caption: "Portrait of the young Mary WilliamsProduced for the London Missionary Society when she was appointed as a missionary wife, before leaving for the Pacific."
+    caption: "Portrait of the young Mary Williams Produced for the London Missionary Society when she was appointed as a missionary wife, before leaving for the Pacific."
     credit: "SOAS Special Collections (CWM/LMS/Home/Miniature Portraits/Box 4/Mary Williams)"
     alt: "Portrait of Mary Williams, dated 1816-1852, with inscription detailing her appointment and register number, framed with a cream border."
   - id: "fig-c12-7"
@@ -200,13 +200,13 @@ figure_list:
   - id: "fig-c13-2"
     src: c13-2.jpg
     label: "fig-c13-2"
-    caption: "A Dialogue between the Crosse in Cheap, and Charing Cross.Comforting each other, as fearing their fall in these uncertaine times. By Ryhen Pameach (Henry Peacham). Published in London in 1641.The Newberry Library, Archive.org"
+    caption: "A Dialogue between the Crosse in Cheap, and Charing Cross. Comforting each other, as fearing their fall in these uncertaine times. By Ryhen Pameach (Henry Peacham). Published in London in 1641.The Newberry Library, Archive.org"
     credit: "Internet Archive (Public Domain)"
     alt: "A historical illustration displays a dialogue between two London crosses, reflecting on their uncertain future with playful figures and speech."
   - id: "fig-c13-3"
     src: c13-3.jpg
     label: "fig-c13-3"
-    caption: "Idols' worshipped by the Inhabitants of the South Sea IslandsItem 7, at the bottom left edge of the image is a representation of a Tahitian Ti'i (that on the botton right appears to be from Rarotonga). According to Ellis (Volume 2, p.202)."
+    caption: "Idols' worshipped by the Inhabitants of the South Sea Islands. Item 7, at the bottom left edge of the image is a representation of a Tahitian Ti'i (that on the botton right appears to be from Rarotonga). According to Ellis (Volume 2, p.202)."
     credit: "Polynesian researches, during a residence of nearly six years in the South Sea Islands; including descriptions of the natural history and scenery of the islands--with remarks on the history, mythology, traditions, government, arts, manners, and customs of the inhabitants / By William Ellis. Public Domain Mark. Source. Wellcome Collection. https.//wellcomecollection.org/works/uue7tp4t"
     alt: "Illustration of various idols and sculptures from the South Sea Islands, showcasing intricate designs and cultural significance."
   - id: "fig-c13-4"
@@ -230,7 +230,7 @@ figure_list:
   - id: "fig-c13-7"
     src: c13-7.png
     label: "fig-c13-7"
-    caption: "Portrait of William EllisPublished as frontispiece in William Ellis' 1827 Narrative of a Tour Through Hawaii"
+    caption: "Portrait of William Ellis Published as frontispiece in William Ellis' 1827 Narrative of a Tour Through Hawaii"
     credit: "Google Books"
     alt: "A historical engraving of a seated man in 19th-century clothing, with a background depicting foliage and signed Wm Ellis."
   - id: "fig-c13-8"
@@ -248,7 +248,7 @@ figure_list:
   - id: "fig-c13-10"
     src: c13-10.jpg
     label: "fig-c13-10"
-    caption: "Village of BetheldorpThe only image to feature in John Philip's two volume, Researches in South Africa, published in 1828. Marked details include A. Old Church, B. New Chruch (lately founded), C. Alms-Houses, E. Bridge, F. School, G, H, I. Houses of the Missionaries.See Chapter 3, for a description of Lichtenstein's unflattering descriptions of the settlement, and an image of the settlement published alongside Campbell's description in 1815.Published by James Duncan, Paternoster Row."
+    caption: "Village of Betheldorp. The only image to feature in John Philip's two volume, Researches in South Africa, published in 1828. Marked details include A. Old Church, B. New Chruch (lately founded), C. Alms-Houses, E. Bridge, F. School, G, H, I. Houses of the Missionaries.See Chapter 3, for a description of Lichtenstein's unflattering descriptions of the settlement, and an image of the settlement published alongside Campbell's description in 1815.Published by James Duncan, Paternoster Row."
     credit: "Google Books"
     alt: "Engraving of Bethelsdorp village featuring buildings, mountains, and infrastructure, labeled with notable locations and drawn in 19th century style."
   - id: "fig-c13-11"
@@ -728,7 +728,7 @@ figure_list:
   - id: "fig-c17-10"
     src: c17-10.jpeg
     label: "fig-c17-10"
-    caption: "Robert Moffat, with John Mokoteri and Sarah RobyOil on canvas painted by William Wallace ScottScottish National Portrait Gallery PG 2035"
+    caption: "Robert Moffat, with John Mokoteri and Sarah Roby. Oil on canvas painted by William Wallace ScottScottish National Portrait Gallery PG 2035"
     credit: "Scottish National Portrait Gallery PG 2035"
     alt: "A man stands under a tree, holding an open book, while two seated figures, a man and a woman, listen intently. A cart is visible in the background."
   - id: "fig-c17-11"
@@ -776,7 +776,7 @@ figure_list:
   - id: "fig-c17-18"
     src: c17-18.png
     label: "fig-c17-18"
-    caption: "The Bechuana ParliamentImage by George Baxter, printed in Missionary Labours and Scenes in Southern Africa by Robert Moffat, 1842, opposite p. 349. Note the houses in the background. A version of this scene, also with houses behind can be found in the background of the colour portrait of Robert Moffat above."
+    caption: "The Bechuana Parliament Image by George Baxter, printed in Missionary Labours and Scenes in Southern Africa by Robert Moffat, 1842, opposite p. 349. Note the houses in the background. A version of this scene, also with houses behind can be found in the background of the colour portrait of Robert Moffat above."
     credit: "Printed in Missionary Labours and Scenes in Southern Africa by Robert Moffat, 1842, opposite p. 349."
     alt: "An illustration of the Bechuana Parliament, featuring a dancer in motion and spectators in traditional attire amidst tents and hills."
   - id: "fig-c17-19"
