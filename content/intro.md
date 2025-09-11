@@ -12,15 +12,15 @@ order: 10
 
 > _If we are prepared to see artefacts as the enactment of events, as memorials of and celebrations to past and future contributions – if the axe blade really is an icon of exchange relationship – then we must be prepared to switch the metaphors the other way too – to empty our notion of history as the natural or chancy occurrence of events that present a problem for structure…_[^2] 
 
-{% figure "fig-intro-part-1-1" 'is-pulled-right' %}
+
 
 In 1922, Bronislaw Malinowksi published _Argonauts of the Western Pacific_, his account of Kula voyages off the eastern tip of New Guinea. During these voyages, participants aimed to acquire Kula valuables through ceremonial exchange – necklaces of red spondylus shell, called _soulava,_ and bracelets of white shell, called _mwali._ By acquiring, holding and subsequently exchanging these goods, certain men were able to advance and enhance their status.
 
-{% figure "fig-intro-part-1-2" 'is-pulled-right' %}
+
 
 Malinowski’s book has come to be seen as the archetypal ethnographic text, inaugurating what has been called ‘the phase of modernism in English-speaking anthropology’ (Ardener 1985; Strathern 1990, 1987). One way of understanding the title of Malinowksi’s book is to regard the islanders as early twentieth-century equivalents of the sailors who crewed the _Argo_ of Ancient Greek myth, a ship captained by Jason and protected by the Gods. But _Argonauts_ was not the only book published in 1922 to adopt a classicising title – James Joyce’s _Ulysses_ – a central text in the canon of literary modernism – transposed the voyages and adventures of Odysseus, chronicled in Homer’s Odyssey, onto an ordinary day in Dublin, with Leopold Bloom as its hero.
 
-{% figure "fig-intro-part-1-3" 'is-pulled-right' %}
+
 
 Modernism as an aesthetic and literary movement was consolidated in the years after the First World War – a period in which the world was essentially remade. In 1922, after around 750 years as a centre of English power, Dublin became the capital of the independent Irish Free State.  Old ideas and established authorities were challenged as a new generation of men, Malinowksi and Joyce among them, asserted themselves. If the _Argonauts_ were the Kiriwinans of the Kula ring, then it seems that like Leopold Bloom in _Ulysses_, Malinowski was the modern(ist) Jason – the legendary hero tasked with bringing back the golden fleece.
 
@@ -40,8 +40,6 @@ The Golden Bough_ was also a significant influence on Joyce (as well as T.S. Eli
 
 Although Malinowski presented his work as inaugurating something of a revolution in Anthropology, his approach was significantly shaped by his engagement with Frazer, providing at the very least an explanation for the title of his book. In the same way that Conrad’s _Heart of Darkness_ is structured around the story of a European’s voyage to the interior of the African continent, where he comes to dominate and rule, Malinowski’s account, while ostensibly about the Kula, also emphasises his own heroic role as an ethnographer who gains an understanding of the operation of Kula that is essentially superior to that of those who participate in it. This is an anthropological version of ‘the hero’s journey’ myth – explored by Joseph Campbell’s 1949 book, _The Hero with a Thousand Faces_ (a major influence on George Lucas’ Star Wars franchise and not unrelated to what Teju Cole, in 2012, called ‘the White-Saviour Industrial complex’).
 
-{% figure "fig-intro-part-1-4" 'is-pulled-right' %}
-{% figure "fig-intro-part-1-5" 'is-pulled-right' %}
 
 Across the literary and artistic manifestations of modernism, a common theme is the European appropriation and of ‘the primitive’ in order to refresh or renew the artistic and intellectual traditions of Europe. It was not uncommon for mid-century Europeans to see themselves as the ones who ‘really’ understood artistic or ceremonial practices in other parts of world. Although twentieth-century Social Anthropology has long been recognised as a modernist form of _Writing Culture_ (Clifford and Marcus 1986), the fact is that _Argonauts of the Western Pacific_ is still widely regarded as an exemplary ethnographic text.
 
@@ -51,7 +49,7 @@ For all Malinowksi’s iconoclastic ambitions, the narrative structure of his ac
 
 Modernist anthropologists railed against what they represented as ‘conjectural history’ – the efforts of those who attempted to build frameworks for human history extending beyond the European old world on the basis of facts and artefacts assembled in Europe – an approach increasingly derided as ‘armchair anthropology’. Modernism, and anthropological modernism in particular, was unrelentingly presentist (Fardon 2005). The aim was to explain the operation of society by reference to its contemporary features and characteristics, in the way an anatomist might explain the function of different organs of the body without reference to their evolutionary history.
 
-{% figure "fig-intro-part-1-6" 'is-pulled-right' %}
+
 
 But Malinowski did not swim to the Trobriand Islands. His access to the field, like that of many anthropologists of his generation was made substantially possible by established networks of Christian missionaries who had operated in Africa and the Pacific for over a century. In the case of the Trobriands, the Methodist missionary M.K. Gilmour had already been stationed at Kiriwina for 14 years when Malinowski arrived in 1915 (Young 1984, 17). Many of Malinowski’s immediate predecessors, the first generation of professional anthropologists, found employment in museums filled by collections assembled in Europe largely through the efforts of previous generations of missionaries.
 
@@ -67,7 +65,7 @@ I would collapse Strathern’s dichotomy between the Melanesian and European app
 
 One can read Malinowski’s text as an artefact of a particular type, constructed to evoke a context for the Kula that will allow himself and other Europeans to make sense of it. But typically, the institutions of human life do not come with such manuals. One joins the game of life in the midst of play, and learns the rules by watching and joining in. In Roy Wagner’s (1981) terms, Malinowski, as the ethnographer, “invents” the culture of the Trobriands through the construction of his text(s). Strathern suggests that as part of the modernist approach to Anthropology “it is taken for granted that we study the significance which such artefacts have for the people who make them, and thus their interpretations of them”, but if these assumptions were at least identifiable by 1990, I suggest they should no longer be taken for granted.
 
-{% figure "fig-intro-part-1-7" 'is-pulled-right' %}
+
 
 A hundred years after the publication of Malinowksi’s _Argonauts_, I am seeking to revisit the moment of possibility represented by 1922, a return to what Michael North (1999) has called the ‘scene of the modern’. While the COVID19 pandemic has been very different to the First World War, it nevertheless provides a break from business as usual which makes it possible to consider alternative ways of approaching things.
 
@@ -83,7 +81,7 @@ World religions like Christianity, Peel (1995, 9) suggests, are long _durée_ �
 
 In constructing his own account, Peel worried about ‘how to simplify a complicated and many-stranded story without distorting its essential elements’ (Peel 2000, 44), ultimately arriving at a material metaphor:
 
-{% figure "fig-intro-part-1-8" 'is-pulled-right' %}
+
 
 >_A multi-coloured wooden cord, with component fibres of different lengths – Yoruba, colonial, Christian, and other – that give it structure by pulling both together and against one another._
 
@@ -101,7 +99,6 @@ I am not advocating a straightforwardly neo-Frazerian approach, but I do feel th
 
 The widespread adoption of Christianity in large parts of the world over the past two centuries, including Africa and the Pacific in particular, is a transformation of world-historical significance that cannot be accounted for simply by the imposition of European power, or the cultural logic of capitalism – many missionaries were essentially powerless strangers, at least at the point they arrived.
 
-{% figure "fig-intro-part-1-9" 'is-pulled-right' %}
 
 I take further inspiration from Chinua Achebe’s 1958 _Things Fall Apart_ – an African response to Conrad’s _Heart of Darkness_ which recognises the tensions inherent in existing structures of power, and the forms of possibility that the arrival of outsiders missionaries presented for many people. The stranger missionaries did not become priest-kings entirely by their own efforts.
 
@@ -166,5 +163,6 @@ Wagner, Roy. 1981. _The invention of culture_. Rev. and expanded ed. Chicago: Un
 Young, Michael W. 1984. The Intensive Study of a Restricted Area, or, Why Did Malinowski Go to the Trobriand Islands? _Oceania_, _55_(1), 1–26.
 
 Young, Michael W. 2004. _Malinowski: Odyssey of an Anthropologist, 1884-1920_: Yale University Press.
+
 
 {% endbackmatter %}
