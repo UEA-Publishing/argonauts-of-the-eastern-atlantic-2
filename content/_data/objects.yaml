@@ -13,3 +13,609 @@ object_display_order:
   - dimensions
   - medium
   - location
+
+  - id: "cat-1860-p.1"
+    title: "Page 1 - Title Page"
+    date: 
+    artefact types: [""]
+    regions: [""]
+    locations: [""]
+    countries: [""]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-1
+  - id: "cat-1860-p.2"
+    title: "Page 2 -"
+    date: 
+    artefact types: [""]
+    regions: [""]
+    locations: [""]
+    countries: [""]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-2
+  - id: "cat-1860-p.3"
+    title: "Page 3 - Advertisement "
+    date: 
+    artefact types: [""]
+    regions: [""]
+    locations: [""]
+    countries: [""]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-3
+  - id: "cat-1860-p.4"
+    title: "Page 4 - Advertisement continued"
+    date: 
+    artefact types: [""]
+    regions: [""]
+    locations: [""]
+    countries: [""]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-4
+  - id: "cat-1860-p.5"
+    title: "Page 5 - Case A"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["Pacific"]
+    locations: ["Otaheite [Tahiti, French Polynesia]"]
+    countries: ["French Polynesia"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-5
+  - id: "cat-1860-p.6"
+    title: "Page 6 - Case A"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["Pacific"]
+    locations: ["Eimeo, Otaheite [Tahiti, French Polynesia]",  "Hervey or Navigators Islands",  "Huahine",  "Rarotonga [Cook Islands]",  "Rurutu [French Polynesia]"]
+    countries: ["French Polynesia",  "Cook Islands"]
+    named people: ["the late Mr Bennet"]
+    thumbnail: 
+    figure:
+      - id: cat-2-6
+  - id: "cat-1860-p.7"
+    title: "Page 7 - Case A"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["Pacific"]
+    locations: ["Atui",  "Mangaia, Hervey Islands",  "Maute [Ma'uke, Cook Islands]",  "Natipaki, Reiatea and Ruruti",  "Nukunoni, Reiatea and Ruruti",  "Orutanga [Arutanga, Aitutaki, Cook Islands]",  "Otaheite [Tahiti, French Polynesia]",  "Rarotonga [Cook Islands]",  "Reiatea and Ruruti"]
+    countries: ["French Polynesia",  "Cook Islands"]
+    named people: ["Rowland Hill"]
+    thumbnail: 
+    figure:
+      - id: cat-2-7
+  - id: "cat-1860-p.8"
+    title: "Page 8 -  Case A"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["Pacific"]
+    locations: ["Kairua, Hawaii",  "Rarotonga [Cook Islands]",  "Metiaro [Miti'aro, Cook Islands]",  "Maute [Ma'uke, Cook Islands]",  "Samoa",  "Hervey Islands",  "Sandwich Islands [Hawai'i, USA]",  "Marquesan Islands"]
+    countries: ["Cook Islands",  "USA"]
+    named people: ["Bennet & Tyerman (Deputation)"]
+    thumbnail: 
+    figure:
+      - id: cat-2-8
+  - id: "cat-1860-p.9"
+    title: "Page 9 - Case A & Case C"
+    date: 
+    artefact types: ["Idols of Heathen Nations",  "Dresses"]
+    regions: ["Pacific"]
+    locations: ["Society and Friendly Isles",  "Aitutaki [Cook Islands]",  "Rarotonga [Cook Islands]"]
+    countries: ["Cook Islands"]
+    named people: ["Rev. John Williams"]
+    thumbnail: 
+    figure:
+      - id: cat-2-9
+  - id: "cat-1860-p.10"
+    title: "Page 10 - Case C"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils",  "Dresses"]
+    regions: ["Pacific"]
+    locations: ["Otaheite [Tahiti, French Polynesia]",  "Society and Friendly Isles",  "Ruruta"]
+    countries: ["French Polynesia"]
+    named people: ["William Ellis"]
+    thumbnail: 
+    figure:
+      - id: cat-2-10
+  - id: "cat-1860-p.11"
+    title: "Page 11 - Case C"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils",  "Instruments of War",  "Dresses"]
+    regions: ["Pacific"]
+    locations: ["New Zealand [Aoteaoroa]",  "High Island",  "Sandwich Islands [Hawai'i, USA]"]
+    countries: ["New Zealand",  "USA"]
+    named people: ["William Ellis"]
+    thumbnail: 
+    figure:
+      - id: cat-2-11
+  - id: "cat-1860-p.12"
+    title: "Page 12 - Case C"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils",  "Instruments of War",  "Dresses"]
+    regions: ["Pacific"]
+    locations: ["Sandwich Islands [Hawai'i, USA]",  "Erromanga, New Hebrides",  "New Hebrides",  "Tanna, New Hebrides",  "St. Vincent. New Caledonia",  "Fejee Islands [Fiji]",  "Marquesan Islands"]
+    countries: ["USA",  "Fiji"]
+    named people: ["William Ellis",  "Mr. George Wilkins of the Camden"]
+    thumbnail: 
+    figure:
+      - id: cat-2-12
+  - id: "cat-1860-p.13"
+    title: "Page 13 - Case C"
+    date: 1840
+    artefact types: ["Manufactures, Domestic Utensils",  "Instruments of War",  "Dresses"]
+    regions: ["Pacific"]
+    locations: ["Samoan Group And Sundries",  "One of the Navigators Islands",  "New Holland",  "Botany Bay",  "Tanna",  "Marquesas Islands [French Polynesia]",  "Pitcairn Island",  "Huahinea",  "Samoa",  "Rarotonga [Cook Islands]"]
+    countries: ["French Polynesia",  "Cook Islands"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-13
+  - id: "cat-1860-p.14"
+    title: "Page 14 - Case C"
+    date: 1845
+    artefact types: ["Manufactures, Domestic Utensils",  "Idols of Heathen Nations"]
+    regions: ["Pacific"]
+    locations: ["Samoan Group And Sundries",  "Fiji",  "Sandwich Islands [Hawai'i, USA]",  "Aitutaki [Cook Islands]",  "Otaheite [Tahiti, French Polynesia]",  "Friendly Islands",  "Raiavai",  "High Island",  "New Zealand [Aoteaoroa]",  "Poumatou Isles",  "Hervey Islands"]
+    countries: ["New Zealand",  "Fiji",  "Cook Islands",  "French Polynesia"]
+    named people: ["Rev. W. Mills",  "William Ellis",  "Mr Bennet",  "Rowland Hill",  "Leverian Museum"]
+    thumbnail: 
+    figure:
+      - id: cat-2-14
+  - id: "cat-1860-p.15"
+    title: "Page 15 -"
+    date: 
+    artefact types: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["Pacific"]
+    locations: ["Friendly Isles",  "High Island",  "Kingsmill Island",  "Marquesas Islands [French Polynesia]",  "New Zealand [Aoteaoroa]",  "Otaheite [Tahiti, French Polynesia]",  "Sandwich Islands [Hawai'i, USA]",  "Tongataboo"]
+    countries: ["French Polynesia",  "New Zealand",  "USA"]
+    named people: ["William Ellis",  "Mr. Abijah Locks"]
+    thumbnail: 
+    figure:
+      - id: cat-2-15
+  - id: "cat-1860-p.16"
+    title: "Page 16 - Case I"
+    date: 
+    artefact types: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["China",  "Pacific"]
+    locations: ["Erromanga",  "Friendly Isles",  "High Island",  "Kingsmill Island",  "Mangaia",  "Marquesas Islands [French Polynesia]",  "Navigatoros Isles",  "New Caledonia",  "New Caledonia (Isle of Pines) - Now called Kunie",  "New Holland",  "New Zealand [Aoteaoroa]",  "Port St. Vincent",  "Tanna, New Hebrides",  "Tongataboo"]
+    countries: ["China",  "French Polynesia",  "New Zealand"]
+    named people: ["Captain Locke",  "Mr G. Wilkins",  "William Ellis",  "Mr. T. Carr"]
+    thumbnail: 
+    figure:
+      - id: cat-2-16
+  - id: "cat-1860-p.17"
+    title: "Page 17 - Case I"
+    date: 
+    artefact types: ["Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["China"]
+    locations: [""]
+    countries: ["China"]
+    named people: ["Mr Medhurst",  "Poon a Sam, Dr. MorrisonÕs servant"]
+    thumbnail: 
+    figure:
+      - id: cat-2-17
+  - id: "cat-1860-p.18"
+    title: "Page 18 - Case D"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["China"]
+    locations: ["Chusan"]
+    countries: ["China"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-18
+  - id: "cat-1860-p.19"
+    title: "Page 19 - Case D"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils"]
+    regions: ["China"]
+    locations: [""]
+    countries: ["China"]
+    named people: ["Mrs Morrison"]
+    thumbnail: 
+    figure:
+      - id: cat-2-19
+  - id: "cat-1860-p.20"
+    title: "Page 20 - Case D"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils",  "Publication"]
+    regions: ["China",  "South East Asia"]
+    locations: ["From the Islands and other places connected with Chinese Mission",  "Java [Indonesia]"]
+    countries: ["China",  "Indonesia"]
+    named people: ["Mrs Brandram"]
+    thumbnail: 
+    figure:
+      - id: cat-2-20
+  - id: "cat-1860-p.21"
+    title: "Page 21 - Case D"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["South East Asia"]
+    locations: ["Bengkulu",  "Borneo",  "From the Islands and other places connected with Chinese Mission",  "Malacca [Malaysia]",  "Malaysia",  "Singapore",  "Tamil school",  "Tapanuli",  "Wallsfreden, Java"]
+    countries: ["Malaysia",  "Singapore"]
+    named people: ["Rev. Dr. Medhurst"]
+    thumbnail: 
+    figure:
+      - id: cat-2-21
+  - id: "cat-1860-p.22"
+    title: "Page 22 -  Case D"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["China",  "South East Asia"]
+    locations: ["Borneo",  "Japan"]
+    countries: ["China",  "Japan"]
+    named people: ["Rev. Dr. Medhurst",  "Rev. Dr. Medhurst (Belonged to PANG LIMA RAHAM)"]
+    thumbnail: 
+    figure:
+      - id: cat-2-22
+  - id: "cat-1860-p.23"
+    title: "Page 23 - Case M"
+    date: 1809
+    artefact types: ["Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["China"]
+    locations: ["Canton [China]",  "Mongolia"]
+    countries: ["China"]
+    named people: ["Robert Morrison",  "Rev. Micaiah Hill or Berhampore"]
+    thumbnail: 
+    figure:
+      - id: cat-2-23
+  - id: "cat-1860-p.24"
+    title: "Page 24 - Case F, I, K"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["India"]
+    locations: ["Calcutta [India]",  "Cuddapah [Kadapa, India]",  "Rangoon [Yangon, Myanmar]"]
+    countries: ["India",  "Myanmar"]
+    named people: ["Miss Cheap",  "Rev. Micaiah Hill",  "Rev. W. Morton"]
+    thumbnail: 
+    figure:
+      - id: cat-2-24
+  - id: "cat-1860-p.25"
+    title: "Page 25 - Case F, I, K"
+    date: 
+    artefact types: ["Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["India"]
+    locations: ["Calcutta [India]"]
+    countries: ["India"]
+    named people: ["Rev. M. Hill",  "Rev. W. Morton"]
+    thumbnail: 
+    figure:
+      - id: cat-2-25
+  - id: "cat-1860-p.26"
+    title: "Page 26 - Case F, I, K"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["India"]
+    locations: [""]
+    countries: ["India"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-26
+  - id: "cat-1860-p.27"
+    title: "Page 27 - Case F, I, K"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["India"]
+    locations: [""]
+    countries: ["India"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-27
+  - id: "cat-1860-p.28"
+    title: "Page 28 - Case F, I, K"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["India"]
+    locations: ["Bengal [India]",  "Dummul",  "Malabar",  "Mysore [Mysuru, India]"]
+    countries: ["India"]
+    named people: ["Rev. J. Hands",  "Rev. Micaiah Hill",  "Rev. W. Crow"]
+    thumbnail: 
+    figure:
+      - id: cat-2-28
+  - id: "cat-1860-p.29"
+    title: "Page 29 - Case F, I, K"
+    date: 1838
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils",  "Publication"]
+    regions: ["India",  "Middle East"]
+    locations: ["Ceylon [Sri Lanka]",  "Persia [Iran]",  "Turkey",  "Vizagapatam"]
+    countries: ["India",  "Iran",  "Sri Lanka"]
+    named people: ["Rev. W. Thonpson"]
+    thumbnail: 
+    figure:
+      - id: cat-2-29
+  - id: "cat-1860-p.30"
+    title: "Page 30 - Case F, I, K"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["India",  "Middle East"]
+    locations: ["Cabul/Kabul, Afghanistan",  "Ceylon [Sri Lanka]",  "Kingdom of Oude/Oudh",  "Murshidabad (Moorshedabad), Bengal",  "Salem, India",  "South of Bengal",  "Temple of Kupal Muni, Saugor Island, Bengal",  "Travancore [Trivandrum, India]"]
+    countries: ["Afghanistan",  "India",  "Sri Lanka"]
+    named people: ["Mrs Beynon",  "Rev. A.F. Lacroix",  "Rev. R.C. Mather",  "Rev. Dr. Boaz",  "Rev. J. Paterson",  "Rev. J.M. Lutch",  "Rev. W. Morton"]
+    thumbnail: 
+    figure:
+      - id: cat-2-30
+  - id: "cat-1860-p.31"
+    title: "Page 31 - Case J"
+    date: 
+    artefact types: ["Idols of Heathen Nations"]
+    regions: ["India"]
+    locations: ["Bellary [India]",  "Burma",  "Travancore [Trivandrum, India]"]
+    countries: ["India"]
+    named people: ["Rev. J. Hands"]
+    thumbnail: 
+    figure:
+      - id: cat-2-31
+  - id: "cat-1860-p.32"
+    title: "Page 32 -"
+    date: 
+    artefact types: ["Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["India"]
+    locations: ["Ceylon [Sri Lanka]"]
+    countries: ["India",  "Sri Lanka"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-32
+  - id: "cat-1860-p.33"
+    title: "Page 33 - Case G"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    regions: ["Africa"]
+    locations: ["Interior of Africa",  "Kureechane",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Lesotho"]
+    countries: ["South Africa"]
+    named people: ["John Campbell",  "Rev. R. Moffat"]
+    thumbnail: 
+    figure:
+      - id: cat-2-33
+  - id: "cat-1860-p.34"
+    title: "Page 34 - Case G"
+    date: 
+    artefact types: ["Dresses"]
+    regions: ["Africa"]
+    locations: ["Kurreechane",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "River Congo [Central Africa]"]
+    countries: ["South Africa"]
+    named people: ["Mr Redhead",  "Rev. R. Moffat"]
+    thumbnail: 
+    figure:
+      - id: cat-2-34
+  - id: "cat-1860-p.35"
+    title: "Page 35 - Case G"
+    date: 
+    artefact types: ["Dresses",  "Manufactures, Domestic Utensils"]
+    regions: ["Africa"]
+    locations: ["Bethelsdorp [Eastern Cape, South Africa]",  "Kurreechane",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
+    countries: ["South Africa"]
+    named people: ["John Campbell",  "Rev. R. Moffat"]
+    thumbnail: 
+    figure:
+      - id: cat-2-35
+  - id: "cat-1860-p.36"
+    title: "Page 36 - Case G"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils"]
+    regions: ["Africa"]
+    locations: ["Bethelsdorp [Eastern Cape, South Africa]",  "Bonnys (Nigeria)",  "Coranna country",  "River Congo [Central Africa]"]
+    countries: ["South Africa",  "Nigeria"]
+    named people: ["Rev. R. Moffat"]
+    thumbnail: 
+    figure:
+      - id: cat-2-36
+  - id: "cat-1860-p.37"
+    title: "Page 37 - Case G"
+    date: 
+    artefact types: ["Dresses",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["Africa"]
+    locations: ["Ashantee (Ghana)",  "Bethelsdorp [Eastern Cape, South Africa]",  "Cape Colony [Western Cape, South Africa]",  "Griqua Town",  "Guinea",  "Kurreechane",  "Moravian Settlement [Genadendal, Western Cape, South Africa]",  "Natal"]
+    countries: ["South Africa"]
+    named people: ["Kurreechane",  "Rev. R. Moffat"]
+    thumbnail: 
+    figure:
+      - id: cat-2-37
+  - id: "cat-1860-p.38"
+    title: "Page 38 - Case G"
+    date: 
+    artefact types: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    regions: ["Africa",  "Madagascar"]
+    locations: ["Betanimena",  "Interior of Africa",  "Madagascar"]
+    countries: ["Madagascar"]
+    named people: ["Rev. J.J. Freeman"]
+    thumbnail: 
+    figure:
+      - id: cat-2-38
+  - id: "cat-1860-p.39"
+    title: "Page 39 - Case G"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    regions: ["Madagascar"]
+    locations: ["Madagascar",  "Ramarotafika"]
+    countries: ["Madagascar"]
+    named people: ["Mr. Jospeh Verkey",  "Presented by King Radama to the Rev. Mr. Jones"]
+    thumbnail: 
+    figure:
+      - id: cat-2-39
+  - id: "cat-1860-p.40"
+    title: "Page 40 - Case G"
+    date: 
+    artefact types: ["Dresses",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    regions: ["Africa",  "Madagascar"]
+    locations: ["Fingo",  "Fort Dauphin",  "Madagascar",  "Malagasy  girls at the Missionary School"]
+    countries: ["Madagascar"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-40
+  - id: "cat-1860-p.41"
+    title: "Page 41 -"
+    date: 
+    artefact types: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["Americas"]
+    locations: ["Arrow tribe, Guiana",  "Berbice [Guyana]",  "Caribee tribe",  "Demerara [Guyana]",  "Guiana"]
+    countries: ["Guyana"]
+    named people: ["H. Stutchbury",  "Rev. John Wray"]
+    thumbnail: 
+    figure:
+      - id: cat-2-41
+  - id: "cat-1860-p.42"
+    title: "Page 42 -"
+    date: 
+    artefact types: ["Dresses",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["Americas"]
+    locations: ["Aleutian or Fox Islands",  "British Guiana",  "Canada",  "Guiana",  "Jamaica",  "Mohican",  "Northwest Coast of America",  "Peru"]
+    countries: ["Canada",  "USA"]
+    named people: ["H. Stutchbury",  "Lieut. Juke",  "Mrs Russel",  "Rev. D. Clark",  "Rev. J. Andrews",  "William Ellis"]
+    thumbnail: 
+    figure:
+      - id: cat-2-42
+  - id: "cat-1860-p.43"
+    title: "Page 43 -"
+    date: 
+    artefact types: ["Instruments of War",  "Manufactures, Domestic Utensils"]
+    regions: ["Americas",  "Pacific",  "Unknown"]
+    locations: ["Guiana",  "New Holland",  "Northwest Coast of America",  "Otaheite [Tahiti, French Polynesia] and other South Sea Islands",  "Peru",  "South America",  "Tongataboo",  "Unknown"]
+    countries: ["French Polynesia",  "Peru",  "USA"]
+    named people: ["Mrs Brandram"]
+    thumbnail: 
+    figure:
+      - id: cat-2-43
+  - id: "cat-1860-p.44"
+    title: "Page 44 - Case U"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils"]
+    regions: ["Africa",  "China",  "Europe",  "Middle East",  "Miscellaneous"]
+    locations: ["Bethlehem",  "China",  "Malta"]
+    countries: ["China",  "Egypt",  "Malta"]
+    named people: ["Mr. Dale",  "Rev. Mr Lowndes",  "Rev. William Thompson"]
+    thumbnail: 
+    figure:
+      - id: cat-2-44
+  - id: "cat-1860-p.45"
+    title: "Page 45 - Case U"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils"]
+    regions: ["Africa",  "Europe",  "Miscellaneous"]
+    locations: ["Corinth",  "Egypt",  "Greece",  "Herculaneum"]
+    countries: ["Egypt",  "Greece",  "Italy"]
+    named people: ["Mr J. Davies",  "Rev. William Thompson"]
+    thumbnail: 
+    figure:
+      - id: cat-2-45
+  - id: "cat-1860-p.46"
+    title: "Page 46 - Case B"
+    date: 
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Americas",  "Pacific",  "South East Asia",  "Unknown"]
+    locations: ["Guiana",  "Java [Indonesia]",  "South Seas",  "West Indies"]
+    countries: ["Indonesia"]
+    named people: ["Dr. Hodgkin"]
+    thumbnail: 
+    figure:
+      - id: cat-2-46
+  - id: "cat-1860-p.47"
+    title: "Page 47 - Case B"
+    date: July 1836
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Americas",  "India",  "Pacific",  "Unknown"]
+    locations: ["Kristnapore, near Calcutta [India]",  "South America",  "Sunderbunds, near Calcutta [India]",  "Travancore [Trivandrum, India]"]
+    countries: ["India"]
+    named people: ["Rev. J. Williams",  "Rev. James Hill",  "Rev. Messrs. Gogerly and Croix"]
+    thumbnail: 
+    figure:
+      - id: cat-2-47
+  - id: "cat-1860-p.48"
+    title: "Page 48 - Case B & Case I, J, K"
+    date: 
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Africa",  "Americas",  "India",  "Unknown"]
+    locations: ["Calcutta [India]",  "India",  "Patagonia",  "West Indies"]
+    countries: ["India"]
+    named people: ["Rev. I. Lowndes, Corfu"]
+    thumbnail: 
+    figure:
+      - id: cat-2-48
+  - id: "cat-1860-p.49"
+    title: "Page 49 - Case I, J, K"
+    date: 1823
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Africa",  "India",  "Unknown"]
+    locations: ["Banks of Malareen River in Bechuana Country",  "Bechuana country",  "Benares [India]",  "India"]
+    countries: ["India"]
+    named people: [""]
+    thumbnail: 
+    figure:
+      - id: cat-2-49
+  - id: "cat-1860-p.50"
+    title: "Page 50 - Case I, J, K"
+    date: 
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Africa",  "India"]
+    locations: ["Benares [India]",  "Cape Colony [Western Cape, South Africa]"]
+    countries: ["India",  "South Africa"]
+    named people: ["Rev. Dr. Phillip",  "Rev. R. Moffat",  "Rev. W.P. Lyon"]
+    thumbnail: 
+    figure:
+      - id: cat-2-50
+  - id: "cat-1860-p.51"
+    title: "Page 51 -  Case I, J, K"
+    date: [July 31 1814, May 19 1823]
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Africa",  "India",  "Madagascar",  "Unknown"]
+    locations: ["Benares [India]",  "Griqua Country [Northern Cape, South Africa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Madagascar",  "Travancore [Trivandrum, India]"]
+    countries: ["India",  "Madagascar",  "South Africa"]
+    named people: ["Dr. Thom",  "John Campbell",  "Rev. W.P. Lyon"]
+    thumbnail: 
+    figure:
+      - id: cat-2-51
+  - id: "cat-1860-p.52"
+    title: "Page 52 -"
+    date: 1820
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Africa",  "Americas",  "Unknown"]
+    locations: ["Interior of South Africa",  "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
+    countries: ["South Africa"]
+    named people: ["Dr A. Smith",  "Rev. J. Ketley",  "Rev. R. Moffat"]
+    thumbnail: 
+    figure:
+      - id: cat-2-52
+  - id: "cat-1860-p.53"
+    title: "Page 53 - Case P, Case Q, Case R, Case S & Case T"
+    date: 
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Africa",  "Americas",  "Unknown"]
+    locations: ["Demerara [Guyana]"]
+    countries: ["Guyana"]
+    named people: ["John Campbell",  "Rev. Mr Wray"]
+    thumbnail: 
+    figure:
+      - id: cat-2-53
+  - id: "cat-1860-p.54"
+    title: "Page 54 - Case V, Case W & Case X"
+    date: 
+    artefact types: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    regions: ["Africa",  "Americas",  "Pacific",  "Unknown"]
+    locations: ["Africa",  "West Indies"]
+    countries: [""]
+    named people: ["Mr Campbell",  "Mrs Pirie",  "Rev. J. Williams",  "William Ellis"]
+    thumbnail: 
+    figure:
+      - id: cat-2-54
+  - id: "cat-1860-p.55"
+    title: "Page 55 - Case Z"
+    date: 
+    artefact types: ["Specimens in Natural History"]
+    regions: ["Africa",  "Europe",  "Unknown"]
+    locations: ["Kythera, Greece"]
+    countries: ["Greece"]
+    named people: ["Dr. Thom",  "Rev. I. Lowndes"]
+    thumbnail: 
+    figure:
+      - id: cat-2-55
