@@ -4,7 +4,7 @@ title: 72. Kāro. Fish trap. Baited inside. Made from Lorie palm.
 subtitle: British Museum, London, 8 March 1894
 
 layout: essay
-order: 50
+order: 51
 classes:
   - page-one
 contributor:
