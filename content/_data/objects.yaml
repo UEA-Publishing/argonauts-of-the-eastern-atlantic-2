@@ -2,11 +2,6 @@ object_filters:
   - artist
   - year
 
-object_card:
-  - thumbnail
-  - id
-  - title
-
 object_display_order:
   - artist
   - year
