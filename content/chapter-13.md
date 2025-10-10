@@ -12,7 +12,7 @@ abstract: |
 page_pdf_output: true
 ---
 
-Opening the letter which accompanied a parcel, recently arrived from London, Wilhelm Leipoldt found news of Barmen’s Missionary training college had found its way to William Ellis, recently appointed Foreign Secretary of the London Missionary Society.[^1] Leipoldt was his opposite number as Secretary of the Rhenish Missionary Society, established in 1828 through an amalgamation of missionary societies at Elberfeld, Barmen and Köln (Cologne).
+Test Opening the letter which accompanied a parcel, recently arrived from London, Wilhelm Leipoldt found news of Barmen’s Missionary training college had found its way to William Ellis, recently appointed Foreign Secretary of the London Missionary Society.[^1] Leipoldt was his opposite number as Secretary of the Rhenish Missionary Society, established in 1828 through an amalgamation of missionary societies at Elberfeld, Barmen and Köln (Cologne).
 
 Ellis was keen to support these ‘fellow-workers’, suggesting that ‘a few curiosities from different parts of the world would be acceptable for your new Institution’. These would, he proposed, be useful ‘in conveying a more lively impression of the actual degradation of the heathen and the polluting character of idol worship; and also of shewing what Missionaries had been able to effect in promoting the knowledge of the True God and the Only Saviour’.[^2]
 
