@@ -102,10 +102,10 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: Social Science / Anthropology / Cultural
+    identifer: SOC002010
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: anthropology, missionaries, history, visual culture, material culture
 
 # ------------------------------------------------------------------------------
 # Revision History
