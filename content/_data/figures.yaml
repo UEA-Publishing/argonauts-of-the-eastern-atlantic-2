@@ -1608,7 +1608,7 @@ figure_list:
     label: "1860 Catalogue, p.54"
     caption: ""
     credit: ""
-    alt: "Page of the 1860 LMS Museum Catalogue"
+    alt: "Page of the 1860 LMS Museum  Catalogue"
   - id: "cat-2-55"
     src: figures/cat-1860/cat-2-55.jpg
     label: "1860 Catalogue, p.55"
