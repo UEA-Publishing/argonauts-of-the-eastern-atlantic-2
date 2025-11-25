@@ -156,7 +156,7 @@ It went on:
 
 > The plunder was carried to an extreme — that is to say, did not cease till there was nothing left to take; and the plunderers will no doubt be able, on our return to Calcutta, to place at their friends’ disposal, and for the ornamenting of their houses, trophies gained, not from Chinese soldiers or from a field of battle, but from the harmless and peaceable inhabitants and tradesmen of a city doomed to destruction by our men-of-war; who, a few days previous, issued a very strict order to all the transports to use forbearance towards all the natives in our dealings with them, as we did not war with the people, but required reparation at the hands of the Chinese Government.[^53]
 
-This passage was to be reprinted many times, particularly by those who argued that the ‘opium war’, with its use of what came to be known as ‘gunboat diplomacy’, had placed a moral stain on the British nation.⁠[^54]
+This passage was to be reprinted many times, particularly by those who argued that the ‘opium war’, with its use of what came to be known as ‘gunboat diplomacy’, had placed a moral stain on the British nation.[^54]
 
 Many evangelicals continued to campaign against the opium trade, with the Missionary Museum displaying opium pipes, as well a series of:
 

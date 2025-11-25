@@ -1,59 +1,5 @@
 figure_list:
 
-  - id: "fig-intro-part-1-1"
-    src: intro-part-1-1.jpg
-    label: "fig-intro-part-1-1. Argonauts of the Western Pacific"
-    caption: "Argonauts of the Western Pacific by Bronislaw Malinowski, originally published in 1922"
-    credit: ""
-    alt: "Cover of Argonauts of the Western Pacific by Bronislaw Malinowski, featuring a silhouette of a canoe and tropical scenery."
-  - id: "fig-intro-part-1-2"
-    src: intro-part-1-2.jpg
-    label: "fig-intro-part-1-2. The Golden Bough"
-    caption: "The Golden Bough by James Frazer, published in 12 volumes between 1905 and 1915"
-    credit: "Frazer, James George. 1911. The golden bough . a study in comparative religion. London. Macmillan"
-    alt: "A collection of twelve hardcover volumes of The Golden Bough by Sir James George Frazer, featuring a cream-colored dust jacket."
-  - id: "fig-intro-part-1-3"
-    src: intro-part-1-3.png
-    label: "fig-intro-part-1-3"
-    caption: "Ulysses by James Joyce, first edition published in 1922"
-    credit: ""
-    alt: "A worn copy of Ulysses by James Joyce, featuring a blue cover with white lettering, resting on a flat surface."
-  - id: "fig-intro-part-1-4"
-    src: intro-part-1-4.jpg
-    label: "fig-intro-part-1-4"
-    caption: "Bronislaw Malinowski in his tent in the Trobriands"
-    credit: ""
-    alt: "A dark, historical image captures a group of individuals seated inside a tent, with figures standing outside amidst tropical vegetation."
-  - id: "fig-intro-part-1-5"
-    src: intro-part-1-5.jpg
-    label: "fig-intro-part-1-5"
-    caption: "Malinowski's tent on the beach in the Trobriands"
-    credit: ""
-    alt: "A coastal settlement with huts among palm trees, set against a lush jungle backdrop. A person stands beside a tent."
-  - id: "fig-intro-part-1-6"
-    src: intro-part-1-6.jpg
-    label: "fig-intro-part-1-6"
-    caption: "Trobriand Cricket (cover for 1973 film). the missionary Gilmour is remembered for introducting the game as a substitute for warfare"
-    credit: ""
-    alt: "Cover of  Trobriand Cricket. Depicting Trobriand Islanders playing cricket, showcasing cultural adaptation and colonial influences, with vivid greenery in the background."
-  - id: "fig-intro-part-1-7"
-    src: intro-part-1-7.jpg
-    label: "fig-intro-part-1-7"
-    caption: "Soulava kula valuable, collected by Bronislaw Malinowski in the Trobriand Islands"
-    credit: "British Museum 20122037.1"
-    alt: "Close-up of a decorative textile featuring circular coral and shell beads, strung together with dark thread on a blue fabric base."
-  - id: "fig-intro-part-1-8"
-    src: intro-part-1-8.png
-    label: "fig-intro-part-1-8"
-    caption: "Three stranded cord"
-    credit: ""
-    alt: "Colorful braided rope featuring intertwining red, blue, and green strands, creating a vibrant decorative pattern."
-  - id: "fig-intro-part-1-9"
-    src: intro-part-1-9.jpg
-    label: "fig-intro-part-1-9"
-    caption: "Things Fall Apart by Chinua Achebe - cover for first edition, published in 1958"
-    credit: ""
-    alt: "Cover of Things Fall Apart by Chinua Achebe, featuring vibrant colors, intricate patterns, traditional motifs, and a rural scene."
   - id: "fig-c12-1"
     src: c12-1.jpg
     label: "fig-c12-1"
@@ -1615,3 +1561,116 @@ figure_list:
     caption: ""
     credit: ""
     alt: "Page of the 1860 LMS Museum Catalogue"
+
+  - id: "mus-1843"
+    src: figures/museum_layers/1843.jpg
+    label: "1843"
+    zoom: true
+
+  - id: "mus-1847"
+    src: figures/museum_layers/1847.jpg
+    label: "1847"
+    zoom: true
+
+  - id: "mus-1853"
+    src: figures/museum_layers/1853.jpg
+    label: "1853"
+    zoom: true
+
+  - id: "mus-1859"
+    src: figures/museum_layers/1859.jpg
+    label: "1859"
+    zoom: true
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/museum_layers/black-letters.png"
+          - src: "figures/museum_layers/colour-letters.png"
+          - src: "figures/museum_layers/shapes.png"
+          - src: "figures/museum_layers/letters-and-shapes.png"
+          - src: "figures/museum_layers/case-a.png"
+          - src: "figures/museum_layers/case-b.png"
+          - src: "figures/museum_layers/case-c.png"
+          - src: "figures/museum_layers/case-k.png"
+          - src: "figures/museum_layers/south-sea-islands.png"
+          - src: "figures/museum_layers/natural-history.png"
+          - src: "figures/museum_layers/china-and-ultra-ganges.png"
+          - src: "figures/museum_layers/africa-and-madagascar.png"
+          - src: "figures/museum_layers/india-including-presidencies.png"
+
+  - id: "mus-1-a"
+    src: figures/museum_layers/black-letters.png
+    label: "black letters"
+
+  - id: "mus-1-b"
+    src: figures/museum_layers/colour-letters.png
+    label: "colour letters"
+
+  - id: "mus-1-c"
+    src: figures/museum_layers/letters-and-shapes.png
+    label: "letters and shapes"
+    credit: "JMM_246 Juvenile Missionary Magazine. 1860. Vol.17. 191. South Sea Manufactures. London Missionary Society. 91"
+
+  - id: "mus-1-d"
+    src: figures/museum_layers/shapes.png
+    label: "shapes"
+
+  - id: "case-a"
+    src: figures/museum_layers/case-a.png
+    label: "case-a"
+    caption: "Idols and objects superstitious  regard from islands in the  Pacific Ocean"
+    credit: "JMM_239 Juvenile Missionary Magazine. 1860. Vol.17. 188. South Sea Idols. London Missionary Society. 13"
+
+  - id: "case-b"
+    src: figures/museum_layers/case-b.png
+    label: "case-b"
+    caption: "Natural history"
+    credit: "JMM_248 Juvenile Missionary Magazine. 1860. Vol.17. 192. Case in the Missionary Museum. London Missionary Society. 103"
+
+  - id: "case-c"
+    src: figures/museum_layers/case-c.png
+    label: "case-c"
+    caption: "Articles of dress, domestic utensils, implements of war,  music, &c., from the islands in the pacific ocean"
+    credit: "JMM_246 Juvenile Missionary Magazine. 1860. Vol.17. 191. South Sea Manufactures. London Missionary Society. 91"
+
+  - id: "case-k"
+    src: figures/museum_layers/case-k.png
+    label: "case-k"
+    caption: "Idols and objects of superstition from India, including the three presidencies"
+    credit: "JMM_252 Juvenile Missionary Magazine. 1860. Vol.17. 194. Indian Idols. London Missionary Society. 161"
+
+  - id: "south-sea-islands"
+    src: figures/museum_layers/south-sea-islands.png
+    label: "South Sea Islands"
+
+  - id: "natural-history"
+    src: figures/museum_layers/natural-history.png
+    label: "Natural History"
+
+  - id: "china-and-ultra-ganges"
+    src: figures/museum_layers/china-and-ultra-ganges.png
+    label: "China and Ultra Ganges"
+
+  - id: "africa-and-madagascar"
+    src: figures/museum_layers/africa-and-madagascar.png
+    label: "Africa and Madagascar"
+
+  - id: "mus-case-a"
+    src: figures/museum_layers/mus-case-a.jpg
+    label: "Case A"
+
+  - id: "mus-case-b"
+    src: figures/museum_layers/mus-case-b.jpg
+    label: "Case B"
+
+  - id: "mus-case-c"
+    src: figures/museum_layers/mus-case-c.jpg
+    label: "Case C"
+
+  - id: "mus-case-i"
+    src: figures/museum_layers/mus-case-i.jpg
+    label: "Case I"
+
+  - id: "mus-case-k"
+    src: figures/museum_layers/mus-case-k.jpg
+    label: "Case K"

@@ -1,12 +1,10 @@
-const CanvasBuilder = require('./canvas-builder')
-const chalkFactory = require('~lib/chalk')
-const fs = require('fs-extra')
-const path = require('path')
-const SequenceBuilder = require('./sequence-builder')
-const titleCase = require('~plugins/filters/titleCase')
-const Writer = require('./writer')
-const { globalVault } = require('@iiif/vault')
-const { IIIFBuilder } = require('iiif-builder')
+import { IIIFBuilder } from 'iiif-builder'
+import { globalVault } from '@iiif/vault'
+import CanvasBuilder from './canvas-builder.js'
+import SequenceBuilder from './sequence-builder.js'
+import Writer from './writer.js'
+import chalkFactory from '#lib/chalk/index.js'
+import urlPathJoin from '#lib/urlPathJoin/index.js'
 
 const logger = chalkFactory('Figures:IIIF:Manifest', 'DEBUG')
 
@@ -16,8 +14,8 @@ const builder = new IIIFBuilder(vault)
 /**
  * Create a IIIF manifest from a Figure instance
  */
-module.exports = class Manifest {
-  constructor(figure) {
+export default class Manifest {
+  constructor (figure) {
     const { iiifConfig } = figure
     const { locale } = iiifConfig
     this.figure = figure
@@ -25,7 +23,7 @@ module.exports = class Manifest {
     this.writer = new Writer(iiifConfig)
   }
 
-  get annotations() {
+  get annotations () {
     const annotations = []
     /**
      * Add the "base" image as a canvas annotation
@@ -42,7 +40,7 @@ module.exports = class Manifest {
     return annotations
   }
 
-  get choices() {
+  get choices () {
     if (!this.figure.annotations) return
     const choices = this.figure.annotations
       .flatMap(({ items }) => items)
@@ -67,15 +65,15 @@ module.exports = class Manifest {
     })
   }
 
-  get sequenceItems() {
+  get sequenceItems () {
     if (!this.figure.sequences || !this.figure.sequences.length) return
     return this
       .figure.sequences
       .flatMap(({ items }) => items)
       .map((item) => {
-        const canvasId = path.join(this.figure.canvasId, item.id)
+        // NB: `path` is posix because this targets a URL!
+        const canvasId = urlPathJoin(this.figure.canvasId, item.id)
         const sequenceItemImage = ({ format, info, label, src, uri }) => {
-          const { ext } = path.parse(src)
           return {
             format,
             height: this.figure.canvasHeight,
@@ -95,7 +93,7 @@ module.exports = class Manifest {
         }
         return {
           body: sequenceItemImage(item),
-          id: path.join(canvasId, 'annotation-page', item.id),
+          id: urlPathJoin(canvasId, 'annotation-page', item.id),
           motivation: 'painting',
           target: canvasId,
           type: 'Annotation'
@@ -103,11 +101,11 @@ module.exports = class Manifest {
       })
   }
 
-  createAnnotation(data) {
+  createAnnotation (data) {
     const { body, id, motivation, region } = data
     return {
       body: body || this.createAnnotationBody(data),
-      id: [this.figure.canvasId, id].join('/'),
+      id: urlPathJoin(this.figure.canvasId, id),
       motivation,
       target: region ? `${this.figure.canvasId}#xywh=${region}` : this.figure.canvasId,
       type: 'Annotation'
@@ -118,7 +116,7 @@ module.exports = class Manifest {
    * @todo handle text annotations
    * @todo handle annotations with target region
    */
-  createAnnotationBody({ format, info, label, uri }) {
+  createAnnotationBody ({ format, info, label, uri }) {
     return {
       format,
       height: this.figure.canvasHeight,
@@ -141,7 +139,7 @@ module.exports = class Manifest {
    * Uses `builder` to create the JSON representation of the manifest
    * @return {JSON}
    */
-  async toJSON() {
+  async toJSON () {
     const manifest = builder.createManifest(this.figure.manifestId, (manifest) => {
       if (this.figure.isSequence) {
         manifest.addBehavior(['continuous', 'sequence'])
@@ -160,17 +158,17 @@ module.exports = class Manifest {
         figure: this.figure,
         sequenceItems: this.sequenceItems
       })
-    } catch(error) {
+    } catch (error) {
       throw new Error(`Failed to generate manifest: ${error}`)
     }
   }
 
-  async write() {
+  async write () {
     try {
       const json = await this.toJSON()
       logger.info(`Generated manifest for figure "${this.figure.id}"`)
       return await this.writer.write(json)
-    } catch(error) {
+    } catch (error) {
       return { errors: [error] }
     }
   }

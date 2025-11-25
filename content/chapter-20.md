@@ -129,7 +129,7 @@ It was proposed that the exhibition would be ‘powerfully and practially’ ans
 
 While the Directors of the LMS felt that ‘the highest and most enduring fruits of missionary labours are spiritual, and that the gathering if Churches, the moral elevation of tribes and nations, and their social improvement are incapable of exhibition’, they nevertheless agreed that ‘some important uses may be served by the scheme’, so agreed to contribute. Concerned that the associated costs should not come from the general funds of the Society, they appealed for ‘Special Contributions’.[^38]
 
-​On 6 January 1867, Theodor Vernes wrote from Paris to the Joseph Mullens, recently appointed Foreign Secretary of the London Missionary Society after two decades as a missionary in India. Following a visit he had personally made to London, Vernes confirmed the rationale for establishing a missionary museum at the 1867 _Exposition Universelle_:
+On 6 January 1867, Theodor Vernes wrote from Paris to the Joseph Mullens, recently appointed Foreign Secretary of the London Missionary Society after two decades as a missionary in India. Following a visit he had personally made to London, Vernes confirmed the rationale for establishing a missionary museum at the 1867 _Exposition Universelle_:
 
 > to render by the most practical means what was the state of the inhabitants of the different Missionary stations, in reference to their manners and their belief, and what has become their moral and religious state since the influence of the Christian religion has been disseminated among them.[^39]
 

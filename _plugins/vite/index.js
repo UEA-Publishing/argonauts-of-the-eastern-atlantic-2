@@ -1,6 +1,6 @@
-const copy = require('rollup-plugin-copy')
-const path = require('path')
-const EleventyVitePlugin = require('@11ty/eleventy-plugin-vite')
+import EleventyVitePlugin from '@11ty/eleventy-plugin-vite'
+import copy from 'rollup-plugin-copy'
+import path from 'node:path'
 
 /**
  * Use Vite to bundle JavaScript
@@ -12,7 +12,7 @@ const EleventyVitePlugin = require('@11ty/eleventy-plugin-vite')
  * @param {Object} eleventyConfig
  * @param {Object} globalData
  */
-module.exports = function (eleventyConfig, { directoryConfig, publication }) {
+export default function (eleventyConfig, { directoryConfig, publication }) {
   const { pathname } = publication
   const { inputDir, outputDir, publicDir } = directoryConfig
 
@@ -24,9 +24,9 @@ module.exports = function (eleventyConfig, { directoryConfig, publication }) {
        * @see https://vitejs.dev/config/#build-options
        */
       root: outputDir,
-      base: pathname, 
+      base: pathname,
       resolve: {
-        alias: pathname === '/' ? [] : [{ find: pathname, replacement: '/' }]
+        alias: pathname === '/' ? {} : { [pathname]: '/' }
       },
       build: {
         assetsDir: '_assets',
@@ -36,11 +36,11 @@ module.exports = function (eleventyConfig, { directoryConfig, publication }) {
         outDir: outputDir,
         rollupOptions: {
           output: {
-            assetFileNames: ({ name }) => {
-              const fullFilePathSegments = name.split('/').slice(0, -1)
+            assetFileNames: ({ name, originalFileName }) => {
+              const fullFilePathSegments = (originalFileName ?? name).split('/').slice(0, -1)
               let filePath = '_assets/';
               ['_assets', 'node_modules'].forEach((assetDir) => {
-                if (name.includes(assetDir)) {
+                if (fullFilePathSegments.includes(assetDir)) {
                   filePath +=
                     fullFilePathSegments
                       .slice(fullFilePathSegments.indexOf(assetDir) + 1)
@@ -53,27 +53,46 @@ module.exports = function (eleventyConfig, { directoryConfig, publication }) {
           plugins: [
             copy({
               targets: [
-                { 
-                  src: 'public/*', 
-                  dest: outputDir,
+                {
+                  src: 'public/*',
+                  dest: outputDir
                 },
                 {
-                  src: path.join(inputDir, '_assets', 'images', '*'),
-                  dest: path.join(outputDir, '_assets', 'images')
+                  src: path.posix.join(inputDir, '_assets', 'images', '*'),
+                  dest: path.posix.join(outputDir, '_assets', 'images')
                 },
                 {
-                  src: path.join(inputDir, '_assets', 'downloads', '*'),
-                  dest: path.join(outputDir, '_assets', 'downloads')
+                  src: path.posix.join(inputDir, '_assets', 'downloads', '*'),
+                  dest: path.posix.join(outputDir, '_assets', 'downloads')
                 },
                 {
-                  src: path.join(inputDir, '_assets', 'fonts', '*'),
-                  dest: path.join(outputDir, '_assets', 'fonts')
+                  src: path.posix.join(inputDir, '_assets', 'fonts', '*'),
+                  dest: path.posix.join(outputDir, '_assets', 'fonts')
                 }
               ]
             })
           ]
         },
         sourcemap: true
+      },
+      /**
+       * Configure style pre-procssing
+       * @see https://vite.dev/config/shared-options#css-preprocessoroptions
+       * @see https://sass-lang.com/documentation/js-api/interfaces/options/
+       */
+      css: {
+        preprocessorOptions: {
+          scss: {
+            api: 'modern-compiler',
+            silenceDeprecations: [
+              'color-functions',
+              'global-builtin',
+              'import',
+              'legacy-js-api',
+              'mixed-decls'
+            ]
+          }
+        }
       },
       /**
        * Set to false to prevent Vite from clearing the terminal screen

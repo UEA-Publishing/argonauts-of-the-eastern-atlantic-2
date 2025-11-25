@@ -566,4 +566,38 @@ object_list:
     figure:
       - id: cat-2-55
 
-  
+  - id: "mus-1843"
+    figure:
+      - id: "mus-1843"
+
+  - id: "mus-1847"
+    figure:
+      - id: "mus-1847"
+
+  - id: "mus-1853"
+    figure:
+      - id: "mus-1853"
+
+  - id: "mus-1859"
+    figure:
+      - id: "mus-1859"
+
+  - id: "mus-case-a"
+    figure:
+      - id: "mus-case-a"
+
+  - id: "mus-case-b"
+    figure:
+      - id: "mus-case-b"
+
+  - id: "mus-case-c"
+    figure:
+      - id: "mus-case-c"
+
+  - id: "mus-case-i"
+    figure:
+      - id: "mus-case-i"
+
+  - id: "mus-case-k"
+    figure:
+      - id: "mus-case-k"

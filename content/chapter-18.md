@@ -205,7 +205,7 @@ _“During the last year,” writes Mr. Pettigrew, of Berbice, “we have often 
 
 On 14 December 1849, Joseph Ketley marked his birthday by writing to the Directors of the London Missionary Society about their gift:
 
-_This day completes the 47^th year of my earthly pilgrimage, and the 21^st of my public service in the Guiana field of Missions._[^⁠72]
+_This day completes the 47^th year of my earthly pilgrimage, and the 21^st of my public service in the Guiana field of Missions._[^72]
 
 Comparing the 1849 to 1828 when he arrived in Demerara, Ketley noted:
 

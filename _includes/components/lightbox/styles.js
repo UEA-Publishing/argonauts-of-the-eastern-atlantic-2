@@ -1,8 +1,8 @@
-const chalkFactory = require('~lib/chalk')
-const fs = require('fs')
-const { html } = require('~lib/common-tags')
-const path = require('path')
-const sass = require('sass')
+import { html } from '#lib/common-tags/index.js'
+import chalkFactory from '#lib/chalk/index.js'
+import fs from 'fs'
+import path from 'node:path'
+import * as sass from 'sass'
 
 const logger = chalkFactory('lightbox:styles')
 
@@ -12,15 +12,26 @@ const logger = chalkFactory('lightbox:styles')
  * @param      {Object}  eleventyConfig
  * @return     {Function} 11ty component returning a slotted `style` tag
  */
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   const lightboxStylesPath = path.resolve('content/_assets/styles/components/q-lightbox.scss')
 
-  let lightboxCSS = {css:''}
+  let lightboxCSS = { css: '' }
 
   if (!fs.existsSync(lightboxStylesPath)) {
     logger.warn(`q-lightbox component styles were not found at ${lightboxStylesPath}, this may cause the lightbox to behave unexpectedly.`)
   } else {
-    lightboxCSS = sass.compile(lightboxStylesPath)
+    const sassOptions = {
+      api: 'modern-compiler',
+      loadPaths: [path.resolve('node_modules')],
+      silenceDeprecations: [
+        'color-functions',
+        'global-builtin',
+        'import',
+        'legacy-js-api',
+        'mixed-decls'
+      ]
+    }
+    lightboxCSS = sass.compile(lightboxStylesPath, sassOptions)
   }
 
   return function () {

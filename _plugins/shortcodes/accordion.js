@@ -1,5 +1,5 @@
-const { oneLine } = require('~lib/common-tags')
-const chalkFactory = require('~lib/chalk')
+import { oneLine } from '#lib/common-tags/index.js'
+import chalkFactory from '#lib/chalk/index.js'
 
 const logger = chalkFactory('shortcodes: accordion')
 
@@ -13,7 +13,7 @@ const logger = chalkFactory('shortcodes: accordion')
  *
  * @return     {String}  An HTML <details> element with <summary> and <section>
  */
-module.exports = function (eleventyConfig, { page }) {
+export default function (eleventyConfig, { page }) {
   const markdownify = eleventyConfig.getFilter('markdownify')
   const slugify = eleventyConfig.getFilter('slugify')
   let { controls, copyButton } = eleventyConfig.globalData.config.accordion
@@ -41,15 +41,8 @@ module.exports = function (eleventyConfig, { page }) {
       'accordion-section__heading', headingLevelClass, 'accordion-section__controls', controlsClass
     ].filter((x) => x)
 
-    const printComponent = `
-      <section id="${sectionId}" class="accordion-section" data-outputs-include="epub,pdf">
-        ${markdownify(heading, { inline: false })}
-        ${markdownify(content, { inline: false })}
-      </section>
-    `
-
-    const htmlComponent = `
-      <details class="accordion-section" id="${sectionId}" ${open ? 'open' : ''} data-outputs-include="html">
+    const component = `
+      <details class="accordion-section" id="${sectionId}-accordion" ${open ? 'open' : ''} >
         <summary class="${summaryClasses.join(' ')}" tabindex="1">
           <button
             aria-label="${copyButton.ariaLabel}"
@@ -71,11 +64,10 @@ module.exports = function (eleventyConfig, { page }) {
         </summary>
         <section class="accordion-section__body">${markdownify(content, { inline: false })}</section>
       </details>
-    ` 
+    `
 
     return oneLine`
-      ${printComponent}
-      ${htmlComponent}
+      ${component}
     `
   }
 }

@@ -1,9 +1,8 @@
-const chalkFactory = require('~lib/chalk')
-const fs = require('fs-extra')
-const parser = require('./parser')
-const { validateUserConfig } = require('./validator')
-
-const path = require('path')
+import { validateUserConfig } from './validator.js'
+import chalkFactory from '#lib/chalk/index.js'
+import fs from 'fs-extra'
+import parser from './parser.js'
+import path from 'node:path'
 
 const logger = chalkFactory('[plugins:globalData]')
 
@@ -15,7 +14,7 @@ const checkForDuplicateIds = function (data, filename) {
   if (!data) return
 
   if (Array.isArray(data)) {
-    if (data.every((item) => item.hasOwnProperty('id'))) {
+    if (data.every((item) => Object.hasOwn(item, 'id'))) {
       const duplicates = data.filter((a, index) => {
         return index !== data.findIndex((b) => b.id === a.id)
       })
@@ -29,7 +28,7 @@ const checkForDuplicateIds = function (data, filename) {
   if (typeof data === 'object') {
     Object.keys(data).forEach((key) => {
       try {
-        checkForDuplicateIds(data[key])
+        checkForDuplicateIds(data[key], filename)
       } catch (error) {
         logger.error(`${filename} ${key} contains multiple entries with the same id.\nEach entry in ${key} must have a unique id. ${error.message}`)
       }
@@ -42,7 +41,7 @@ const checkForDuplicateIds = function (data, filename) {
  * so that it is available to plugins and shortcode components.
  *
  * Nota bene: data is loaded from a sub directory of the `input` directory,
- * distinct from the `eleventyConfig.dir.data` directory.
+ * distinct from the `eleventyConfig.directoryAssignments.data` directory.
  *
  * @param {Object} eleventyConfig
  * @param {Object} directoryConfig
@@ -50,16 +49,21 @@ const checkForDuplicateIds = function (data, filename) {
  * @property {String} outputDir
  * @property {String} publicDir
  */
-module.exports = function(eleventyConfig, directoryConfig) {
+export default function (eleventyConfig, directoryConfig) {
   const dir = path.resolve(directoryConfig.inputDir, '_data')
-  // console.debug(`[plugins:globalData] ${dir}`)
+
+  // Add directory config to globalData so that it is available to other plugins
+  eleventyConfig.addGlobalData('directoryConfig', directoryConfig)
+
+  if (!fs.existsSync(dir)) return eleventyConfig.globalData
+
   const files = fs.readdirSync(dir)
     .filter((file) => path.extname(file) !== '.md')
   const parse = parser(eleventyConfig)
 
   for (const file of files) {
     const { name: key } = path.parse(file)
-    const parsed = parse(path.join(dir, file)) 
+    const parsed = parse(path.join(dir, file))
 
     let value
     try {
@@ -69,15 +73,12 @@ module.exports = function(eleventyConfig, directoryConfig) {
       process.exit(1)
     }
 
-    if (!key || !value) { 
+    if (!key || !value) {
       continue
     }
     checkForDuplicateIds(value, file)
     eleventyConfig.addGlobalData(key, value)
   }
-
-  // Add directory config to globalData so that it is available to other plugins
-  eleventyConfig.globalData.directoryConfig = directoryConfig
 
   return eleventyConfig.globalData
 }
