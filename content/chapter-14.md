@@ -44,15 +44,29 @@ This patronage formed part of the official embrace of missionary education by th
 
 In 1819, Mead was joined at Nagercoil by Charles and Martha Mault (née Mead, who evidently traced her descent from Britain’s seventeenth century Puritan leader, Oliver Cromwell).[^15] Charles Mead and Charles Mault divided responsibility for surrounding villages between them, but it was only after the visit of George Bennet and Daniel Tyerman in 1827 (more below) that Mead moved to Neyoor, in the mission’s Western division.
 
+{% figure "fig-c14-2" %}
+
+{% figure "fig-c14-3" %}
+
 ​An image of ‘Pattera-Kalee and Veerapathiran’ was printed on the cover of the _Missionary Magazine and Chronicle_ in September 1837, under the title ’Demon Worship in South Travancore’.[^16] Mead’s account of destruction, quoted above, was printed beneath this image, but its source is unclear since the figures are shown standing, while his description suggests those destroyed were reclining.
 
 The appearance of such images on the title page of the _Chronicle_ was a fairly recent innovation. Although the quarterly _Missionary Sketches_ had featured striking images on its covers since its first issue in April 1818 ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)), the monthly _Evangelical Magazine_ continued to feature just a single portrait each month, a practice established with the magazine in 1793 ([Chapter 2](https://argonauts2022.net/mary-john-and-martha/)). This had continued even after its title expanded to _The Evangelical Magazine and Missionary Chronicle_ when a distinct _Missionary Chronicle_ section was added at the end of the magazine in June 1813.
 
 In June 1836, however, an editorial addressed ‘To the Members and Friends of the London Missionary Society’ appeared under a banner, _The Missionary Magazine and Chronicle (relating chiefly to the Missions of the London Missionary Society)_. This stated that the _Missionary Magazine and Chronicle_ would now be made available independently, but still continue as the final section in _the Evangelical Magazine_. Some surviving copies of _the Missionary Magazine and Chronicle_ after this date have different page numbers to those included with _the Evangelical Magazine,_ as well as an issue number and date included as a header (compare the covers for 1836 to those from 1837 shown here), but otherwise appear to be identical.
 
+{% figure "fig-c14-4" %}
+
+{% figure "fig-c14-5" %}
+
+{% figure "fig-c14-6" %}
+
+{% figure "fig-c14-7" %}
+
 A significant change introduced in 1836, however, was the addition of a cover image for the _Missionary Magazine and Chronicle._ The first image, for July 1836, shows a rather dramatic scene at Kristnapore, a Missionary Station in Bengal, with the title ‘Peril from the Boa Constrictor’.[^17] Flooding caused by hurricanes seems to have displaced an 18 foot long snake into the mission compound, where it was rather dramatically killed and its skin sent to the Missionary Museum in London.
 
 The October 1836 cover featured a depiction of ‘Worship of the Serpent in India’, followed in March 1837 by an image of ‘Serpent Charmers’.[^18] It seems likely that this recurring serpentine theme may have been initiated by an issue of _Missionary Sketches_ back in April 1833, where the cover featured ‘Representations of the Serpent-God Worshipped in India’, with images of two carvings from the Missionary Museum.[^19]
+
+{% figure "fig-c14-8" %}
 
 That on the left, where ‘the hood of the serpent forms a kind of screen behind and canopy over the form of the idol’, was sent by John Hands, LMS missionary at Bellary (Ballari) between 1810 and 1841. The other,  ‘designated _Nagur Swamy_ \[Naga Swamy\], the serpent-god, is among the renounced idols that have recently arrived from Travancore’.
 
@@ -85,6 +99,12 @@ For British Christians like Charles Mead, raised on an account of temptation and
 In describing the annual festival at nearby Mandaikadu in 1837, Mead emphasised that it was a ‘place of devil worship’, describing a ‘swinging machine’ which hoisted devotees using a ‘hook inserted in the back’. He described how children who had recovered from illnesses were made to dance with ‘a thin piece of cane inserted in their side’, even hinting that the resident ‘demon’ was said to require a human sacrifice every thousand years.[^29]
 
 Missionary work, situated in this way, was understood as a contribution to a very long-term cosmic battle, in which conversions and the renunciation of ‘idols’ suggested the scales might be tipping.
+
+{% figure "fig-c14-9" %}
+
+{% figure "fig-c14-10" %}
+
+{% figure "fig-c14-11" %}
 
 Mead’s account of the destruction of the ‘idols’ at Kariavili, printed in the _Missionary Magazine and Chronicle in_ September 1837, was followed with news of a Memorial, presented to the Governor of Madras by over 200 local British residents, protesting at ‘Government Support of Idolatry in India’, referred to as ‘this dark blot on the Christian character of the British nation’.[^30]
 
@@ -236,46 +256,6 @@ It seems important to also acknowledge the influence of my students, in conversa
 I would also like to acknowledge Aayushi Gupta, with whom I had a number of extremely stimulating conversations about female Zenana missions in India while she was developing her PhD proposal. This chapter is intended to offer something of a prehistory for that movement.
 
 
-{% figure "fig-c14-2" %}
-
-{% figure "fig-c14-3" %}
-
-{% figure "fig-c14-4" %}
-
-{% figure "fig-c14-5" %}
-
-{% figure "fig-c14-6" %}
-
-{% figure "fig-c14-7" %}
-
-{% figure "fig-c14-8" %}
-
-{% figure "fig-c14-9" %}
-
-{% figure "fig-c14-10" %}
-
-{% figure "fig-c14-11" %}
-
-{% figure "fig-c14-12" %}
-
-{% figure "fig-c14-13" %}
-
-{% figure "fig-c14-14" %}
-
-{% figure "fig-c14-15" %}
-
-{% figure "fig-c14-16" %}
-
-{% figure "fig-c14-17" %}
-
-{% figure "fig-c14-18" %}
-
-{% figure "fig-c14-19" %}
-
-{% figure "fig-c14-20" %}
-
-{% figure "fig-c14-21" %}
-
 {% backmatter %}
 
 ## Notes
@@ -425,4 +405,5 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 [^72]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp. 153-4.
 
 {% endbackmatter %}
+
 
