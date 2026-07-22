@@ -13,6 +13,7 @@ abstract: |
 page_pdf_output: true
 ---
 
+{% figure "fig-c17-1" %}
 
 Less than a week after a ‘Special Meeting’ at Exeter Hall resolved to work towards the suppression of the British opium trade with China (Chapter 16), the Directors of the London Missionary Society gathered once again.[^1] At the east end of their board room table sat the Chairman, flanked on his left by the Home Secretary, with two Foreign Secretaries on his right.[^2]
 
@@ -23,6 +24,10 @@ Parallels with the departure of John Williams on the _Camden_, just under five y
 During the service, Rev. Thomas Binney told Moffat :
 
 > We feel deeply the circumstance of similarity between you and the late lamented “Martyr of Erromanga”; you and Williams sat together at your ordination; and I suppose you were together when you took leave of the brethren. Very similar were your labours, duties, and achievements, among a people in somewhat similar circumstances. Both returned to England — both went in and out among the churches — both had everywhere an honourable welcome — both greatly interested the world as well as the church — and both gave us a record and image of themselves in a printed book — and now you are departing as he departed — may God grant that here the parallel may end; that you may be taken to the land of your adoption; that you may there live for many years in labour yet more abundant, and with results still more remarkable![^6]
+
+{% figure "fig-c17-2" %}
+
+{% figure "fig-c17-3" %}
 
 Weeks later, George Baxter announced the sale of a pair of coloured oil portraits for 10s. 6d. each, one showing Moffat with a ‘Bechuana parliament, the other showing Williams ‘seated in his Study composing his celebrated _Missionary Enterprises_, which have been designated as a Supplement to the Acts of the Apostles’. Baxter even created a logo for the prints, showing two sides of a globe and the areas of the world in which each missionary worked.
 
@@ -40,9 +45,15 @@ Case F displayed idols and objects of superstition from India, including the thr
 
 Compared to such lurid descriptions, the paragraph describing case G, showing ‘articles of dress, domestic utensils, arms, and other curiosities from Africa and Madagascar’, is rather mild. Items described included a medicinal stick and ivory armlets ‘given by the queen of Lattakoo \[Dithakong\] to the late John Campbell’, as well as ‘neck, arm, and leg rings, used by the Mantatee females’ and ‘presented by Mr Moffat’ (Chapter 8).[^12]
 
+{% figure "fig-c17-4" %}
+
+{% figure "fig-c17-5" %}
+
 Finally, the text described a series of Natural History specimens including a boa constrictor killed at Kristnapore near Calcutta which had featured on the _Missionary Chronicle_ for July 1836 (Chapter 14), the giraffe ‘shot in Griqua country… by Mr Campbell’s party, July 31, 1814’ (Chapter 3), as well as:
 
 _Two large crocodiles… killed in the Lempopo \[Limpopo\] river, in the interior of South Africa, and presented by Mr. Moffat. But I must desist, and refer you to the catalogue, which you may have of the messenger, and which will explain every article in the museum._[^13]
+
+{% figure "fig-c17-6" %}
 
 Sadly, no catalogues from this date survive, but an image of the museum was published in the _Illustrated London News_ a few months later, on 20 May 1843, to illustrate an article describing the Society’s Annual Meeting. Readers were told:
 
@@ -55,6 +66,8 @@ The description which provides this chapter’s title comes from a later catalog
 Bizarrely, an image described as a ‘New Zealand Hunt and Fence of Garden’ appeared in _The New Zealanders,_ published in 1830, alongside images of a number of a number of other items from the Missionary Museum.[^15] In April 1839, following the relocation of the museum in 1835, the collector and curator Henry Syer Cuming wrote to the Directors about ‘the miserable state of the Missionary Museum… not only of utter confusion and Chaos, but in a state of ruin and decay’. He suggested items in the collection were:
 
 > fast going to decay, the damp walls have generated mould… the Moth had committed its ravages… leaving hairless skins to mask its progress… the spider has spun its web in every corner, and the extraordinary works both of God and Man are alike obscured, and disfigured with dust and cobwebs.[^16]
+
+{% figure "fig-c17-7" %}
 
 He demanded, ‘Is it so much to ask, that those Idols to which the Heathen once paid divine honours, be preserved in England as a monument of the glorious triumphs of the Cross, achieved by the Christian armies of our Country’. Cuming volunteered his services towards ‘identifying localities’, presumably necessary if a South African house could be mistaken for one from New Zealand.[^17]
 
@@ -80,6 +93,10 @@ As well as the addition of Moffat’s name to multiple catalogue descriptions, a
 
 Part of Moffat’s reason for returning to Britain was to oversee the printing of a Setswana translation of the New Testament. Working on this presumably improved his linguistic abilities, but it is also the case that John Mokotedi Serian, who accompanied Moffat, could easily have supplied these words. Mokotedi’s visit to Britain provides an important glimpse into the increasingly limited roles African Christians were allowed to play within the emerging church.
 
+{% figure "fig-c17-8" %}
+
+{% figure "fig-c17-9" %}
+
 As part of his work on _African Teachers on the Colonial Frontier_, the historian Stephen C. Volz has pieced together the details of Mokotedi’s life. Mokotedi, he tells us, was a child when he took refuge at Moffat’s mission with his mother, Moshane, as part of the group of defeated ‘Mantatees’ (Chapter 8). She was subsequently joined by her husband, Nteledi, a leader of the Bakwena ba Monaheng (a branch of the people of the crocodile), but was not permitted to receive baptism until Nteledi separated from her in 1833 (as his second wife, she was party to a polygamous marriage).[^21]
 
 Although his parents returned South to pursue an allegiance with the powerful emerging leader of the Basotho, Moshoeshoe (also a member of the Bakwena, the people of the crocodile), Mokotedi returned to the mission to complete his education, as well as to receive medical treatment. There, Robert Moffat seems to have established a relationship of patronage with Mokotedi, lending him four cattle.[^22]
@@ -97,6 +114,8 @@ When William Wallace Scott painted Moffat in 1842, Mokotedi and Sarah Roby were 
 Mokotedi’s posture, in particular, echoes the beseeching attitude taken by an enslaved African in the famous icon of the slavery abolition movement, who asked ‘Am I not a man and a brother?’ Such images served to connect the anti-slavery movement with a wave of missionary work in Africa. Less than a year after the final emancipation of slaves across the British Empire, on 1 August 1838, Thomas Fowell Buxton established the _Society for the Extinction of Slavery and for the Civilization of Africa,_ on 1 June 1840 at Exeter Hall. The following year, they sent a major expedition of three Royal Navy steamers up the Niger River in West Africa, with the aim of promoting legitimate commerce alongside Christianity to replace the slave trade.[^25]
 
 This turn to Africa, after the abolition of slavery, also seems to have impacted a young medical missionary initially inspired by Karl Gützlaff’s call for missionaries to China (Chapter 16). Following a series of meetings with Robert Moffat in London, David Livingstone sailed for southern Africa in November 1840. He would become the most enduringly famous British missionary of the nineteenth century, and certainly the only one to be granted a British state funeral after his death in Africa in 1873 (see Chapter 21).
+
+{% figure "fig-c17-10" %}
 
 Robert Moffat played an important role in shifting missionary attitudes towards Africa and Africans. Unlike Johannes Van Der Kemp and James Read who took African wives, and, according to their critics, even adopted African dress, Moffat carefully cultivated his distance.
 
@@ -121,6 +140,10 @@ After two stone houses had been built to house the missionaries, the foundations
 Construction of the new chapel was overseen by Mr Millen, a stonemason who pursued a sideline as an ivory trader. Building work was supported by additional funds raised at the Cape, supplemented with donations sent by Mary Moffat’s brother, a missionary at Madras in India, as well as from Rev. Richard Knill at St. Petersburg in Russia.[^34] After Millen died on a trading expedition in 1834, the stone walls were completed by David Hume, a trader resident at the mission.[^35]
 
 The other LMS missionaries at Kuruman, Hamilton and Edwards, prepared wooden doors and windows for the chapel, but found it impossible to find trees that were large enough to make beams for the roof. In 1835, Moffat accompanied Smith’s expedition to the capital of Mzilikazi, leader of the Ndebele who had conquered large areas of what would become known as the Transvaal. He sought and was given permission to harvest suitable timber, taken to Kuruman in two large wagons.[^36]
+
+{% figure "fig-c17-11" %}
+
+{% figure "fig-c17-12" %}
 
 In March 1840, less than a year after Moffat’s return to Britain, the cover of the _Missionary Chronicle_ featured a ‘View of the Kuruman Mission Station in South Africa’. This was based on an image painted by Charles Davidson Bell, an artist who accompanied Smith’s expedition.[^37] The same image would later feature in Moffat’s 1842 book as ‘A Bird’s Eye View of the Kuruman’.[^38]
 
@@ -148,6 +171,12 @@ It is not easy to make out from photographs, but when I shone a light into the i
 
 One key feature of such houses was that they could be built from locally available materials whenever the _motse_ or village was relocated, a not infrequent occurrence. However, they needed constant renewal, in particular through re-thatching and re-plastering the walls and floor after seasonal thunderstorms.
 
+{% figure "fig-c17-13" %}
+
+{% figure "fig-c17-14" %}
+
+{% figure "fig-c17-15" %}
+
 While some houses had no further interval divisions, Burchell’s plan includes an _inner apartment_:
 
 frequently built in the shape of a cone, or of a half-ellipsis, the point of which reaches up to the height of the roof, which serves to support and strengthen. In other instances, as in the Plate, its form is cylindrical; and this appeared to be an improved construction.[^45]
@@ -155,6 +184,8 @@ frequently built in the shape of a cone, or of a half-ellipsis, the point of whi
 According to Stephen Kay, a Methodist missionary who visited the large settlement of Kaditshwene in August 1821, this apartment was ‘the hidden shrine of the Bootchuana Penates, this sanctum in which the more important domestic vessels and property of the inmates are preserved; and during the winter months it is employed as a sleeping apartment by the family’.[^46]
 
 The anthropologist Jean Comaroff has suggested that the Setswana word for house, _ntlo_, establishes a metaphoric connection with the uterine interior of the female body, suggesting that the house was ‘the site of delicate transformative processes associated with procreation and nurture’.[^47] Kay’s description of the inner apartment as ‘the hidden shrine of the Bootchuana _penates’_ (a Latin term used to describe Roman household gods, including representations of important ancestors) suggests that this inner space was an important locus of ancestral power.
+
+{% figure "fig-c17-16" %}
 
 Houses of the type depicted by Moffat’s model, built largely built by women, provided family groups with their own enclosing body, with space at their centre for venerated ancestors, made present at least partly through the presence of ancestral possessions. In the Setswana Bible, Moffat ended up translating ‘God’ as _Modimo_, which the historian Paul Landau has suggested may have simply referred to an ultimate ‘ancestor’ in earlier times.[^48]
 
@@ -180,6 +211,12 @@ While clear about the intellectual capacities of individual Africans, as well as
 
 When Moffat first proposed establishing his mission at Seoding, Mothibi had objected that there not enough trees from which to build houses. While Moffat partly solved this problem by building the mission buildings from stone, and locating roof beams elsewhere, the mission’s location likely limited the scale of the houses which could be easily built by the Africans who made their homes there. The establishment of a permanent stone-built church at Kuruman coincided with a reduction in scale of the houses built by African Christian for themselves, and, over time the removal of sacred space from their centre.
 
+{% figure "fig-c17-17" %}
+
+{% figure "fig-c17-18" %}
+
+{% figure "fig-c17-19" %}
+
 Given that Moffat kept copies of _Missionary Sketches_ at his home, he likely followed reports of conversions in Polynesia, where the efforts of his ‘missionary brother’, John Williams, were generally crowned by the communal building of substantial new places of worship, as at Rarotonga (Chapter 12). Indeed, the 1826 catalogue of the Missionary Museum described the display of the  ‘Household Idols of Pomare’ in front of:
 
 _A large model Church, 712 feet long, built for Pomare, for the worship of Jehovah._[^51]
@@ -197,6 +234,10 @@ The model house at the Missionary Museum in London, built by Moffat at Maruping,
 While credit was given to Moffat in the catalogue for building the model, and to Millen, Hume, Hamilton and Edwards in missionary publications for their contributions to building the chapel, its maintenance always depended on African labour. Missionary texts sometimes make a careful distinction between the chapel, as a building, and the Church, composed of a body of baptised worshipping members. In this case at least, the chapel appears to reflect the kind of Church Moffat was attempting to build at Kuruman – one overwhelming directed by Europeans.
 
 According to Burchell, the back-yard of the house of a Kgosi generally had ‘a small hut for their immediate _servant_ or attendant’.[^53] It is surely significant that the surviving missionary houses at the Kuruman mission also have such small huts in their back yards. In climbing from his lowly origins as a cabin boy and apprentice gardener to a status equivalent to a Tswana Kgosi, Moffat evidently expected to find willing servants among African Christians.
+
+{% figure "fig-c17-20" %}
+
+{% figure "fig-c17-21" %}
 
 In producing a coloured image to appear opposite the title page of Moffat’s book, George Baxter used another painting made by Charles Davidson Bell of the Kuruman Mission. This shows the chapel at its centre, bathed in light, flanked on its left by Moffat’s house. There are a number of Africans in the background of the image, one pushing a wheelbarrow, another carrying a rake. Two women on the right of the image appear to be carrying firewood on their heads, presumably gathered in the surrounding area to supply the mission.
 
@@ -217,48 +258,6 @@ Mokotedi was expelled from the Church on his return to Africa, although he evide
 > And they have asket many times this quistion. They say. How is it that the Missionary has been so long a time in this country upworts to more than 50 yeas, and yet we have no Minesters no School Masters, made out of our own country men? We do not onderstant this; that we must be taught only by the white men, and we the blacks will never be able to do it ourselfs. The white men is making a _fools_ of us. They are teaching us only for to oby them and for there on conviniances. If so be that we shall awes be tought and never be able to learn, never come to be like the Englishmen it is then of no use to learn at all.[^56]
 
 The original missionary dream of universal Christian brotherhood was increasingly undermined by such questions of race. What Catherine Hall has called ‘Fault-lines in the Family of Man’ would only become more active and dangerous as white settlers increasingly followed missionaries into the interior of the African continent.[^57]
-
-{% figure "fig-c17-1" %}
-
-{% figure "fig-c17-2" %}
-
-{% figure "fig-c17-3" %}
-
-{% figure "fig-c17-4" %}
-
-{% figure "fig-c17-5" %}
-
-{% figure "fig-c17-6" %}
-
-{% figure "fig-c17-7" %}
-
-{% figure "fig-c17-8" %}
-
-{% figure "fig-c17-9" %}
-
-{% figure "fig-c17-10" %}
-
-{% figure "fig-c17-11" %}
-
-{% figure "fig-c17-12" %}
-
-{% figure "fig-c17-13" %}
-
-{% figure "fig-c17-14" %}
-
-{% figure "fig-c17-15" %}
-
-{% figure "fig-c17-16" %}
-
-{% figure "fig-c17-17" %}
-
-{% figure "fig-c17-18" %}
-
-{% figure "fig-c17-19" %}
-
-{% figure "fig-c17-20" %}
-
-{% figure "fig-c17-21" %}
 
 {% backmatter %}
 
@@ -390,3 +389,4 @@ Volz, S.C. 2011. _African Teachers on the Colonial Frontier._ New York: Peter La
 
 
 {% endbackmatter %}
+

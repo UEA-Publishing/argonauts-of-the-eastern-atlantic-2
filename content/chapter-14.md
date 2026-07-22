@@ -26,6 +26,8 @@ Mead clearly detected the hand of God in the changes he had seen over two decade
 
 It warns them not to consume sacrifices made at idolatrous altars, since these had been made to demons. Pointing out that consumption of the eucharist underlies the fellowship of Christians, Paul told the Corinthians ‘I would not that ye should have fellowship with demons’.[^5]
 
+{% figure "fig-c14-1" %}
+
 Charles Mead had originally been appointed to succeed William Tobias Ringeltaube, a Prussian minister trained at the University of Halle who established the London Missionary Society’s mission in South India. Born in 1770, Ringeltaube’s missionary ambitions were inspired by John Newton (Chapter 2 & 12), going first to Calcutta in 1796 with the Society for Promoting Christian Knowledge.[^6] He returned to Europe in 1799, complaining that he had been forced to preach in Portuguese to ‘a mixed congregation of Portuguese, Malays, Jews and Chinese’.[^7]
 
 Ringeltaube was appointed by the London Missionary Society in 1803, along with four others intended for India and Ceylon (Sri Lanka). They arrived at the Danish colony of Tranquebar (Tharangambadi) in December 1804, where Pietist missionaries had been operating since 1706. Seeking guidance from another German-speaking SPCK missionary, John Caspar Kohlhoff, Ringeltaube began learning Tamil before taking responsibility for Palamcottah (Palayamkottai) in Tinnevelly (Tirunelveli), on behalf of Kohlhoff.[^8]
@@ -42,15 +44,29 @@ This patronage formed part of the official embrace of missionary education by th
 
 In 1819, Mead was joined at Nagercoil by Charles and Martha Mault (née Mead, who evidently traced her descent from Britain’s seventeenth century Puritan leader, Oliver Cromwell).[^15] Charles Mead and Charles Mault divided responsibility for surrounding villages between them, but it was only after the visit of George Bennet and Daniel Tyerman in 1827 (more below) that Mead moved to Neyoor, in the mission’s Western division.
 
+{% figure "fig-c14-2" %}
+
+{% figure "fig-c14-3" %}
+
 ​An image of ‘Pattera-Kalee and Veerapathiran’ was printed on the cover of the _Missionary Magazine and Chronicle_ in September 1837, under the title ’Demon Worship in South Travancore’.[^16] Mead’s account of destruction, quoted above, was printed beneath this image, but its source is unclear since the figures are shown standing, while his description suggests those destroyed were reclining.
 
 The appearance of such images on the title page of the _Chronicle_ was a fairly recent innovation. Although the quarterly _Missionary Sketches_ had featured striking images on its covers since its first issue in April 1818 ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)), the monthly _Evangelical Magazine_ continued to feature just a single portrait each month, a practice established with the magazine in 1793 ([Chapter 2](https://argonauts2022.net/mary-john-and-martha/)). This had continued even after its title expanded to _The Evangelical Magazine and Missionary Chronicle_ when a distinct _Missionary Chronicle_ section was added at the end of the magazine in June 1813.
 
 In June 1836, however, an editorial addressed ‘To the Members and Friends of the London Missionary Society’ appeared under a banner, _The Missionary Magazine and Chronicle (relating chiefly to the Missions of the London Missionary Society)_. This stated that the _Missionary Magazine and Chronicle_ would now be made available independently, but still continue as the final section in _the Evangelical Magazine_. Some surviving copies of _the Missionary Magazine and Chronicle_ after this date have different page numbers to those included with _the Evangelical Magazine,_ as well as an issue number and date included as a header (compare the covers for 1836 to those from 1837 shown here), but otherwise appear to be identical.
 
+{% figure "fig-c14-4" %}
+
+{% figure "fig-c14-5" %}
+
+{% figure "fig-c14-6" %}
+
+{% figure "fig-c14-7" %}
+
 A significant change introduced in 1836, however, was the addition of a cover image for the _Missionary Magazine and Chronicle._ The first image, for July 1836, shows a rather dramatic scene at Kristnapore, a Missionary Station in Bengal, with the title ‘Peril from the Boa Constrictor’.[^17] Flooding caused by hurricanes seems to have displaced an 18 foot long snake into the mission compound, where it was rather dramatically killed and its skin sent to the Missionary Museum in London.
 
 The October 1836 cover featured a depiction of ‘Worship of the Serpent in India’, followed in March 1837 by an image of ‘Serpent Charmers’.[^18] It seems likely that this recurring serpentine theme may have been initiated by an issue of _Missionary Sketches_ back in April 1833, where the cover featured ‘Representations of the Serpent-God Worshipped in India’, with images of two carvings from the Missionary Museum.[^19]
+
+{% figure "fig-c14-8" %}
 
 That on the left, where ‘the hood of the serpent forms a kind of screen behind and canopy over the form of the idol’, was sent by John Hands, LMS missionary at Bellary (Ballari) between 1810 and 1841. The other,  ‘designated _Nagur Swamy_ \[Naga Swamy\], the serpent-god, is among the renounced idols that have recently arrived from Travancore’.
 
@@ -84,6 +100,12 @@ In describing the annual festival at nearby Mandaikadu in 1837, Mead emphasised 
 
 Missionary work, situated in this way, was understood as a contribution to a very long-term cosmic battle, in which conversions and the renunciation of ‘idols’ suggested the scales might be tipping.
 
+{% figure "fig-c14-9" %}
+
+{% figure "fig-c14-10" %}
+
+{% figure "fig-c14-11" %}
+
 Mead’s account of the destruction of the ‘idols’ at Kariavili, printed in the _Missionary Magazine and Chronicle in_ September 1837, was followed with news of a Memorial, presented to the Governor of Madras by over 200 local British residents, protesting at ‘Government Support of Idolatry in India’, referred to as ‘this dark blot on the Christian character of the British nation’.[^30]
 
 The next article described the ‘Conversion of Roman Catholics at Salem’, also in South India, followed by an extract from the journal of Indian evangelists at Chittoor, as well as a ’Translation of a Sermon Preached at Benares’ (Varanasi).[^31] The issue’s focus on India was rounded off with brief news of missions in South Africa and Berbice (now part of Guyana), as well as an anniversary Missionary meeting in Manchester that raised nearly £3,000. The magazine ended by listing a series of more modest financial ‘Missionary Contributions’, as well as letters received from overseas Missionaries.[^32]
@@ -101,6 +123,8 @@ Mead seems to have derived much of his understanding of the function of this ima
 According to Mead, when the figure of Pattera-kalee (Bhadrakali) was destroyed, the same former priest told the people:
 
 > You used to come to the pagoda with your offerings, and ask me to dance before the idols until the evil spirits came on me; then I would tell you what to do. It was all false and wicked; but we did this until the Missionaries and the native teachers came to enlighten us. Now by the blessing of God our eyes are opened. Some of us have long since abandoned the devil’s service. I am glad I am no longer his slave. Let us be stedfast, and endeavour to show others the true way to salvation.[^36]
+
+{% figure "fig-c14-12" %}
 
 While it may be tempting to regard the destruction and removal of religious artefacts as a straightforward imposition of colonialism, this probably fails to recognise the degree to which these events emerged from the actions of people like this former priest, as well as Vedamanickam, who began the process of conversion in South Travancore before European missionaries came to his village.
 
@@ -140,6 +164,8 @@ It seems that Christianity may have represented a new form of freedom for many c
 _“Ignorant and unwise,” the simple people stare with wonder at this strange sight, and are quite ready to believed that Paramasattee is indeed a great god._[^42]
 
 The testimony reported by Mead, however, seems clear that temple images were not regarded as gods in their own right, but rather as representations or and vessels for spirits, as in Polynesia ([Chapter 13](https://argonauts2022.net/13-all-wrapped-up-in-a-piece-of-tahitian-cloth/)). Nevertheless, there remained an understandable nervousness about being the one to wield a spade against them.
+
+{% figure "fig-c14-13" %}
 
 On his return London, Charles Mead presented Paramasattee as a battle trophy in the cosmic war against Satan. European missionaries working in India at around this time, however, seem to have been fully aware that the adoption of Christianity by large numbers of people in South Travancore emerged from a series of far more immediate and local conflicts.[^43]
 
@@ -189,6 +215,16 @@ As an artefact, this fragment, now at the National Maritime Museum at Greenwich 
 
 It finds a curious echo in a length of lace from the collection of the V&A Museum in South Kensington, where a printed green label states ‘London Missionary Society, Lace Industry, Nagercoil, S. India’ ([V&A T.195-1993](https://collections.vam.ac.uk/item/O315374/insertion-unknown/)). Below this, a hand-written price in Rupees suggests that it was purchased in India, perhaps with the intention of using it as a decorative edging. How many other examples of Nagercoil lace survive in museum collections, without such labels, incorporated into other garments?
 
+{% figure "fig-c14-14" %}
+
+{% figure "fig-c14-15" %}
+
+{% figure "fig-c14-16" %}
+
+{% figure "fig-c14-17" %}
+
+{% figure "fig-c14-18" %}
+
 Annette Weiner, who undertook doctoral fieldwork in the Trobriand Islands, six decades after Bronislaw Malinowski, found he had significantly underestimated the role played by women in the Kula exchange system, described in his famous 1922 book _Argonauts of the Western Pacific._ While men were concerned with enhancing their status through the exchange of shell valuables, women developed an elaborate technology for ‘making wealth out of dried banana leaves’, which Weiner came to regard as paralleled by female practices of textile production all over the world.[^65]
 
 Introducting her 1992 theoretical book, _Inalienable Possessions_, Weiner suggested that:
@@ -206,6 +242,10 @@ Alongside a description of mechanised lace-making in Nottingham, Derby and Leice
 
 Did the introduction of lace-making in South Travancore simply mark the expansion of similar forms of exploitation to an Indian context? A century later, Mahatma Gandhi deployed the production of Khadi cloth by hand as a symbol of dignity in labour as part of the _swadeshi_ movement. Is it implausible to suggest that lace-making as form of economic self-empowerment within the female-directed educational setting of ‘Mrs Mault’s school’ at Nagercoil, suggests something similar may have been at play in missionary contexts?
 
+{% figure "fig-c14-19" %}
+
+{% figure "fig-c14-20" %}
+
 At the end of her book _Inalienable Possessions_, Annette Weiner argued that:
 
 > Understanding the scope and limits of gender-based power in the ethnographic record demands giving serious attention to the essential domains in which women participate in economic and political actions in their own right with their own resources. Since the ethnographic examples from which traditional economic theories are formulated rely almost exclusively on examples of men’s production and men’s exchanges, the reproductive energies in such things as women’s bones, sacred cloth, hair strings, banana-leaf bundles, weaving poles, and birthing houses, are largely unrecognised or, when recorded, are reduced by anthropologists to prosaic categories lacking economic or political provenience.[^70]
@@ -220,6 +260,7 @@ Weiner suggested that to read such examples of complementarity as oppositions be
 
 If the early mass conversions at Nagercoil were to be followed by the establishment of a Christian society, able to reproduce itself through subsequent generations, schools seem to have provided the institutional form through which its members could be produced. Martha Mault and Charles Mead arguably represent complementary poles underpinning the establishment of this new dispensation in South Travancore, at least when they represented it to supporters elsewhere in the world.
 
+{% figure "fig-c14-21" %}
 
 Acknowledgements
 
@@ -233,47 +274,6 @@ It seems important to also acknowledge the influence of my students, in conversa
 
 I would also like to acknowledge Aayushi Gupta, with whom I had a number of extremely stimulating conversations about female Zenana missions in India while she was developing her PhD proposal. This chapter is intended to offer something of a prehistory for that movement.
 
-{% figure "fig-c14-1" %}
-
-{% figure "fig-c14-2" %}
-
-{% figure "fig-c14-3" %}
-
-{% figure "fig-c14-4" %}
-
-{% figure "fig-c14-5" %}
-
-{% figure "fig-c14-6" %}
-
-{% figure "fig-c14-7" %}
-
-{% figure "fig-c14-8" %}
-
-{% figure "fig-c14-9" %}
-
-{% figure "fig-c14-10" %}
-
-{% figure "fig-c14-11" %}
-
-{% figure "fig-c14-12" %}
-
-{% figure "fig-c14-13" %}
-
-{% figure "fig-c14-14" %}
-
-{% figure "fig-c14-15" %}
-
-{% figure "fig-c14-16" %}
-
-{% figure "fig-c14-17" %}
-
-{% figure "fig-c14-18" %}
-
-{% figure "fig-c14-19" %}
-
-{% figure "fig-c14-20" %}
-
-{% figure "fig-c14-21" %}
 
 {% backmatter %}
 
@@ -424,3 +424,6 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 [^72]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp. 153-4.
 
 {% endbackmatter %}
+
+
+

@@ -32,6 +32,8 @@ The negative, however, was accessioned as part of a series of ‘photographic ne
 
 _A complete set of photographs from the negatives taken by the late Mr W Ellis in Madagascar. Also to the President for a folio volume containing the same._[^5]
 
+{% figure "fig-c19-1" %}
+
 A handwritten index, pasted at the front of the volume, describes the first of the three photographs pasted on page 27, after a series of portraits of Kings, Prime Ministers and ‘Officers of the Palace’ as, quite simply, ‘No. 1. Rainitsontsoraka. Christian Martyr’.[^6] Showing only the sitter’s head and shoulders and wearing a plain white lamba, this is clearly not the full-length portrait Ellis described making in the morning on 25 September. Was Rainitsontsoraka photographed by Ellis on more than one occasion?
 
 Photography was still a new way of making images in 1856. Louis Daguerre developed the daguerreotype process in France during the 1830s, resulting in a unique image on a metal plate that could not be easily reproduced. In the early 1840s, William Henry Fox Talbot created the calotype process in Britain, resulting in waxed paper negatives, but prints made from these tended to be marked by the texture of the paper on which they were made. It was the wet collodion process, popularised in the early 1850s, that made high quality images considerably easier to reproduce.
@@ -43,6 +45,10 @@ Ellis seems to have learned to make photographs this way from Roger Fenton, empl
 Fenton’s own engagement with photography began when he visited the Great Exhibition in 1851, housed in a building made from 60,000 identical panes of plate glass known as the Crystal Palace. Photography brought together knowledge from chemistry and optics, but the wet collodium process, like the Crystal Palace itself, was possible due to fairly recent developments in the mechanical production of standardised plate glass.
 
 Although glass had long served to confine artefacts in museum display cases, where they could be used for illustrations in books and periodicals, wet collodion negatives achieved something significantly different. They captured an unchanging simulacrum on their actual surface, meaning nothing three-dimensional need exist behind it. In the twenty-first century, we live in a bewildering world saturated by similarly opaque flat screens. Can this artefact from the beginning of the age of glass help us to better understand our own times?
+
+{% figure "fig-c19-2" %}
+
+{% figure "fig-c19-3" %}
 
 William Ellis’ attention was drawn to Madagascar during the early 1830s. Following the success of his book, _Polynesian Researche_s, published in 1829 ([Chapter 7](https://argonauts2022.net/principal-kinds-of-native-cloth/)), he seems to have increasingly engaged in writing and editing alongside the tours he undertook promoting the London Missionary Society ([Chapter 13](https://argonauts2022.net/13-all-wrapped-up-in-a-piece-of-tahitian-cloth/)).
 
@@ -98,6 +104,18 @@ David Jones, the original missionary to Madagascar died at Mauritius in May 1841
 
 Missionary work at Madagascar effectively ceased, and though further persecutions followed in 1849, the Malagasy Christian Church persisted underground. A false report of the death of Queen Ranavalona reached London in early 1852, and rumours of other changes prompted William Ellis, approaching the age of sixty, to volunteer to visit the island for the first time.[^29]
 
+{% figure "fig-c19-4" %}
+
+{% figure "fig-c19-5" %}
+
+{% figure "fig-c19-6" %}
+
+{% figure "fig-c19-7" %}
+
+{% figure "fig-c19-8" %}
+
+{% figure "fig-c19-9" %}
+
 William Ellis left England on 14 April 1853 in the _Indiana_, a ‘fine iron screw steam-ship’, on which he found the engine room ‘a place of great attraction… where the wonderful adjustment of the vast machinery, and easy working of the whole, notwithstanding the motion of the sea, often excited intense admiration’. He learned from the Scottish engineer that under full force the ship used 30 tons of coal a day, its propeller making 3540 revolutions an hour, each propelling them 19 feet forwards.[^30]
 
 Another consequence of the steam engine was the 60 gallons of fresh water it condensed each day, a significant luxury compared to sea voyages Ellis had completed under sail three decades earlier. After refuelling at St. Vincent, the vessel reached Ascension on 6 May, where Ellis attempted to make some photographs. When he developed the negatives, however, he discovered they were significantly overexposed, even though he had massively reduced the exposure time he would have used in England.[^31]
@@ -111,6 +129,10 @@ A canoe approached with the harbour master, asking who they were in ‘imperfect
 > He asked if it was right to go to a country and shoot down the people because we did not like their laws? He soon informed us that he had been a member of the embassy sent to Europe in 1837; that he had visited France and England, and knew that whoever went to reside in either of these countries must be subject to the laws of the county so long as they remained there[^34].
 
 They sent letters to Cameron’s old friends in Antananarivo, as well as to the Queen, requesting to visit the capital. During the time they spent waiting at the coast for a reply, Ellis attempted to learn Malagasy, and was struck that many words appeared the same as those he knew form Eastern Polynesia. He also made a collection of plants, some of which he presented to the Crystal Palace on his return.[^35]
+
+{% figure "fig-c19-10" %}
+
+{% figure "fig-c19-11" %}
 
 Ellis and Cameron showed photographs to local officials who ‘expressed a strong desire to have their likenesses taken before we left’. Bringing ashore ‘the daguerreotype apparatus, as that process could be most readily employed’ they set this up in a house loaned by a French trader, presenting the resulting portraits to the sitters, who were ‘much delighted’.[^36]
 
@@ -170,6 +192,18 @@ Ellis evidently hoped his photographs would ‘prove acceptable to any who may b
 
 In speculating on the origins of these differences in physical appearance, Ellis concluded that ‘With regard to the Hovas, no doubt can be entertained that they are descended from the ancient race from which the Malayan Archipelago and Eastern Polynesia derive their inhabitants’. Interestingly, DNA research undertaken during the late twentieth century and early twenty-first century has tended to confirm these nineteenth century speculations.[^59]
 
+{% figure "fig-c19-12" %}
+
+{% figure "fig-c19-13" %}
+
+{% figure "fig-c19-14" %}
+
+{% figure "fig-c19-15" %}
+
+{% figure "fig-c19-16" %}
+
+{% figure "fig-c19-17" %}
+
 Although initially presented and evaluated in phrenological as well as racial terms, Ellis also provided a description of the character of the man whose disembodied head he discussed in his book, stating:
 
 > his disposition always appeared peculiarly gentle and benevolent. He usually wore the large white lamba, bordered with the _akotso_, or five broad stripes, the distinctive badge of the Hovas. The accompanying wood engraving is a faithful, but not particularly flattering, copy of the photograph of which I brought home a number of copies.[^60]
@@ -190,6 +224,8 @@ Although Ellis was able to consider the racial identities and origins of his Mal
 
 Indeed, he went on to suggest that ’sympathy so entire and uniform under all the diversities of external condition… can spring from only one source’, divine influence, arguing that in time ‘the estranged and separated members of the human family’ would ultimately be united ‘in one hallowed bond of brotherhood and peace’.[^64]
 
+{% figure "fig-c19-18" %}
+
 Although asked for a portrait by the Governor of Foule Point, this proved impossible due to heavy rain. Returning to Tamatave, Ellis left Madagascar on 14 September 1854. According to his own account, his cabin was so filled with boxes, baskets and bales of orchids that there was only enough room left for him to climb directly into the berth. On 20 December, he left Mauritius for the Cape, where he spent five months visiting LMS missions on behalf of the Directors.[^65]
 
 Stopping at Salt Pans Drift in the Great Karoo in March 1855, on his way to Cradock (Nxuba), Ellis stayed with the Trollip family, descendants of English settlers to South Africa who arrived in 1820. In their house he found a ‘well-filled bookcase’ including _The Women of England_, ‘alongside several other equally familiar volumes by the same writer, which I had little expected to meet with in this remote part of Africa’. The writer, Sarah Stickney, was in fact William Ellis’s wife, the two having married in 1837 following the death of Ellis’ first wife, Mary Mercy Moor, in 1835.[^66]
@@ -201,6 +237,8 @@ Stickney herself supported the Ellis family by establishing a girl’s school in
 The exemplary Mrs Ellis remained at home, upholding her own domestic duties during the two years her husband was in Madagascar and South Africa. He seems to have taken photographs of his home and family with him, but encountering books written and published while his wife adjusted to her new marital state undoubtedly reminded him of the home and family he had left behind.
 
 On his return to Cape Town, William Ellis met Kgosi Sechele I, leader of the Bakwena (people of the crocodile) in what is now Botswana. Sechele is remembered today as the only African to be converted by the young David Livingstone, at the time travelling through Central Africa. Ellis also received a letter from Madagascar, inviting him and Cameron to visit the capital. Having been away from home for over two years, he first returned to London in mid-June in the _Pacific_, a steam ship on its way to Britain from Australia, arriving in England on 18 July 1855.[^69]
+
+{% figure "fig-c19-19" %}
 
 When a second letter arrived from Madagascar later that year, Ellis decided to return to the island, leaving Southhampton on 20 March 1856, just as the southern hemisphere summer cooled. Rather than travelling via the Cape, however, he steamed through the Mediterranean to Alexandria, travelling overland to Suez three years before work began on the canal. There he boarded another steamer that would take him to Ceylon \[Sri Lanka\].[^70]
 
@@ -238,6 +276,10 @@ He soon found, however, that he had no acetic acid to make a developing solution
 
 > My perplexity was great; and I am sure all photographers who have been in similar circumstances of destitution, in a country where there were no chemist’s shops, and no fellow-photographers of whom to borrow, will be able fully to sympathise with me.[^83]
 
+{% figure "fig-c19-20" %}
+
+{% figure "fig-c19-21" %}
+
 As the Prince became increasingly impatient for his photograph, Ells attempted to experiment with alternatives to the missing acetic acid. Summoned to present his gifts to the Queen, he took engravings of Queen Victoria and Prince Albert, as well as a colour print of Windsor Castle. Returning to his dark room to continue his experiments, he was called away to a dance, at which he regretted not having a camera to record the opulent costumes.[^84]
 
 As the lowland fever season approached, Ellis asked the Queen whether he could stay at the capital all summer, extending his visit for a further nine months. He was told she expected him to leave in just over a week. Finally, on Saturday 20 September, Ellis managed to develop a good negative by adding ‘one third part of the vinegar to the ordinary pyrogallic mixture’ (chemically vinegar is acetic acid).[^85]
@@ -256,6 +298,8 @@ Ellis suggests it was the following day that he attempted to make the full-lengt
 
 On 26 September 1856, Ellis left Antananarivo for the coast.[^89]
 
+{% figure "fig-c19-22" %}
+
 In the early morning on 25 September 1856, when he photographed his friend, William Ellis seems to have been pursuing an alternative agenda. Rather than simply photographing high-status royals, keen to use photography to immortalise themselves in all their imported finery, he wanted to make portraits of key members of the underground Christian Church. They largely remained nameless in the text he published in 1859, presumably at least partly to protect thei identities.
 
 Nevertheless, in concluding _Three Visits to Madagascar_, Ellis connected the plight of Malagasy Christians to the persecution of Christians in earlier ages, suggesting that the authorities in Madagascar:
@@ -264,9 +308,17 @@ Nevertheless, in concluding _Three Visits to Madagascar_, Ellis connected the pl
 
 News of the death of Queen Ranavalona, the ascension to the throne of Prince Rakoto as Radama II, and the end of the persecution of the Christians reached Britain in autumn 1861. Ellis made his way back to Madagascar in November 1861, arriving on 22 May 1862.[^91] During her husband’s third long-term absence, Sarah Stickney published her own work on the island, _Madagascar: Its Social and Religious Progress,_ early in 1863.[^92] William Ellis would not return home until October 1865.[^93]
 
+{% figure "fig-c19-23" %}
+
+{% figure "fig-c19-24" %}
+
 In _Madagascar Revisited_, published in 1867, William Ellis publicly named Rainitsontsoraka for the first time. A full page portrait was printed in the book, with the caption ‘Rainitsontsoraka. Christian Martyr’. The engraving appears to have been based on a photograph now at the Royal Ontario Museum in Toronto, which has the same description written on the back.[^94]
 
 Also at the ROM in Toronto, a full-length photograph of a man wearing a dark striped lamba appears to match the photograph Ellis described making early in the morning on 25 September 1856. A version of this had featured in _Three Visits to Madagascar,_ where it formed part of a composite image where it was labelled ‘Hova Officer in Silk Lamba’.[^95]
+
+{% figure "fig-c19-25" %}
+
+{% figure "fig-c19-26" %}
 
 When the same printing plate was re-used in _The Martyr Church_, published in 1870, Ellis noted that the two officers shown on the right of the image had been persecuted as Christians. They had sought refuge at Tamatave and Mahavelona (Foule Point), where it seems Ellis met many members of the Christian community during his initial visits in 1853 and 1854.[^96]
 
@@ -294,6 +346,10 @@ Converting the surviving negative at Wisbech into a positive image, this looks t
 
 In some ways, we can regard these photographs from Madagascar as an extension of the many portraits of faithful Christian individuals which had appeared at the front of the _Evangelical Magazine_ for over half a century. As photographs, however, they encourage us to look deeper into the faces of their subjects, chemically preserved for posterity, treating these images as proxies for their identities as individuals, even after death – possibly even as indexes of their very souls.
 
+{% figure "fig-c19-27" %}
+
+{% figure "fig-c19-28" %}
+
 Acknowledgements
 
 I am very grateful to Robert Bell for providing me with access to the Ellis material at the Wisbech and Fenland Museum. I am also extremely grateful to Sarah Fee at the Royal Ontario Museum for giving me access to a listing of the Ellis photographs in Toronto, for sending me her papers on dress in Madagacar, as well as for agreeing to read this text, spotting a number of typos in the process.
@@ -301,63 +357,6 @@ I am very grateful to Robert Bell for providing me with access to the Ellis mate
 I have learned a lot about Madgascar from working with John Mack, and am extremely grateful that he agreed to give up time at a tricky time to read and comment on the chapter, as well as for putting me in touch with Simon Peers, whose work on the photographs was extremely valuable as I tried to make sense of them.
 
 I learned an awful lot from Elizabeth Edwards about photographs and photography as a student, as well as from Amelia King, whose thesis was on Baptist missionary photography in Congo, which Elizabeth kingly agreed to examine. It was Amelia who made it clear just how important photographs of distant family members were in missionary homes, inspiring my engagement with the photograph featuring Sarah Stickney in this chapter.
-
-
-{% figure "fig-c19-1" %}
-
-{% figure "fig-c19-2" %}
-
-{% figure "fig-c19-3" %}
-
-{% figure "fig-c19-4" %}
-
-{% figure "fig-c19-5" %}
-
-{% figure "fig-c19-6" %}
-
-{% figure "fig-c19-7" %}
-
-{% figure "fig-c19-8" %}
-
-{% figure "fig-c19-9" %}
-
-{% figure "fig-c19-10" %}
-
-{% figure "fig-c19-11" %}
-
-{% figure "fig-c19-12" %}
-
-{% figure "fig-c19-13" %}
-
-{% figure "fig-c19-14" %}
-
-{% figure "fig-c19-15" %}
-
-{% figure "fig-c19-16" %}
-
-{% figure "fig-c19-17" %}
-
-{% figure "fig-c19-18" %}
-
-{% figure "fig-c19-19" %}
-
-{% figure "fig-c19-20" %}
-
-{% figure "fig-c19-21" %}
-
-{% figure "fig-c19-22" %}
-
-{% figure "fig-c19-23" %}
-
-{% figure "fig-c19-24" %}
-
-{% figure "fig-c19-25" %}
-
-{% figure "fig-c19-26" %}
-
-{% figure "fig-c19-27" %}
-
-{% figure "fig-c19-28" %}
 
 {% backmatter %}
 
@@ -570,3 +569,4 @@ I learned an awful lot from Elizabeth Edwards about photographs and photography 
 
 
 {% endbackmatter %}
+

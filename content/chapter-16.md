@@ -13,6 +13,7 @@ abstract: |
 page_pdf_output: true
 ---
 
+{% figure "fig-c16-1" %}
 
 As the paddle steamer _Atalanta_ towed the 74 gun flagship of an invading fleet, _HMS Wellesley,_ into the harbour, she struck a sand bank. Those on deck thought the smaller steamer would be smashed ‘to a thousand shivers’ but the _Wellesley_ also caught the bottom, only grazing the steamer’s side and knocking off her starboard paddle-box.[^1]
 
@@ -38,6 +39,8 @@ A number of those who studied Chinese in London with Morrison subsequently volun
 
 Someone else who met Morrison in London was Karl Gützlaff, at the time preparing for missionary service with the Rotterdam based _Nederlandsch Zendeling Genootschap_ \[Netherlands Missionary Society\]. Born in the Prussian Province of Pomerania, Gützlaff received his initial missionary education at Johannes Jänicke’s Mission Institute in Berlin, under the patronage of the Prussian King.[^8]
 
+{% figure "fig-c16-2" %}
+
 Gützlaff sailed for Jakarta in September 1826, where he spent four months learning Chinese with Walter Medhurst, sent by the LMS as a missionary printer a decade earlier. Gützlaff then went to the Dutch controlled island of Bintan, near Singapore, to work with its Chinese population. [^9]
 
 By August 1827, however, he felt called to the mainland, with its significantly larger population. In June 1828, Gützlaff was preparing to visit Siam (Thailand) and Cochin China (Vietnam), with the LMS missionaries Walter Medhurst and Jacob Tomlin, another of Morrison’s students in London. They planned to distribute bibles and medicine, but when Medhurst was late to arrive, Gützlaff and Tomlin went ahead without him.[^10]
@@ -45,6 +48,8 @@ By August 1827, however, he felt called to the mainland, with its significantly 
 In 1829, Gützlaff went to assist the Anglo-Chinese College at Malacca, marrying Maria Newell, who returned to Bangkok with him. Despite numerous bouts of ill health, Gützlaff made plans to travel to China. In February 1831, however, Maria died in childbirth, along with one of their twins.
 
 Severing his links with the Dutch Missionary Society, a despondent Gützlaff made arrangements for the care of his surviving daughter, who died soon afterwards, and sought passage on a Chinese trading ship.[^11]
+
+{% figure "fig-c16-3" %}
 
 In December 1831, Gützlaff arrived at Macao, having travelled the length of China’s coast with a group of Chinese sailors he later described as ‘from the most debased class of people’:
 
@@ -64,6 +69,10 @@ While British manufactures only traded for comparatively low prices, opium was e
 
 By October 1832, Gützlaff had been hired as an interpreter and guide for the _Sylph_, an armed clipper that was built in India for the Parsi merchant Rustomji Cowasji Banaji. The _Sylph_ had recently arrived from Calcutta with a cargo of opium and was chartered by the traders William Jardine and James Matheson to seek out new trading locations along the Chinese coast.[^19]
 
+{% figure "fig-c16-4" %}
+
+{% figure "fig-c16-5" %}
+
 Gützlaff’s account of this third voyage, published in London in 1834 as the final part of his _Journal of Three Voyages Along the Coast of China_, notes that he joined the _Sylph_ only ‘After much consultation with others, and a conflict in my own mind’.[^20] His account of the voyage, in an uncharacteristically diplomatic manner, makes no mention of the opium that was sold from the vessel, which as translator he presumably negotiated prices for.
 
 Gützlaff does state, however, that he took and distributed three times the number of religious books on this trip as he had on his earlier voyages, providing ‘an opportunity of scattering the light of divine truth’.[^21] The _Sylph_ returned to Lintin Island (Nei Lingding Island), the centre for opium trading near Macau, on 19 April 1833.[^22]
@@ -77,6 +86,8 @@ Attempts to reduce the unidirectional transfer of European silver to China had r
 The establishment of Indian tea plantations offered a way for the Company to short-circuit the Chinese trade. George J. Gordon was sent by the East India Company’s Tea Committee to China from India in June 1834, where he engaged Jardine Matheson & Co. to assist him.[^26]  He secretly travelled into the hills of Fujian with Gützlaff as translator, seeking tea seeds, plants and cultivators to send to India. Most of the seedlings ultimately died, and tea production in Assam proceeded using local plants but neverthrless drew on the technical knowledge of Chinese workers.[^27]
 
 Following the end of East India Company’s monopoly in China, Robert Morrison’s services as translator were transferred to Lord Napier, the newly appointed Chief Superintendent of Trade for the British Government. Arriving at Canton in late July 1834 without an official permit, Napier attempted to establish direct diplomatic relations with Chinese officials, in which Britain, having established global naval dominance alongside a substantial Asian empire, sought to be treated as an equal.
+
+{% figure "fig-c16-6" %}
 
 Napier had Robert Morrison direct a letter directly to Lu Kun, Governor-General of Liangguang, rather than going through the Canton Hong merchants as the East India Company had customarily done.[^28] Lu Kun refused to accept private letters from an ‘outside barbarian’, creating a diplomatic impasse. Robert Morrison died on 1 August 1834, within a week of Napier’s arrival, and was replaced as official translator by his 20 year old son, John Robert Morrison.
 
@@ -95,6 +106,8 @@ Meanwhile, the illegal opium trade continued expanding rapidly and in May 1835 G
 At the end of August 1835, Walter Medhurst and Edwin Stevens, an American Congregationalist chaplain to the sailors at Whampoa, embarked on their own missionary voyage along the Chinese coast, chartering the _Huron_ from David Olyphant. Olyphant was an American trader who refused to deal in opium and was a member of the American Board of Commissioners for Foreign Missions. Indeed, Olyphant had named his own son Robert Morrison Olyphant in tribute to his friendship with the LMS missionary he first met at Canton in 1820.[^33]
 
 Writing to the LMS directors on 1 November 1835, Medhurst rather pointedly described his voyage as ‘the first instance of a decidedly Missionary ship going up the coast’ to distribute scriptures and tracts. While they had been able to land and walk about, Medhurst thought it would prove ‘entirely out of the question for a Missionary to attempt taking up his residence in any part of China, except Canton, or to penetrate far into the interior by roads or rivers’.[^34]
+
+{% figure "fig-c16-7" %}
 
 In August 1836, Walter Medhurst returned to London, after eighteen years serving with the Ultra Ganges Mission. Medhurst made a number of appeals in the evangelical press. Inspired by the contemporary success of John Williams’ _Missionary Enterprises_ (Chapter 15), he also wrote a book of his own.
 
@@ -120,6 +133,10 @@ In September 1838, most likely with the assistance of the London agents for Jard
 
 Gützlaff seems to have regarded missionary and trading interests as essentially aligned in their efforts to ‘open’ China, whereas Medhurst was rather more cautious about entangling evangelical efforts with those of opium dealers. This difference between the two men seems to have marked an emerging division with Britain’s evangelical communities.
 
+{% figure "fig-c16-8" %}
+
+{% figure "fig-c16-9" %}
+
 The embrace of Christianity by the early Victorian British state enabled empire and evangelicalism to become increasingly entangled and elided. Some argued that an expanding empire of free trade opened a door for the entry of Christianity, while others preferred the missionary movement to maintain its independent moral high ground.
 
 The situation in China began to shift decisively in early 1839, when Lin Zexu, recently appointed Imperial Commissioner, made his way from Beijing to Canton. William Jardine, regarded as leader of the opium traders, hearing that he was in the new Commissioner’s sights, left Canton for Macao, before departing for London.[^45]
@@ -129,6 +146,8 @@ Commissioner Lin made it clear to the Chinese population of Canton that he expec
 In March, Lin ordered that all stocks of opium in the Canton warehouses be surrendered. When Dent and Company, Jardine Matheson’s principal rival, failed to hand over all their chests, Lin summoned Launcelot Dent.
 
 As the situation escalated, Lin blockaded the factories at Canton, and on 27 March 1839. Charles Elliott, British Plenipotentiary at the time, instructed British merchants to surrender their stocks, telling them that they would be compensated. Over 20,000 chests of opium were handed over and publicly destroyed by Lin Zexu.
+
+{% figure "fig-c16-10" %}
 
 News of these events began arriving in London during late summer, and on 27 September 1839, Jardine met with Palmerston, Britain’s Foreign Secretary, demanding a forceful response. Jardine provided detailed maps, a plan for the invasion (including the invasion of Chusan), as well as his desired outcome – the opening of additional Chinese ports to British trade. Three days later, the cabinet agreed to embark on Britain’s first war with China.[^47]
 
@@ -158,6 +177,12 @@ It went on:
 
 This passage was to be reprinted many times, particularly by those who argued that the ‘opium war’, with its use of what came to be known as ‘gunboat diplomacy’, had placed a moral stain on the British nation.⁠[^54]
 
+{% figure "fig-c16-11" %}
+
+{% figure "fig-c16-12" %}
+
+{% figure "fig-c16-13" %}
+
 Many evangelicals continued to campaign against the opium trade, with the Missionary Museum displaying opium pipes, as well a series of:
 
 > Six etchings by a Chinese artist named Sunqua, exhibiting the 'Progress of the Opium Smoker' from health and prosperity, to misery and degradation, and forming together a counterpart to Hogarth’s famous set of the ‘Rake’s Progress’. Presented by Rev. Micaiah Hill of Berhampore.[^55]
@@ -178,9 +203,15 @@ I haven’t been able to establish any conclusive evidence to show how this item
 
 In addition, the LMS was quick to take advantage of the British capture of Zhoushan. William Lockhart worked briefly at the missionary hospital in Macao following his arrival in early 1839, but left for Batavia that August because of the developing conflict. At the end of August 1840, Lockhart, together with a number of other new missionary recruits, wrote to the Directors from Macao, expressing a hope that the ‘home government’ might suppress the opium trade, and suggesting a new Mission should be established in the Chusan Archipelago, by then under British control.[^58]
 
+{% figure "fig-c16-14" %}
+
+{% figure "fig-c16-15" %}
+
 The following month Lockhart sailed to Chusan to establish a missionary hospital, where, by 14 December he had treated 1600 people, many of them sickly soldiers.[^59] Gützlaff’s second wife sailed for Dinghai in October, to join her husband, who had been appointed Chief Magistrate. At the end of February 1841, Lockhart left Zhoushan after the British returned the island to Chinese hands, in exchange for the cession of Hong Kong and an indemnity of $6 million.[^60]
 
 The agreement, however, was rejected by both the Chinese Emperor and the British Government, so Chusan was invaded once again on 1 October 1841. The British conflict with China ultimately concluded at Nanjing in August 1842. There, once again, Gützlaff and Morrison played important parts in translating the treaty. This opened five Chinese ports to British trade (Canton or Guangzhou, Amoy or Xiamen, Fuchow or Fuzhou, Ningbo and Shanghai) and committed the Chinese government to an increased indemnity of $21 million.[^61]
+
+{% figure "fig-c16-16" %}
 
 In an image commemorating the signing of the treaty aboard the HMS _Cornwallis,_ Gützlaff is once again shown near the centre, standing behind the table where the Chinese delegates are seated. His position is mirrored by John Robert Morrison although the translator sitting at the table was not a missionary, but Robert Thom, Jardine Matheson & Co.’s translator.
 
@@ -199,38 +230,6 @@ In late 1843, with news of the conflict in China still fresh in Europe, a 25 yea
 Marx argued that religion should be abolished so that the illusory happiness of the people could be converted into a demand for real happiness, resulting from the abolition of conditions of life that need such illusions.
 
 While much of the rest of his essay concerned itself with the political condition of contemporary Germany, it is striking to reflect on the ways in which the historical conjunction between opium and Christianity in China may have contributed to the formation of a phrase that came to define Marxian attitudes to religion, with significant historical consequences, not least in China itself.[^67]
-
-{% figure "fig-c16-1" %}
-
-{% figure "fig-c16-2" %}
-
-{% figure "fig-c16-3" %}
-
-{% figure "fig-c16-4" %}
-
-{% figure "fig-c16-5" %}
-
-{% figure "fig-c16-6" %}
-
-{% figure "fig-c16-7" %}
-
-{% figure "fig-c16-8" %}
-
-{% figure "fig-c16-9" %}
-
-{% figure "fig-c16-10" %}
-
-{% figure "fig-c16-11" %}
-
-{% figure "fig-c16-12" %}
-
-{% figure "fig-c16-13" %}
-
-{% figure "fig-c16-14" %}
-
-{% figure "fig-c16-15" %}
-
-{% figure "fig-c16-16" %}
 
 {% figure "fig-c16-17" %}
 
@@ -373,3 +372,4 @@ While much of the rest of his essay concerned itself with the political conditio
 
 
 {% endbackmatter %}
+

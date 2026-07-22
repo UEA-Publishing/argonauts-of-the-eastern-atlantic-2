@@ -25,6 +25,8 @@ John Williams was the man of the moment and his departure seemed to mark an open
 
 > To the eye of hope, the future was as bright as the present; not a cloud darkened the horizon, and all seemed to anticipate the day when they would hear of fresh triumphs which he would be honoured to win for the truth and grace of the Lord Jesus.[^2]
 
+{% figure "fig-c15-1" %}
+
 George Baxter, who had illustrated Williams’ book, was waiting to document the moment the _Camden_ set sail. Three years earlier he had patented a new technique for printing colour images, used for the frontispiece in Williams’ book, which showed ‘Te Po, a Chief of Rarotonga’ ([Chapter 12](https://argonauts2022.net/12-a-gigantic-idol/)), at least in the early editions. When John Snow, the publisher, found he could sell the portrait of John Williams that replaced this in later editions independently, he encouraged Baxter to try something new.[^3]
 
 As the paddle steamer approached the _Camden_, anchored at Gravesend in Kent, the passengers gathered on deck to sing hymns, written for the occasion. They lowered their eyes for prayers, offered by the Rev. T. Jackson, the only surviving Director of the Society who had witnessed the departure of the _Duff_, just over four decades earlier ([Chapter 1](https://argonauts2022.net/the-cession-of-matavai/)).[^4]
@@ -36,6 +38,8 @@ That on the fore-mast carried the Society’s emblem: a dove with a green sprig 
 Atop the main-mast, the highest point of the ship, the words on the flag are harder to make out, partly because they are reversed in the colour image and partly because they are not English words. The ‘Ladies of Rev. W. Woodhouse’s congregation, Swansea’ had made a flag for the Camden with the Welsh inscription _Cenad Hedd_, meaning ‘Messenger of Peace’.[^6]
 
 Baxter worked quickly, turning his sketch into an engraving for the cover of the following month’s _Missionary Magazine_. It was also used on the title page of _The Missionary’s Farewell; Valedictory Services of the Rev. John Williams, previous to his Departure for the South Seas,_ bringing together the speeches and hymns, with an account of the events of the day.
+
+{% figure "fig-c15-2" %}
 
 There the image of the _Camden_ was printed above a caption ‘_And they accompanied him unto the ship_’, a quotation from the Acts of the Apostles (20:38), in which Paul addressed the Ephesians at Miletus, since they ‘would see his face no more’. Reviewers of Williams’ book had similarly connected it to the New Testament, declaring it to be a ‘a history of Gospel propagation, unequalled by any similar narrative since the Acts of the Apostles’.[^7]
 
@@ -52,6 +56,8 @@ _A SPLENDID COLOURED PRINT,_
 _Representing the Departure of the CAMDEN Missionary Ship, with the Rev. J. WILLIAMS and Missionaries for the South Seas, from the River Thames; sketched on the spot, and printed in Oil Colours by G. BAXTER, Patentee. Size of Print, including tinted board, 10 inches by 14 inches._[^11]
 
 The board on which the print was mounted included many of the same details, as well as a title in bold letters, **The Departure of the Camden, Missionary Ship,** the title of this chapter.
+
+{% figure "fig-c15-3" %}
 
 In creating the colour image, Baxter added the _City of Canterbury_ to the right of the _Camden_, its smoke blowing with the wind.[^12] Comparing the colour image to its black and white precursors suggests that Baxter also added the boats in the foreground, filled with supporters waving hats and handkerchiefs. The way the departing ship is framed by these appears to suggest the _Camden’s_ sails were filled with their cheers, and no doubt prayers, of supporters across the British Isles.
 
@@ -113,6 +119,18 @@ On the way back to Rarotonga, having rescued the wife of Puna, the evangelist to
 
 After several months at Rarotonga in early 1833, where Williams continued working on translating the New Testament alongside other missionaries, he returned to Tahiti in July 1833. Meeting a weaver, sent from London by the Directors, Williams delivered him to Rarotonga before returning to Ra’iatea. When a British whaling ship, _Sir Andrew Hammond,_ arrived at the island, ready to make a return journey, Williams, his wife and three children took berths on board, sailing via Cape Horn.
 
+{% figure "fig-c15-4" %}
+
+{% figure "fig-c15-5" %}
+
+{% figure "fig-c15-6" %}
+
+{% figure "fig-c15-7" %}
+
+{% figure "fig-c15-8" %}
+
+{% figure "fig-c15-9" %}
+
 Arriving in Britain on 11 June 1834, nearly 18 years after they had left at the age of 20, John and Mary Williams discovered a metropolis transforming almost as fast as the Pacific islands they had left. One significant change, after nearly four decades of London Missionary Society operations, was the increased number of people in Britain with experience of overseas postings.
 
 William Ellis had been Foreign Secretary since 1832 (Chapter 13), Martha Mault had been promoting female education since the previous September (Chapter 14), while other former missionaries, such as Henry Townley (Chapter 6), had returned from India to lead British churches.
@@ -125,6 +143,8 @@ With the abolition of slavery in British colonies approaching in August 1834, Kn
 
 Three days after John Williams’ arrival in June 1834, around £3000 was raised at an Anniversary meeting of the East Lancashire Auxiliary in Manchester, addressed by Knill.[^36] Williams was soon enlisted to help, addressing the meeting of the Birmingham Auxiliary in September 1834.
 
+{% figure "fig-c15-10" %}
+
 Speaking at Carr’s Lane Chapel, where ‘Pomare’s Idol Gods’ had been exhibited in 1820, shortly after the construction of the chapel, Williams thanked the congregation for the many gifts of ironmongery they had sent him in the Pacific. It was here that John Angell James, prominent Birmingham minister and, like Williams, a former student at Gosport Academy, first asked him to describe the construction of the _Messenger of Peace_.[^37]
 
 Williams’ descriptions of the Pacific emphasised its spiritual darkness, dwelling on ‘idol-worship’, infanticide and human sacrifice, but blended this rhetorical _othering_ with what Jane Samson has called _brothering_ – a parallel emphasis on a potential for redemption.[^38] In discussing human sacrifice, Williams asked his audience to imagine their distress if their own husbands and fathers had been selected as a victim, declaring:
@@ -134,6 +154,8 @@ Williams’ descriptions of the Pacific emphasised its spiritual darkness, dwell
 Alongside speaking at meetings, Williams engaged the Directors in London, persuading them to support the establishment of a theological college at Rarotonga but struggled to get them to take on the expense of a missionary ship. An account of the Tahitian missions, written for the Directors, was printed in the _Missionary Magazine_ in April 1835, where he was introduced in relation to a history of sending ‘idols’ home as indications of conversion:
 
 > By the enterprise and diligence of Mr. Williams in conjunction with his brethren, the gospel has been extended to the numerous islands situated to the west and south of Tahiti, where idolatry has been abolished, whence coffins-full of _dead gods_ have been shipped for England, and where flourishing churches now exist.[^40]
+
+{% figure "fig-c15-11" %}
 
 Williams acknowledged many challenges, two decades after the initial conversion of Tahiti, including the widespread use of ‘ardent spirits’, but suggested this was not unexpected since:
 
@@ -146,6 +168,8 @@ At the Annual Missionary Meeting in May 1835, Williams reported that the British
 Never lacking in ambition, Williams suggested that in addition to the missions started in Samoa, there remained ‘the Fiji Islands… the Hebrides… Solomon’s Archipelago… New Caledonia; New Guinea; New Ireland, &c., with their adjacent islands.’ He made a case for Protestant missionary societies to coordinate their efforts (partly to exclude Catholics), arguing that the rapid expansion of Christianity in the Pacific was ‘unrivalled in the history of Christian enterprise’, ‘excepting Apostolic times’.[^44]
 
 While the Society’s income for the year after his return reached £53,000, the highest ever, Williams urged supporters to make ‘utmost exertions to raise the funds of the Society from £60,000 to £100,000 during the coming year’. In addition to their usual evangelical middle class circles, he suggested an appeal could be made to the British royalty and nobility, giving them ‘an opportunity of enrolling their names among the friends of the Redeemer and benefactors of the human race’.[^45]
+
+{% figure "fig-c15-12" %}
 
 On 5 October 1835, a newly built Mission House was dedicated at Blomfield Street, attended by six new missionary recruits, soon to depart for Samoa.[^46] Part of the reason the new building was necessary was ‘the great increase in the business of the Society which has taken place, during the last few years’.[^47]
 
@@ -174,6 +198,15 @@ The Select Committee had been established by Thomas Fowell Buxton in March 1835,
 Philip, together with Tzatzoe, Stoffles and Read, addressed the Select Committee in June – an image of Tzatzoe giving evidence was commissioned from Henry Room, regularly employed as a painter by the Society (Chapter 31). John Willians also addressed the Committee in July, and a special missionary meeting was arranged at Exeter Hall for 10 August. An account of the event in the _Missionary Magazine_ described the Africans as ‘savage-born, but new-created men’:
 
 > There were men upon the platform, on whom, although differing from ourselves in colour, every eye was fixed with hallowed and intense delight — men, who came amongst us as harbingers of a brighter day for Africa — earnests of an abundant harvest yet to come, and representatives of thousands of their countrymen who have embraced the truths of Divine revelation.[^58]
+
+
+{% figure "fig-c15-13" %}
+
+{% figure "fig-c15-14" %}
+
+{% figure "fig-c15-15" %}
+
+{% figure "fig-c15-16" %}
 
 John Campbell, who had met Tzatzoe on his second journey to South Africa nearly two decades earlier, was keen to remind the meeting of their long connection. Speaking in Dutch, Tzatzoe contrasted long-term conflicts across South Africa with the peace that Christianity promised, deploying his own rhetoric of ‘othering’ and ‘brothering’ to make a distinction between the people in England and the settlers in South Africa:
 
@@ -209,6 +242,12 @@ This appears to have prompted the establishment of the Aborigines Protection Soc
 
 While the society was ‘anti-colonial’ in opposing the political influence of settlers and traders, it remained ‘imperialist’ in its imagination of a humanitarian and Christian empire, within which ‘others’ would be enabled to become ‘brothers’. Krishnan Kumar has suggested that _The Making of English National Identity,_ with its themes of liberty, prosperity and progress, was marked by a ‘Missionary Nationalism’, a key feature of which he suggests is ‘the attachment of a dominant or core ethnic group to a state entity that conceives itself as dedicated to some large cause or purpose’.[^72]
 
+{% figure "fig-c15-17" %}
+
+{% figure "fig-c15-18" %}
+
+{% figure "fig-c15-19" %}
+
 We can arguably see this articulated clearly by the alignment of missionary and imperial agendas at the Aborigines Select Committee. Conflicts from the edges of empire had played out in London through the Select Committee, resulting in an apparent victory, despite the necessary concessions made by Buxton in relation to the report.[^73]
 
 It soon became time for the missionaries to return to their stations and on 17 October 1837, the London Missionary Society held a Valedictory Service at Exeter Hall to mark the departures of Charles Mead for India, John Philip for South Africa and John Williams for the Pacific. With 35 new missionary recruits, the three veterans headed ‘the largest Missionary Company sent forth by the Society at any one period since the sailing of the ship _Duff_ in 1796’.[^74]
@@ -226,6 +265,10 @@ _when the Missionary cause will have such a hold on the public mind that the gre
 Williams suggested that in contrast to the warfare of preceding periods, Victoria’s reign might diffuse ‘all over the world the knowledge and blessings of that Christianity upon which our own nation’s superiority is based, and in which the present and future felicity of the human family is concentrated’ – a fairly clear statement of ‘Missionary Nationalism’, although one suspects the nation he had in mind was as much British as English, having been born in England to Welsh forbears himself.[^77]
 
 Williams was keen to counteract the ‘speculations of philosophers’ and phrenologists who ‘have been describing the colour, the capacities, the weight of the brain’ with the lived experience of missionaries ‘from among all tribes on the earth’, who could stand before the civilised world and say ‘God has made of one blood all nations of men that dwell upon the face of the earth.’[^78]
+
+{% figure "fig-c15-20" %}
+
+{% figure "fig-c15-21" %}
 
 Making the case for the special place of the Pacific mission, Williams suggested that there were ‘between 200,000 and 300,000 people wearing and using articles of British manufacture’, while missions had also made many of the harbours safe for British maritime shipping. He suggested that the conversion of Tahiti had been the most important turning point in the Society’s history, as well as the beginning of the current enthusiasm for missions, stating:
 
@@ -245,9 +288,15 @@ On 27 December an ‘Appeal for the Purchase of a Missionary Ship’ was circula
 
 In February, Williams discovered that Captain Robert Morgan, an unusually religious captain whom he knew from the Pacific, had just arrived in London, following a shipwreck on Australia’s north coast. Morgan was quickly recruited to take charge of the _Camden_, which following its refurbishment was opened to visitors at West India Docks for several days before being towed to Gravesend on 9 April, awaiting its departure.
 
+{% figure "fig-c15-22" %}
+
+{% figure "fig-c15-23" %}
+
 On the way down the English Channel, the _Camden_ passed the Isle of Wight, depicted in another colour image published by John Snow, and on 18 April left Dartmouth, where another valedictory service was held. The _Missionary Magazine_ provided updates on the Camden’s progress for readers, including its meeting  with an American whaler in the Atlantic on 2 June.[^84]
 
 The _Camden_ arrived at Cape Town on 1 July, remaining for just over two weeks, enabling Williams to visit the Society’s schools with John Philip.[^85] The next stop was Sydney on 8 September 1838, where the _Camden’s_ arrival prompted the establishment of an Auxiliary Society, as well as the production of another image, showing her leaving Sydney harbour on 25 October 1838.[^86]
+
+{% figure "fig-c15-24" %}
 
 In January 1840, a letter from Williams was published in the _Missionary Magazine_, written at Tahiti at the end of March 1839, in which he described the missionaries at Samoa looking meagre and emaciated, while those in the Cook Islands had not been visited in three years, underpinning the ongoing need for a missionary ship.[^87]
 
@@ -275,6 +324,10 @@ They were sold for one pound, five shillings each, and purchasers of the pair we
 
 Unlike _The Departure of the Camden, Missionary Ship,_ which had been published by John Snow, these prints were published by Baxter himself. While _The Departure of the Camden_ was dedicated to the London Missionary Society, Baxter promised a contribution from the profits of these new prints to the ‘fund now being raised for Mrs Williams’, having already given fifty guineas ‘as a kind of ‘first fruits’’, before the prints went on sale.[^97]
 
+{% figure "fig-c15-25" %}
+
+{% figure "fig-c15-26" %}
+
 By comparing Baxter’s published image of Williams’ death on Erromanga to an annotated watercolour sketch, as well as Webber’s 1785 image of the death of Captain Cook, the Australian art historian, Bernard Smith, suggested that Baxter deliberately made the Erromangans darker in complexion and the missionary ‘more heavenly’ in order to ‘suggest the saintliness of Williams and the spiritual depravity of his murderers’.[^98]
 
 Smith suggested that the ‘remarks’ inscribed on the sketch ‘clearly sought to make the illustration more amenable to evangelical taste’, however it is not clear that they all fulfil this purpose. It is possible that at least some recorded remarks made by someone who had actually witnessed the scene, such as J. Leary, whose eyewitness account was printed to accompany the images.
@@ -284,6 +337,14 @@ Two notes state that the men attacking Williams ‘should be in deeper water’,
 In making Baxter’s depiction of Williams’ death at Erromanga representative of missionary presentations of the ‘ignoble savage’, ‘a squat, swarthy, highly emotional type of being completely lacking in any personal dignity’, Smith ignored the image that was originally published along with it, that of Williams at Tanna.[^99]
 
 In this, a barefoot Polynesian teacher in trousers and a shirt stands on a plank linking the dry land to the missionary boat, gesturing towards Williams while looking at a local chief. Williams is shown standing at the front of the boat ‘with his hat in hand, waiting for permission to land’.[^100] When the two prints are placed alongside each other, although the scenes on the beaches are very different, the outline of the coast and the mountains in the background suggests a considerable degree of lateral symmetry.
+
+{% figure "fig-c15-27" %}
+
+{% figure "fig-c15-28" %}
+
+{% figure "fig-c15-29" %}
+
+{% figure "fig-c15-30" %}
 
 In fact, the two prints were created to be displayed alongside each other, and the scene at Tanna suggests an alternative possibility for Erromanga. Baxter himself referred to the relationship between the two images as a ‘melancholy contrast’, with the same boat, ‘natives’ and Missionary, ‘but alas! In how changed a position’.[^101]
 
@@ -307,66 +368,6 @@ Missionary ships have long been something of a fascination, seemingly capturing 
 Gréine Jordan began her collaborative doctoral research with the National Maritime Museum in 2018, which she has recently successfully completed. Central to her thesis was the parallel between the John Williams missionary ships and the Juvenile Missionary Magazine, both launched in 1844. This chapter is intended to supply the prehistory for that complex.
 
 I am very grateful for the ongoing guidance and maritime input of Robert Blyth, Senior Curator of World and Maritme History at the National Maritime Museum, as well as John McAleer, who reminded me to always italicise ship names while writing this chapter! John was kind enough to give this chapter a close reading and I am extremely grateful to him for spotting the various typos which had infiltrated the text.
-
-{% figure "fig-c15-1" %}
-
-{% figure "fig-c15-2" %}
-
-{% figure "fig-c15-3" %}
-
-{% figure "fig-c15-4" %}
-
-{% figure "fig-c15-5" %}
-
-{% figure "fig-c15-6" %}
-
-{% figure "fig-c15-7" %}
-
-{% figure "fig-c15-8" %}
-
-{% figure "fig-c15-9" %}
-
-{% figure "fig-c15-10" %}
-
-{% figure "fig-c15-11" %}
-
-{% figure "fig-c15-12" %}
-
-{% figure "fig-c15-13" %}
-
-{% figure "fig-c15-14" %}
-
-{% figure "fig-c15-15" %}
-
-{% figure "fig-c15-16" %}
-
-{% figure "fig-c15-17" %}
-
-{% figure "fig-c15-18" %}
-
-{% figure "fig-c15-19" %}
-
-{% figure "fig-c15-20" %}
-
-{% figure "fig-c15-21" %}
-
-{% figure "fig-c15-22" %}
-
-{% figure "fig-c15-23" %}
-
-{% figure "fig-c15-24" %}
-
-{% figure "fig-c15-25" %}
-
-{% figure "fig-c15-26" %}
-
-{% figure "fig-c15-27" %}
-
-{% figure "fig-c15-28" %}
-
-{% figure "fig-c15-29" %}
-
-{% figure "fig-c15-30" %}
 
 {% backmatter %}
 
@@ -583,3 +584,5 @@ I am very grateful for the ongoing guidance and maritime input of Robert Blyth, 
 [^105]: Lewis, C. T. C. (1908). George Baxter (Colour Printer) – His Life and Work – A Manual for Collectors. London, Sampson Low, p.100
 
 {% endbackmatter %}
+
+

@@ -13,6 +13,8 @@ abstract: |
 page_pdf_output: true
 ---
 
+{% figure "fig-c18-1" %}
+
 Joseph Ketley hesitated before writing to the Directors of the London Missionary Society. He had arrived in Demerara as a missionary in 1828, but his official connection with the Society ended a decade later in somewhat acrimonious circumstances. Still, enough time had probably now passed to build some bridges, and what better way than by offering a gift.
 
 Ketley began his letter by describing a recent visit to the ‘Animal and Bird preserver of this city’, where he had been:
@@ -36,6 +38,8 @@ While missionary work on the African continent offered one way to continue the e
 Ketley would have been aware of the Natural History specimens displayed at the Missionary Museum since it opened in 1815, including its towering giraffe (Chapter 2). I can’t help feeling, however, that this particular example of taxidermy made him think of the London Missionary Society for other reasons too. Was he not, at some level, reminded of his own long struggle with the Directors to establish Providence New Chapel as an Independent church?
 
 Can we regard the young Alligator as like his congregation, struggling to break free from the snake-like coils of the London Missionary Society? Like the protectiveness of an overbearing parent, did its embrace feel like something which needed to be escaped for a truly independent future to commence?
+
+{% figure "fig-c18-2" %}
 
 After John Smith’s death in prison following the Demerara uprising of 1823 (Chapter 5), there had been an attempt to exclude missionaries from the colony and seize their Chapels for the established Church of England. Ultimately however, the Governor was recalled to London and Joseph Ketley arrived as a 26 year old missionary recruit in December 1828, sent to continue the Society’s work at Providence Chapel in George Town.[^5]
 
@@ -68,6 +72,8 @@ As well as sending further missionaries to Berbice and Demerara, a new mission w
 The Directors appealed for ‘discreet, experienced, and truly devoted men’ to help ‘the Lord in this important work’, asking supporters for _special donations for the West India missions_ to enable what would likely be ‘a very considerable increase to the permanent annual expenditure of the Society’. They quoted John Wray, the first missionary sent to Demerara (Chapter 5), in a letter sent from Berbice in late November 1833:
 
 > Surely Britain, having accomplished the abolition of slavery, at least having fixed a period when it shall for ever cease, will furnish the means of instruction to these poor people, that they may be delivered from the slavery of sin and Satan, and brought into the glorious livery of the children of God. Will the British Parliament vote £20,000,000 for their temporal, and will not the Missionary Society contribute a few thousands for their spiritual freedom?[^13]
+
+{% figure "fig-c18-3" %}
 
 By May 1835, around £6,400 had been raised in a special fund for ‘West India Missions’.[^14] The most immediate needs of the newly emancipated, however, were imagined as spiritual and educational.
 
@@ -103,6 +109,12 @@ In a letter considered at a meeting of the West Indies Committee on 25 May 1838,
 
 At a meeting at Providence Chapel on 27 July 1838, less than a week before the apprenticeship system ended, in part due to Scoble’s report, the Church agreed a number of resolutions in response to a letter sent by William Ellis on 14 April.[^31] The Directors had declared that the end of the Church’s relationship with the London Missionary Society, like most divorces, would entail a financial settlement.
 
+{% figure "fig-c18-4" %}
+
+{% figure "fig-c18-5" %}
+
+{% figure "fig-c18-6" %}
+
 After the first minister of Providence Chapel, Davies, had died, the Directors had paid his wife £1000 to transfer ownership of the chapel and the ground on which it stood. The chapel had been rebuilt in around 1830 at a cost of £3000, of which £400 had been supplied by the Directors. The Directors evidently expected to be recompensed for these, as well as other expenses. The Church declared, however, that:
 
 > considering all the circumstances of this Station, any claim & demands made by the Directors on any part of which, ought to be regarded as unjust in Principle & oppressive in enforcement.[^32]
@@ -131,6 +143,10 @@ Ketley was concerned that barriers were being placed in ‘the way of people eve
 
 On 7 January 1842, Ketley wrote to Arthur Tidman and J. J. Freeman, newly appointed Foreign Secretaries following the resignation of William Ellis on health grounds in 1841. While he welcomed their declarations of goodwill, and assurances that the failure to send Missionary publications had been an oversight, he complained about plans for “Smith’s Chapel” in Georgetown.[^44] According to the Society’s Annual Report for 1842, this was intended to become the basis of a seminary that would train up ‘an efficient native agency for the service of the West India Mission’.[^45]
 
+{% figure "fig-c18-7" %}
+
+{% figure "fig-c18-8" %}
+
 At around the same time, however, the position of church leaders in the Caribbean became the focus for a very public moral panic among British evangelicals. The earliest Baptist preachers in Jamaica had been African Americans, arriving on the island following American Independence in 1783. The English missionaries who arrived after 1813 at their invitation frequently only had relatively limited influence over their sometimes very large congregations.[^46]
 
 Representatives of other missionary societies on the island may well have resented the relative success and material comfort of Baptist Missionaries, but also recognised that Jamaican Baptists sometimes approached Christianity rather differently to many European churches. Congregations were generally organised into ‘classes’, each led by a ‘daddy’.[^47] These leaders often seem to have sometimes resented the oversight and instruction of White Baptist missionaries.[^48]
@@ -145,6 +161,8 @@ When three LMS missionaries in Jamaica, John Vine, William Slatyer and W.G. Barr
 
 In January 1842, a meeting of Baptists from across Jamaica sent William Knibb to England to represent their interests. Under Knibb’s guidance, they also decided Jamaican Churches should take responsibility for their own support from 1 August 1842, partly in response to charges of extravagance in the furnishing of mission houses and chapels.[^51]
 
+{% figure "fig-c18-9" %}
+
 The controversy even found its way into the usually staid _Evangelical Magazine_ in March 1842, when a letter was printed that responded to a document published by the Baptist Missionary Society to refute some of the charges against it. The letter summarised the main charges as:
 
 - abuse of office by class leaders, described as tyrannical and often illiterate
@@ -156,6 +174,10 @@ The letter in question suggested Knibb, as well as other Baptist missionaries, g
 What certainly seems to have been the case was that Jamaican Christians were in the process of developing forms of religious practice which blended Christianity with African ways of understanding and approaching the world. Hope Waddell from the Scottish Missionary Society suggested that ‘The grand doctrine of these people was the Spirit’s teaching. It gave life. The written word was a dead letter’. The spirit was sought in dreams and visions, and preparation for baptism sometimes involved spending time in the wilderness waiting for signs.[^53]
 
 Hugh Brown, an LMS schoolmaster stated that it was commonly believed that full body baptism not only washed away sin, but provided knowledge, making White missionaries unnecessary “because dem know all him can tell them”.[^54] John Clark of the Baptist Mission at Brown’s Town in Jamaica’s North, seems to have been proud that his congregation established its own prayer meetings with independently chosen leaders.[^55]
+
+{% figure "fig-c18-10" %}
+
+{% figure "fig-c18-11" %}
 
 An extremely revealing visual source on contemporary Baptist practices comes in the form of a colour print, produced in 1842 by George Baxter showing the baptism of 135 people in the sea near Brown’s Town in 1842. While two White British missionaries perform the sacrament in the water while a third preaches from a raised pulpit on the beach, the image is filled by people of African descent, some on horses, others in boats, wearing an array of variously coloured clothing.
 
@@ -203,6 +225,12 @@ By June 1850, the influence of ‘deep and universal poverty on the resources of
 
 _“During the last year,” writes Mr. Pettigrew, of Berbice, “we have often been asked for bread by those who, only a short time ago, have large sums of money to the cause of God.”_[^71]
 
+{% figure "fig-c18-12" %}
+
+{% figure "fig-c18-13" %}
+
+{% figure "fig-c18-14" %}
+
 On 14 December 1849, Joseph Ketley marked his birthday by writing to the Directors of the London Missionary Society about their gift:
 
 _This day completes the 47^th year of my earthly pilgrimage, and the 21^st of my public service in the Guiana field of Missions._[^⁠72]
@@ -220,34 +248,6 @@ An image of the Missionary Museum, published in April 1853, shows a glass case c
 By 1860, this had been moved to a display case dedicated to Natural History. Surrounded by shells, corals and animal horns, it was positioned below an even bigger stuffed snake, originally from Bengal, wrapped around a tree trunk.[^78] While the larger serpent possibly evokes the temptation of Eve by Satan in the Garden of Eden, we can read the alligator and boa constrictor, locked in their seemingly eternal embrace, according to an alternative symbolic frame.
 
 To me at least, it captures something of the struggles of the congregation and pastor of the New Providence Chapel in Demerara to achieve their independence from the London Missionary Society. But this struggle also mirrors a wider contemporary struggle, as those emancipated from slavery sought a future for themselves and their descendants as free subjects of the British Empire.
-
-{% figure "fig-c18-1" %}
-
-{% figure "fig-c18-2" %}
-
-{% figure "fig-c18-3" %}
-
-{% figure "fig-c18-4" %}
-
-{% figure "fig-c18-5" %}
-
-{% figure "fig-c18-6" %}
-
-{% figure "fig-c18-7" %}
-
-{% figure "fig-c18-8" %}
-
-{% figure "fig-c18-9" %}
-
-{% figure "fig-c18-10" %}
-
-{% figure "fig-c18-11" %}
-
-{% figure "fig-c18-12" %}
-
-{% figure "fig-c18-13" %}
-
-{% figure "fig-c18-14" %}
 
 {% figure "fig-c18-15" %}
 
@@ -417,4 +417,5 @@ To me at least, it captures something of the struggles of the congregation and p
 
 
 {% endbackmatter %}
+
 
