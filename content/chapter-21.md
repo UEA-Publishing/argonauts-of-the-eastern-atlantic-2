@@ -21,7 +21,7 @@ page_pdf_output: true
 
 This excerpt, from the journal of Edward Coode Hore, captures something of the relief with which he completed his journey of 800 miles, begun at Zanzibar more than a year earlier. Initially led by the Rev. Roger Price, an experienced missionary from southern Africa (who was married to Robert Moffat’s daughter – [Chapter 17](https://argonauts2022.net/17-model-bechuana-house/)), the expedition began as a wagon train, with oxen and drivers brought from the Cape.[^2]
 
-Progress was slow, only six or seven miles a day, and by October 1877 most of the oxen had died. As the men began to sicken with malaria, Price left for London to persuade the Society’s Directors they should employ _pagazi,_  or carriers. Of the six Europeans who set out for Ujiji in 1877 only four completed the journey and two of those died soon afterwards. This left only the two lay members of the group, Hore, a master mariner, and Walter Hutley, a missionary artisan.[^⁠3]
+Progress was slow, only six or seven miles a day, and by October 1877 most of the oxen had died. As the men began to sicken with malaria, Price left for London to persuade the Society’s Directors they should employ _pagazi,_  or carriers. Of the six Europeans who set out for Ujiji in 1877 only four completed the journey and two of those died soon afterwards. This left only the two lay members of the group, Hore, a master mariner, and Walter Hutley, a missionary artisan.[^3]
 
 Dr. Mullens, the London Missionary Society’s Foreign Secretary, arrived to oversee operations, joining a second expedition that left Zanzibar in June 1879. In less than a month, however, he too had died and was buried near a recently established Church Missionary Society station, Mpwapwa. Richard Lovett, official historian of the London Missionary Society, described the attempt to establish a new mission field in Central Africa as:
 
@@ -339,6 +339,7 @@ I am extremely grateful to Prof. Allen F. Roberts for his input at an early stag
 [^65]: Salmon, André. 1920. ‘Negro Art’, in _The Burlington Magazine for Connoisseurs_ 36 (205), pp. 165-167: <https://www.jstor.org/stable/860977>
 
 {% endbackmatter %}
+
 
 
 
