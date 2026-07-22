@@ -51,7 +51,7 @@ _Fetishes (spirits of ancestors) (four 5) used by Natives (Uguha)._
 
 When the London Missionary Society museum ultimately closed in 1910, three similar items were purchased by the British Museum (Af1910,-.339-341), where they were catalogued as:
 
-_Fetish. Spirit of ancestors. Central Africa_[^⁠11]
+_Fetish. Spirit of ancestors. Central Africa_[^11]
 
 What can these unusual artefacts, and the way they were described, tell us about changing attitudes to Africa in Victorian Britain? What do they reveal about British missionary engagements on the eve of the continent’s colonisation by European powers? How might they allow us to better understand the complex and evolving relationship between missionaries and anthropologists?
 
@@ -65,7 +65,7 @@ In December 1857, Livingstone was invited to address the University of Cambridge
 
 {% figure "fig-c21-4" %}
 
-Similarly inspired, the LMS attempted to establish a mission to Sebitwane’s Kololo kingdom in the Upper Zambezi (as well as a mission to Mzilikazi’s Matabele, in what is now western Zimbabwe). After Livingstone’s withdrawal, other missionaries were found to undertake this, and on 8 July 1859 a group comprising of the Rev. Holloway Helmore, his wife Anne together with their four children, as well as Roger Price and his pregnant wife Isabella, supported by a number of Batswana from Kuruman, travelled north by wagon to Linyanti, near to what is now Namibia’s Caprivi strip. Arriving in mid-February 1860, they expected to soon be met by the roving David Livingstone.[^⁠14]
+Similarly inspired, the LMS attempted to establish a mission to Sebitwane’s Kololo kingdom in the Upper Zambezi (as well as a mission to Mzilikazi’s Matabele, in what is now western Zimbabwe). After Livingstone’s withdrawal, other missionaries were found to undertake this, and on 8 July 1859 a group comprising of the Rev. Holloway Helmore, his wife Anne together with their four children, as well as Roger Price and his pregnant wife Isabella, supported by a number of Batswana from Kuruman, travelled north by wagon to Linyanti, near to what is now Namibia’s Caprivi strip. Arriving in mid-February 1860, they expected to soon be met by the roving David Livingstone.[^14]
 
 On 2 March, however, Malatsi, the driver of Price’s wagon, died. Soon afterwards, the children began to die, followed by more Batswana – Setloke, Thaba from Lekatlong as well as his son. Anne and Holloway Helmore also died, followed by Isabella Price, leaving only Roger Price and two orphaned Helmore children. After many trials, they eventually returned to Kuruman on 14 February 1861.[^⁠15] Given this traumatic experience, it is perhaps unsurprising that Roger Price left the expedition to Lake Tanganyika when signs of illness began manifesting themselves nearly two decades later. Given this discouraging start, why did British Missionaries attempt, once again, to establish a mission in Central Africa during the 1870s?
 
