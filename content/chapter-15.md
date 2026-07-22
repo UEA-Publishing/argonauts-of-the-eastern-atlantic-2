@@ -242,6 +242,12 @@ This appears to have prompted the establishment of the Aborigines Protection Soc
 
 While the society was ‘anti-colonial’ in opposing the political influence of settlers and traders, it remained ‘imperialist’ in its imagination of a humanitarian and Christian empire, within which ‘others’ would be enabled to become ‘brothers’. Krishnan Kumar has suggested that _The Making of English National Identity,_ with its themes of liberty, prosperity and progress, was marked by a ‘Missionary Nationalism’, a key feature of which he suggests is ‘the attachment of a dominant or core ethnic group to a state entity that conceives itself as dedicated to some large cause or purpose’.[^72]
 
+{% figure "fig-c15-17" %}
+
+{% figure "fig-c15-18" %}
+
+{% figure "fig-c15-19" %}
+
 We can arguably see this articulated clearly by the alignment of missionary and imperial agendas at the Aborigines Select Committee. Conflicts from the edges of empire had played out in London through the Select Committee, resulting in an apparent victory, despite the necessary concessions made by Buxton in relation to the report.[^73]
 
 It soon became time for the missionaries to return to their stations and on 17 October 1837, the London Missionary Society held a Valedictory Service at Exeter Hall to mark the departures of Charles Mead for India, John Philip for South Africa and John Williams for the Pacific. With 35 new missionary recruits, the three veterans headed ‘the largest Missionary Company sent forth by the Society at any one period since the sailing of the ship _Duff_ in 1796’.[^74]
@@ -259,6 +265,10 @@ _when the Missionary cause will have such a hold on the public mind that the gre
 Williams suggested that in contrast to the warfare of preceding periods, Victoria’s reign might diffuse ‘all over the world the knowledge and blessings of that Christianity upon which our own nation’s superiority is based, and in which the present and future felicity of the human family is concentrated’ – a fairly clear statement of ‘Missionary Nationalism’, although one suspects the nation he had in mind was as much British as English, having been born in England to Welsh forbears himself.[^77]
 
 Williams was keen to counteract the ‘speculations of philosophers’ and phrenologists who ‘have been describing the colour, the capacities, the weight of the brain’ with the lived experience of missionaries ‘from among all tribes on the earth’, who could stand before the civilised world and say ‘God has made of one blood all nations of men that dwell upon the face of the earth.’[^78]
+
+{% figure "fig-c15-20" %}
+
+{% figure "fig-c15-21" %}
 
 Making the case for the special place of the Pacific mission, Williams suggested that there were ‘between 200,000 and 300,000 people wearing and using articles of British manufacture’, while missions had also made many of the harbours safe for British maritime shipping. He suggested that the conversion of Tahiti had been the most important turning point in the Society’s history, as well as the beginning of the current enthusiasm for missions, stating:
 
@@ -278,9 +288,15 @@ On 27 December an ‘Appeal for the Purchase of a Missionary Ship’ was circula
 
 In February, Williams discovered that Captain Robert Morgan, an unusually religious captain whom he knew from the Pacific, had just arrived in London, following a shipwreck on Australia’s north coast. Morgan was quickly recruited to take charge of the _Camden_, which following its refurbishment was opened to visitors at West India Docks for several days before being towed to Gravesend on 9 April, awaiting its departure.
 
+{% figure "fig-c15-22" %}
+
+{% figure "fig-c15-23" %}
+
 On the way down the English Channel, the _Camden_ passed the Isle of Wight, depicted in another colour image published by John Snow, and on 18 April left Dartmouth, where another valedictory service was held. The _Missionary Magazine_ provided updates on the Camden’s progress for readers, including its meeting  with an American whaler in the Atlantic on 2 June.[^84]
 
 The _Camden_ arrived at Cape Town on 1 July, remaining for just over two weeks, enabling Williams to visit the Society’s schools with John Philip.[^85] The next stop was Sydney on 8 September 1838, where the _Camden’s_ arrival prompted the establishment of an Auxiliary Society, as well as the production of another image, showing her leaving Sydney harbour on 25 October 1838.[^86]
+
+{% figure "fig-c15-24" %}
 
 In January 1840, a letter from Williams was published in the _Missionary Magazine_, written at Tahiti at the end of March 1839, in which he described the missionaries at Samoa looking meagre and emaciated, while those in the Cook Islands had not been visited in three years, underpinning the ongoing need for a missionary ship.[^87]
 
@@ -308,6 +324,10 @@ They were sold for one pound, five shillings each, and purchasers of the pair we
 
 Unlike _The Departure of the Camden, Missionary Ship,_ which had been published by John Snow, these prints were published by Baxter himself. While _The Departure of the Camden_ was dedicated to the London Missionary Society, Baxter promised a contribution from the profits of these new prints to the ‘fund now being raised for Mrs Williams’, having already given fifty guineas ‘as a kind of ‘first fruits’’, before the prints went on sale.[^97]
 
+{% figure "fig-c15-25" %}
+
+{% figure "fig-c15-26" %}
+
 By comparing Baxter’s published image of Williams’ death on Erromanga to an annotated watercolour sketch, as well as Webber’s 1785 image of the death of Captain Cook, the Australian art historian, Bernard Smith, suggested that Baxter deliberately made the Erromangans darker in complexion and the missionary ‘more heavenly’ in order to ‘suggest the saintliness of Williams and the spiritual depravity of his murderers’.[^98]
 
 Smith suggested that the ‘remarks’ inscribed on the sketch ‘clearly sought to make the illustration more amenable to evangelical taste’, however it is not clear that they all fulfil this purpose. It is possible that at least some recorded remarks made by someone who had actually witnessed the scene, such as J. Leary, whose eyewitness account was printed to accompany the images.
@@ -317,6 +337,14 @@ Two notes state that the men attacking Williams ‘should be in deeper water’,
 In making Baxter’s depiction of Williams’ death at Erromanga representative of missionary presentations of the ‘ignoble savage’, ‘a squat, swarthy, highly emotional type of being completely lacking in any personal dignity’, Smith ignored the image that was originally published along with it, that of Williams at Tanna.[^99]
 
 In this, a barefoot Polynesian teacher in trousers and a shirt stands on a plank linking the dry land to the missionary boat, gesturing towards Williams while looking at a local chief. Williams is shown standing at the front of the boat ‘with his hat in hand, waiting for permission to land’.[^100] When the two prints are placed alongside each other, although the scenes on the beaches are very different, the outline of the coast and the mountains in the background suggests a considerable degree of lateral symmetry.
+
+{% figure "fig-c15-27" %}
+
+{% figure "fig-c15-28" %}
+
+{% figure "fig-c15-29" %}
+
+{% figure "fig-c15-30" %}
 
 In fact, the two prints were created to be displayed alongside each other, and the scene at Tanna suggests an alternative possibility for Erromanga. Baxter himself referred to the relationship between the two images as a ‘melancholy contrast’, with the same boat, ‘natives’ and Missionary, ‘but alas! In how changed a position’.[^101]
 
@@ -556,4 +584,5 @@ I am very grateful for the ongoing guidance and maritime input of Robert Blyth, 
 [^105]: Lewis, C. T. C. (1908). George Baxter (Colour Printer) – His Life and Work – A Manual for Collectors. London, Sampson Low, p.100
 
 {% endbackmatter %}
+
 
