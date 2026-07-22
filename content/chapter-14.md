@@ -26,6 +26,8 @@ Mead clearly detected the hand of God in the changes he had seen over two decade
 
 It warns them not to consume sacrifices made at idolatrous altars, since these had been made to demons. Pointing out that consumption of the eucharist underlies the fellowship of Christians, Paul told the Corinthians ‘I would not that ye should have fellowship with demons’.[^5]
 
+{% figure "fig-c14-1" %}
+
 Charles Mead had originally been appointed to succeed William Tobias Ringeltaube, a Prussian minister trained at the University of Halle who established the London Missionary Society’s mission in South India. Born in 1770, Ringeltaube’s missionary ambitions were inspired by John Newton (Chapter 2 & 12), going first to Calcutta in 1796 with the Society for Promoting Christian Knowledge.[^6] He returned to Europe in 1799, complaining that he had been forced to preach in Portuguese to ‘a mixed congregation of Portuguese, Malays, Jews and Chinese’.[^7]
 
 Ringeltaube was appointed by the London Missionary Society in 1803, along with four others intended for India and Ceylon (Sri Lanka). They arrived at the Danish colony of Tranquebar (Tharangambadi) in December 1804, where Pietist missionaries had been operating since 1706. Seeking guidance from another German-speaking SPCK missionary, John Caspar Kohlhoff, Ringeltaube began learning Tamil before taking responsibility for Palamcottah (Palayamkottai) in Tinnevelly (Tirunelveli), on behalf of Kohlhoff.[^8]
@@ -233,7 +235,6 @@ It seems important to also acknowledge the influence of my students, in conversa
 
 I would also like to acknowledge Aayushi Gupta, with whom I had a number of extremely stimulating conversations about female Zenana missions in India while she was developing her PhD proposal. This chapter is intended to offer something of a prehistory for that movement.
 
-{% figure "fig-c14-1" %}
 
 {% figure "fig-c14-2" %}
 
@@ -424,3 +425,4 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 [^72]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp. 153-4.
 
 {% endbackmatter %}
+
