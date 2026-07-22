@@ -25,7 +25,7 @@ Progress was slow, only six or seven miles a day, and by October 1877 most of th
 
 Dr. Mullens, the London Missionary Society’s Foreign Secretary, arrived to oversee operations, joining a second expedition that left Zanzibar in June 1879. In less than a month, however, he too had died and was buried near a recently established Church Missionary Society station, Mpwapwa. Richard Lovett, official historian of the London Missionary Society, described the attempt to establish a new mission field in Central Africa as:
 
-> The outcome of a lofty hope, floated upon the tide of a great enthusiasm, it has nevertheless been one long tragedy in the sacrifice of life on the parts of those who have attempted to work it, and in the disappointment of the fondest anticipations of those who projected it.[^⁠4]
+> The outcome of a lofty hope, floated upon the tide of a great enthusiasm, it has nevertheless been one long tragedy in the sacrifice of life on the parts of those who have attempted to work it, and in the disappointment of the fondest anticipations of those who projected it.[^4]
 
 Following their arrival at Ujiji, Hore and Hutley lost no time establishing relationships with local Swahili speaking traders such as Tippu Tip, who dominated the settlement trading enslaved people, alongside other commodities such as ivory. Hore hired a vessel, the _Calabash,_ fitting it with sails and rigging in the ‘English fashion’ in order to explore and map the lake, over 650 kilometres long and around 50 kilometres wide.[^⁠5]
 
@@ -339,6 +339,7 @@ I am extremely grateful to Prof. Allen F. Roberts for his input at an early stag
 [^65]: Salmon, André. 1920. ‘Negro Art’, in _The Burlington Magazine for Connoisseurs_ 36 (205), pp. 165-167: <https://www.jstor.org/stable/860977>
 
 {% endbackmatter %}
+
 
 
 
