@@ -124,6 +124,8 @@ According to Mead, when the figure of Pattera-kalee (Bhadrakali) was destroyed, 
 
 > You used to come to the pagoda with your offerings, and ask me to dance before the idols until the evil spirits came on me; then I would tell you what to do. It was all false and wicked; but we did this until the Missionaries and the native teachers came to enlighten us. Now by the blessing of God our eyes are opened. Some of us have long since abandoned the devil’s service. I am glad I am no longer his slave. Let us be stedfast, and endeavour to show others the true way to salvation.[^36]
 
+{% figure "fig-c14-12" %}
+
 While it may be tempting to regard the destruction and removal of religious artefacts as a straightforward imposition of colonialism, this probably fails to recognise the degree to which these events emerged from the actions of people like this former priest, as well as Vedamanickam, who began the process of conversion in South Travancore before European missionaries came to his village.
 
 Arriving in Britain at the end of March 1837, Charles Mead was able to attend the London Missionary Society’s Annual Public Meeting at Exeter Hall in London on 11 May. It proved to be the largest and the longest annual meeting of the Society’s four decades long history. It was attended by a fair number of people with overseas missionary experience: in China (Rev. W.H. Medhurst – Chapter 16), the Pacific (Rev. John Williams – [Chapter 12](https://argonauts2022.net/12-a-gigantic-idol/), & 15), South Africa (Rev. Dr. John Philip, Rev. James Read and Jan Tzatzoe – Chapter 15 & 31), Madagascar (Rev. J.J. Freeman – Chapter 19), as well as several others who had worked in India ( Rev. Richard Knill, Rev. E. Crisp, Rev. J. Crowther – a Wesleyan Methodist, Rev. George Gogerley, Rev. William Campbell).[^37]
@@ -162,6 +164,8 @@ It seems that Christianity may have represented a new form of freedom for many c
 _“Ignorant and unwise,” the simple people stare with wonder at this strange sight, and are quite ready to believed that Paramasattee is indeed a great god._[^42]
 
 The testimony reported by Mead, however, seems clear that temple images were not regarded as gods in their own right, but rather as representations or and vessels for spirits, as in Polynesia ([Chapter 13](https://argonauts2022.net/13-all-wrapped-up-in-a-piece-of-tahitian-cloth/)). Nevertheless, there remained an understandable nervousness about being the one to wield a spade against them.
+
+{% figure "fig-c14-13" %}
 
 On his return London, Charles Mead presented Paramasattee as a battle trophy in the cosmic war against Satan. European missionaries working in India at around this time, however, seem to have been fully aware that the adoption of Christianity by large numbers of people in South Travancore emerged from a series of far more immediate and local conflicts.[^43]
 
@@ -211,6 +215,16 @@ As an artefact, this fragment, now at the National Maritime Museum at Greenwich 
 
 It finds a curious echo in a length of lace from the collection of the V&A Museum in South Kensington, where a printed green label states ‘London Missionary Society, Lace Industry, Nagercoil, S. India’ ([V&A T.195-1993](https://collections.vam.ac.uk/item/O315374/insertion-unknown/)). Below this, a hand-written price in Rupees suggests that it was purchased in India, perhaps with the intention of using it as a decorative edging. How many other examples of Nagercoil lace survive in museum collections, without such labels, incorporated into other garments?
 
+{% figure "fig-c14-14" %}
+
+{% figure "fig-c14-15" %}
+
+{% figure "fig-c14-16" %}
+
+{% figure "fig-c14-17" %}
+
+{% figure "fig-c14-18" %}
+
 Annette Weiner, who undertook doctoral fieldwork in the Trobriand Islands, six decades after Bronislaw Malinowski, found he had significantly underestimated the role played by women in the Kula exchange system, described in his famous 1922 book _Argonauts of the Western Pacific._ While men were concerned with enhancing their status through the exchange of shell valuables, women developed an elaborate technology for ‘making wealth out of dried banana leaves’, which Weiner came to regard as paralleled by female practices of textile production all over the world.[^65]
 
 Introducting her 1992 theoretical book, _Inalienable Possessions_, Weiner suggested that:
@@ -228,6 +242,10 @@ Alongside a description of mechanised lace-making in Nottingham, Derby and Leice
 
 Did the introduction of lace-making in South Travancore simply mark the expansion of similar forms of exploitation to an Indian context? A century later, Mahatma Gandhi deployed the production of Khadi cloth by hand as a symbol of dignity in labour as part of the _swadeshi_ movement. Is it implausible to suggest that lace-making as form of economic self-empowerment within the female-directed educational setting of ‘Mrs Mault’s school’ at Nagercoil, suggests something similar may have been at play in missionary contexts?
 
+{% figure "fig-c14-19" %}
+
+{% figure "fig-c14-20" %}
+
 At the end of her book _Inalienable Possessions_, Annette Weiner argued that:
 
 > Understanding the scope and limits of gender-based power in the ethnographic record demands giving serious attention to the essential domains in which women participate in economic and political actions in their own right with their own resources. Since the ethnographic examples from which traditional economic theories are formulated rely almost exclusively on examples of men’s production and men’s exchanges, the reproductive energies in such things as women’s bones, sacred cloth, hair strings, banana-leaf bundles, weaving poles, and birthing houses, are largely unrecognised or, when recorded, are reduced by anthropologists to prosaic categories lacking economic or political provenience.[^70]
@@ -242,6 +260,7 @@ Weiner suggested that to read such examples of complementarity as oppositions be
 
 If the early mass conversions at Nagercoil were to be followed by the establishment of a Christian society, able to reproduce itself through subsequent generations, schools seem to have provided the institutional form through which its members could be produced. Martha Mault and Charles Mead arguably represent complementary poles underpinning the establishment of this new dispensation in South Travancore, at least when they represented it to supporters elsewhere in the world.
 
+{% figure "fig-c14-21" %}
 
 Acknowledgements
 
@@ -405,5 +424,6 @@ I would also like to acknowledge Aayushi Gupta, with whom I had a number of extr
 [^72]: Weiner, A. B. (1992). Inalienable Possessions: The Paradox of Keeping-While-Giving. Berkeley, University of California Press, pp. 153-4.
 
 {% endbackmatter %}
+
 
 
