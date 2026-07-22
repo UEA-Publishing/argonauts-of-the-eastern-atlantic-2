@@ -19,7 +19,7 @@ page_pdf_output: true
 
 > In front walks the portly and consequential Songoro, bearing the Union Jack with white border, then the porters’ _kilangosi_ \[leading senior guide and porter\], with lofty head-dress of nodding ostrich plumes, perseveringly working his legs to give due sound to the iron bells hung round his knees; and then come box, and bag, and bundle, tents, pots, and kettles, and little bundles of porters’ personal effects. In the centre of the procession Juma Mackay displays on a long bamboo the dove of peace with olive branch.[^1]
 
-This excerpt, from the journal of Edward Coode Hore, captures something of the relief with which he completed his journey of 800 miles, begun at Zanzibar more than a year earlier. Initially led by the Rev. Roger Price, an experienced missionary from southern Africa (who was married to Robert Moffat’s daughter – [Chapter 17](https://argonauts2022.net/17-model-bechuana-house/)), the expedition began as a wagon train, with oxen and drivers brought from the Cape.[^⁠2]
+This excerpt, from the journal of Edward Coode Hore, captures something of the relief with which he completed his journey of 800 miles, begun at Zanzibar more than a year earlier. Initially led by the Rev. Roger Price, an experienced missionary from southern Africa (who was married to Robert Moffat’s daughter – [Chapter 17](https://argonauts2022.net/17-model-bechuana-house/)), the expedition began as a wagon train, with oxen and drivers brought from the Cape.[^2]
 
 Progress was slow, only six or seven miles a day, and by October 1877 most of the oxen had died. As the men began to sicken with malaria, Price left for London to persuade the Society’s Directors they should employ _pagazi,_  or carriers. Of the six Europeans who set out for Ujiji in 1877 only four completed the journey and two of those died soon afterwards. This left only the two lay members of the group, Hore, a master mariner, and Walter Hutley, a missionary artisan.[^⁠3]
 
@@ -204,34 +204,6 @@ When I began work on a display of material related to the Baptist Missionary Geo
 
 I am extremely grateful to Prof. Allen F. Roberts for his input at an early stage of planning this chapter. I have been lucky to have worked alongside Prof. John Mack and Prof. David Maxwell, from both of whom I have learnt a great deal about Central Africa. I also had the privilege to supervise Dr Amelia King’s PhD on photography associated with the Baptist Missionary Society in Congo.
 
-
-
-
-{% figure "fig-c21-2" %}
-
-{% figure "fig-c21-3" %}
-
-{% figure "fig-c21-4" %}
-
-{% figure "fig-c21-5" %}
-
-{% figure "fig-c21-6" %}
-
-{% figure "fig-c21-7" %}
-
-{% figure "fig-c21-8" %}
-
-{% figure "fig-c21-9" %}
-
-{% figure "fig-c21-10" %}
-
-{% figure "fig-c21-11" %}
-
-{% figure "fig-c21-12" %}
-
-{% figure "fig-c21-13" %}
-
-
 {% backmatter %}
 
 ## Notes
@@ -368,4 +340,5 @@ I am extremely grateful to Prof. Allen F. Roberts for his input at an early stag
 
 
 {% endbackmatter %}
+
 
