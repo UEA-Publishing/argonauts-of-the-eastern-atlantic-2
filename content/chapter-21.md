@@ -27,11 +27,15 @@ Dr. Mullens, the London Missionary Society’s Foreign Secretary, arrived to ove
 
 > The outcome of a lofty hope, floated upon the tide of a great enthusiasm, it has nevertheless been one long tragedy in the sacrifice of life on the parts of those who have attempted to work it, and in the disappointment of the fondest anticipations of those who projected it.[^4]
 
+{% figure "fig-c21-2" %}
+
 Following their arrival at Ujiji, Hore and Hutley lost no time establishing relationships with local Swahili speaking traders such as Tippu Tip, who dominated the settlement trading enslaved people, alongside other commodities such as ivory. Hore hired a vessel, the _Calabash,_ fitting it with sails and rigging in the ‘English fashion’ in order to explore and map the lake, over 650 kilometres long and around 50 kilometres wide.[^⁠5]
 
 Reinforcements arrived in September 1879 in the form of two young missionary recruits. One of these, William Griffith, would establish a mission station at Mtowa \[Mutoa\] north of the Lukuga River on the western shore of Lake Tanganyika, in what is now the Democratic Republic of the Congo.[^⁠6] Kasanga Mohongoro, the most important regional chief, was welcoming and provided land, food and labourers to assist in establishing the station. The missionaries called this Plymouth Rock, after the place the Mayflower pilgrims disembarked in 1620, on their arrival in North America.[^7]
 
 In 1880, following the arrival of a third LMS expedition, Hore returned to England to oversee the construction of a missionary steamer, arriving home on 23 February 1881.[^⁠8] The _Good News_ was designed for lake conditions and transported from the East African coast in pieces, to be assembled on the shores of Lake Tanganyika and eventually launched in March 1885.[^⁠9]
+
+{% figure "fig-c21-3" %}
 
 The archives of the British Museum include a list of 28 ‘Curios from Central Africa taken by the Rev. Ralph Wardlaw Thompson to Liverpool, April 12: 1881’.[^10] At that time, Wardlaw Thompson, the son of an LMS missionary in India, had recently been appointed Foreign Secretary to replace Mullens. The list includes a generic selection of pots, pipes, and baskets, an ‘Arab slave collar’, a string of bells worn as anklets by _pagazi_, as well as a ‘wrist fetter’ from Ujiji with a sketch by Capt. E.C. Hore. This suggests it was likely Hore who brought these items to Britain. Towards the bottom of the page are listed:
 
@@ -51,13 +55,15 @@ _Fetish. Spirit of ancestors. Central Africa_[^⁠11]
 
 What can these unusual artefacts, and the way they were described, tell us about changing attitudes to Africa in Victorian Britain? What do they reveal about British missionary engagements on the eve of the continent’s colonisation by European powers? How might they allow us to better understand the complex and evolving relationship between missionaries and anthropologists?
 
-When David Livingstone returned to Britain in December 1856, after 16 years away, he was in many ways a fairly typical LMS missionary. Like his father-in-law, Robert Moffat (Chapter 17), John Williams (Chapter 15) and John Campbell (Chapter 3) before him, Livingstone wrote an account of his travels, _Missionary Travels and Researches in South Africa_, published in November 1857.[^⁠12] His now famous slogan ‘Christianity, Commerce and Civilisation’ was fairly conventional missionary rhetoric, as was his commitment to the abolition of slavery.
+When David Livingstone returned to Britain in December 1856, after 16 years away, he was in many ways a fairly typical LMS missionary. Like his father-in-law, Robert Moffat (Chapter 17), John Williams (Chapter 15) and John Campbell (Chapter 3) before him, Livingstone wrote an account of his travels, _Missionary Travels and Researches in South Africa_, published in November 1857.[^12] His now famous slogan ‘Christianity, Commerce and Civilisation’ was fairly conventional missionary rhetoric, as was his commitment to the abolition of slavery.
 
 Certainly, Livingstone had travelled across the Kalahari to Lake Ngami in 1849, and had crossed the continent from the Atlantic to the Indian Ocean between 1853 and 1856, stopping at Mosi-oa-Tunya (the smoke that thunders) to give the waterfall a new name in honour of his Queen. But these achievements were recognised, at least initially, mainly by London’s Royal Geographical Society, established in 1830. It was the time Livingstone spent in Britain, as well as his subsequent career as an explorer, which appear to have made his name a household one that would endure for much of the twentieth century.
 
 In 1857, Livingstone resigned from the London Missionary Society to become a roving consul for the British government in Central Africa. He led an expedition up the Zambezi River using an iron river steamer transported from Britain, the _Ma Robert_. In many ways, Livingstone’s departure from the LMS marks a significant moment when missionary rhetoric, forged in evangelical churches during the first half of the century, was adopted by the British establishment. This paralleled the movement of a generation of young men, educated in public schools influenced by the muscular Christianity of Thomas Arnold, headmaster of Rugby School between 1828 and 1841, into positions of leadership across British Society.
 
-In December 1857, Livingstone was invited to address the University of Cambridge, having already spoken at the University of Oxford. One consequence of these lectures was the establishment of the Universities’ Mission to Central Africa, which brought together members of the Anglican universities of Oxford, Cambridge, Durham and Trinity College Dublin, in response to Livingstone’s call for an expansion of missionary work in Africa, north of the Zambezi river.[^⁠13] Their first expedition, led by Bishop Charles Mackenzie in 1861, established a base near Lake Nyasa \[Lake Malawi\]. As with other attempts to settle European missionaries in the malarial zones of Central Africa, this did not last long, and in 1864 the mission withdrew to Zanzibar on the East African Coast.
+In December 1857, Livingstone was invited to address the University of Cambridge, having already spoken at the University of Oxford. One consequence of these lectures was the establishment of the Universities’ Mission to Central Africa, which brought together members of the Anglican universities of Oxford, Cambridge, Durham and Trinity College Dublin, in response to Livingstone’s call for an expansion of missionary work in Africa, north of the Zambezi river.[^13] Their first expedition, led by Bishop Charles Mackenzie in 1861, established a base near Lake Nyasa \[Lake Malawi\]. As with other attempts to settle European missionaries in the malarial zones of Central Africa, this did not last long, and in 1864 the mission withdrew to Zanzibar on the East African Coast.
+
+{% figure "fig-c21-4" %}
 
 Similarly inspired, the LMS attempted to establish a mission to Sebitwane’s Kololo kingdom in the Upper Zambezi (as well as a mission to Mzilikazi’s Matabele, in what is now western Zimbabwe). After Livingstone’s withdrawal, other missionaries were found to undertake this, and on 8 July 1859 a group comprising of the Rev. Holloway Helmore, his wife Anne together with their four children, as well as Roger Price and his pregnant wife Isabella, supported by a number of Batswana from Kuruman, travelled north by wagon to Linyanti, near to what is now Namibia’s Caprivi strip. Arriving in mid-February 1860, they expected to soon be met by the roving David Livingstone.[^⁠14]
 
@@ -74,6 +80,10 @@ A significant part of the impetus for the expansion of the London Missionary Soc
 In early 1876, Arthington offered £5000 to the London Missionary Society ‘towards the purchase of a steamer, and the establishment of a missionary station at some eligible place’ on the shores of Lake Tanganyika.[^19] The Society’s income had not increased significantly since the late 1830s, apart from occasional peaks during fundraising for a missionary ship, making the promise of these additional funds extremely tempting – Arthington would offer another £3000 for the steamer itself in February 1880.[^20] What was presumably not anticipated, however, were the considerable costs associated with this enterprise, resulting in a combined deficit of nearly £40,000 for the LMS over the next three years.[^21]
 
 Although Arthington had been associated with a Baptist Church since 1848, he seems to have been happy to support the work of a range of missionary societies as long as they contributed to the global expansion of Christianity, his ultimate goal. Alongside donations to the London Missionary Society, he funded the Baptist Missionary Society to establish a mission on the Congo River in 1877, subsequently paying for a river steamer, the _Peace_, which he hoped would connect with the LMS mission at Lake Tanganyika. At the same time, he seems to have anonymously supported the Church Missionary Society in establishing a new mission field at Uganda, hoping that a chain of British Protestant mission stations might shed ‘a line of Gospel light across the “dark continent”’.[^⁠22] Lake Tanganyika, equipped with a missionary steamer, was presumably intended to become a source of light at the heart of this imagined darkness.
+
+{% figure "fig-c21-5" %}
+
+{% figure "fig-c21-6" %}
 
 What then can we say with any certainty about the three carved artefacts at the British Museum, beyond the seemingly uncontested fact that they came from Central Africa? Were they from Ujiji, on the eastern coast of Lake Tanganyika as suggested by one list, or from Uguha on the opposite shore as suggested by the others? Were they ‘wooden images’ or ‘fetishes’, whatever that rather peculiar word might mean, or rather ‘spirits of ancestors’?  And if they had such spiritual significance, how were they acquired? By gift, purchase or theft?
 
@@ -105,6 +115,10 @@ Griffith seems to have recognised that the primary ceremonial and religious focu
 
 Attempting to understand their function, Griffith drew on European frameworks, noting that although ‘these images… are prayed unto in difficulty and trouble, or when on a journey or in war’, people nevertheless acknowledged ‘a Higher Being… to whom the Mkissi is, as it were, only a means of approach’.[^36] This made Mkissi the equivalent of Roman Catholic saints, also frequently represented in material form.
 
+{% figure "fig-c21-7" %}
+
+{% figure "fig-c21-8" %}
+
 Griffith thought the idea of the Higher Being could have ‘been obtained from the Arabs’ (by which he meant Swahili traders and their Omani rulers) but equally suggested it might have originated locally, since ‘they have a word in their own language to denote this Higher Being’.[^37] Any evidence of recognition for a higher god was important for missionaries, providing the means by which projects of translation might proceed.
 
 Interestingly, a brief summary of Griffith’s description in the _Missionary Chronicle_ was given in the scientific publication _Nature_ on 23 December 1880.[^38] The emerging scientific field of Anthropology, with its roots in Britain’s anti-slavery and evangelical movement, was greatly concerned with religious practices and beliefs, drawing heavily on the accounts of missionaries like Griffith.
@@ -117,6 +131,8 @@ Instead, Tylor argued for the development of ‘kindly interest’ in ‘all rec
 
 > No religion of mankind lies in utter isolation from the rest, and the thoughts and principles of modern Christianity are attached to intellectual clues which run back through far pre-Christian ages to the very origin of human civilisation, perhaps even of human existence.[^41]
 
+{% figure "fig-c21-9" %}
+
 Central to these ‘thoughts and principles’, proposed Tylor, was ‘the deep-lying doctrine of Spiritual Beings’ which he suggested formed the ‘groundwork of the Philosophy of Religion’.[^42] Tylor adopted the term Animism to describe this ‘ancient and world-wide philosophy, of which belief is the theory and worship is the practice’.[^43] Moving away from an older, and essentially Old Testament, notions of idols and idolatry, Tylor argued that it was the belief in spiritual beings, and attempts to engage with them that lay behind the creation of such artefacts.
 
 The first volume of Tylor’s _Primitive Culture_ ended by declaring:
@@ -127,7 +143,7 @@ As someone who attended spiritualist seances (largely for scientific reasons), i
 
 Since Griffith wrote his observations in May 1880, many missionaries, anthropologists and art historians have attempted to understand the ways in which Central Africa people understand and engage with the world of the spirits. What has emerged is a picture not significantly different to that articulated by Griffith. Indeed, W.F.P. Burton, Director of the Congo Evangelistic Mission, established in 1919, suggested that:
 
-_Fear of the spirit-world holds the Luba in the most hideous thraldom, and is perhaps the biggest factor in controlling their entire lives from birth to death._ [^45]
+_Fear of the spirit-world holds the Luba in the most hideous thraldom, and is perhaps the biggest factor in controlling their entire lives from birth to death._[^45]
 
 In a chapter of his book on _Luba Religion and Magic_ with the title ‘The Idol’, Burton noted a confusion ‘among superficial observers of Luba custom’ between the spirit and the ‘idol-form in which he is supposed to live’:
 
@@ -160,6 +176,10 @@ Whether Hutley followed these instructions is unclear, but when Edward Coode Hor
 > I have brought home specimens of arms, pottery, basket-work, cotton, bark, and palm-fibre cloths, as well as samples of the lake water, the water of the hot springs of Uguha, palm oil, mpufu oil, cotton, tobacco, china, clay, and the salt of Uvinsa and Ugogo, which may be seen at the London Missionary Society’s museum.[^⁠58]
 
 Hore did not mention ‘wooden images’ or ‘spirits of the ancestors’.
+
+{% figure "fig-c21-10" %}
+
+{% figure "fig-c21-11" %}
 
 With no spectacular record of rapid conversion, it is hard to see why these items would have been given or sold to missionaries by the time Hore returned to Britain in late 1880. If they had been purchased from visiting Warua \[Luba\] as newly made carvings, it seems unlikely they would have shown signs of consecration through the addition of magical substances, or else might be expected to show more obvious signs of deconsecration, through their removal.
 
@@ -197,6 +217,9 @@ An image of one of these artefacts (Af1910,-.441) was included in a 1920 article
 
 > prevented them from seeing in these wooden sculptures and rare bronzes the only thing which matters — the element of essential beauty. We cannot feel this beauty until we have discarded the vulgar sentiment, — in itself a civilised barbarism…[^⁠65]
 
+{% figure "fig-c21-12" %}
+
+{% figure "fig-c21-13" %}
 
 Acknowledgements
 
