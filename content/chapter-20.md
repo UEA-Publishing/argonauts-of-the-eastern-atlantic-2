@@ -23,6 +23,8 @@ _725. Massue avec laquelle fut massacré le révérend J. Williams, missionaire_
 
 Rather than any old club, this was the weapon with which John Williams, the celebrated ‘Apostle to Polynesia’ was martyred on 20 November 1839, after he landed on the island of Erromango ([Chapter 15](https://argonauts2022.net/15-the-departure-of-the-camden/)). Why was its particular historical significance not recorded in the notebook alongside the sketch?
 
+{% figure "fig-c20-1" %}
+
 The notebook forms part of a series referred to as the ‘Franks Notebooks’.[^4] Augustus Wollaston Franks was a key figure at the British Museum during the second half of the nineteenth century, originally appointed as an assistant in the Department of Antiquities in 1851. Franks had been educated at Eton College and Trinity College in Cambridge, where he was an early member of the Cambridge Antiquarian Society, established in 1840. Working with the collections of the Royal Archaeological Institute, established in 1844, Franks had curated an exhibition of medieval art at the Society of Arts in 1850.
 
 The initial enthusiasms of Franks were predominantly Medieval, connecting him to the romantic idealisation of the period which arose in response to Britain’s rapid industrialisation during mid-nineteenth century. Key events included the publication of _Contrasts_ by Augustus Pugin in 1836, which sought for ‘a return to the faith and social structures of the Middle Ages’, the reception into the Catholic Church of the prominent Anglican priest, John Henry Newman in 1845, as well as the establishment of the Pre-Raphaelite Brotherhood of artists in 1848.
@@ -49,6 +51,12 @@ Such collections, whether from Britain or other parts of the world, were resiste
 
 _It does not seem right that such valuable space should be taken up by Esquimaix dresses, canoes and hideous feather idols, broken flints, called rude knives, and so on…_[^9]
 
+{% figure "fig-c20-2" %}
+
+{% figure "fig-c20-3" %}
+
+{% figure "fig-c20-4" %}
+
 Franks became disillusioned when he was passed over for Keeper in 1860, when the Antiquities department was split into three new departments (Greek and Roman Antiquities, Oriental Antiquities & Coins and Medals), with his own area (Medieval and British Antiquities and Ethnography) becoming a sub-Department of Oriental Antiquities. A month after Christy died, in June 1865 he expressed a desire to resign, but in a subsequent _Apology_ of his his life, stated:
 
 When Mr Christy told me that he had appointed me a trustee he said that if I wished the main collection to go to the Museum I must fight for it.[^10]
@@ -67,9 +75,13 @@ In May 1866, Franks was appointed Keeper of a new Department of British and Medi
 
 Presumably one reason the club from Erromanga’s status as a missionary ‘relic’ was not recorded was that it was assessed primarily in terms of its scientific value, in relation to the emerging field of Anthropology. This brought together ‘ethnography’, items from the non-European world, with archaeological discoveries from Europe in order to forge a new understanding of human history, extending back to its earliest beginnings. The fate of the missionary John Williams, less than three decades earlier, was far from a central concern to those attempting to rewrite the entire history of civilisation.[^15]
 
+{% figure "fig-c20-5" %}
+
 It might seem that these mid-century scientific preoccupations had little to do with the London Missionary Society, beyond shared connections with the anti-slavery and humanitarian movements. The overlapping membership of people like William Ellis (Chapter 19), however, meant that the Missionary Museum was also reshaped in the decade after the 1851 Great Exhibition, partly in response to such developments at other museums. On 25 June 1859, an article in the _Illustrated London News_ announced that the Missionary Museum:
 
 > has recently been rearranged in a most careful and intelligent manner by a son of the late Reverend John Williams, who was so barbarously murdered… These objects are now carefully labelled, so that we can pass along with both pleasure and instruction.[^16]
+
+{% figure "fig-c20-6" %}
 
 An accompanying image of the museum’s interior shows the same interior space lit by skylights that was depicted in images from 1843, 1847 and 1853, but now without the presiding giraffe ([Chapter 3](https://argonauts2022.net/the-giraffe/)). Only the ‘Gigantic Idol’ from Rarotonga ([Chapter 12](https://argonauts2022.net/12-a-gigantic-idol/)) still reaches up towards the light, although a number of other recognisable artefacts, including _Paramasattee_ ([Chapter 14](https://argonauts2022.net/14-paramasattee/)),  are located around a table at the centre of the room where a visiting family inspects them with interest.
 
@@ -115,11 +127,23 @@ Subsequent articles described cases of accumulated ‘idols and objects of super
 
 As an example, the case of items from China was described, including a mariner’s compass, porcelain, and ‘books printed when the inhabitants of Europe were ignorant of this important art’.[^32] Alongside these ‘proofs of the skill of this wonderful nation’, however, were miniature shoes worn by ‘Chinese ladies’ following foot binding, as well as opium paraphernalia associated with ‘death’ and ‘disease’ for ‘the wretched multitudes who use it’.[^33] Near these examples of ‘Chinese skill, and folly’ was a copy of the Bible, translated by Dr Morrison (Chapter 9), displayed as ‘the Book which can alone make men wise unto salvation, through faith in Christ Jesus’.[^34]
 
+{% figure "fig-c20-7" %}
+
+{% figure "fig-c20-8" %}
+
+{% figure "fig-c20-9" %}
+
+{% figure "fig-c20-10" %}
+
+{% figure "fig-c20-11" %}
+
 The article ended the series by noting that while many juvenile supporters might not be able to visit the Society’s far flung missions, they could more easily visit the museum at Blomfield Street in London, where:
 
 > The instruments of cruelty, the weapons of war, and the horrid idols once feared and worshipped, are themselves proofs that old things have passed away, as most of these are relics and trophies – tokens that the wicked customs and abominable idolatries of former days have been abandoned. Here, then, before our eyes, you may see what God hath wrought.[^35]
 
 Children reading the magazine were informed, in no uncertain terms, that the correct response to ‘some of the most curious and interesting objects ever exhibited’ was ‘more prayer and zeal for the world’s salvation than ever’.[^36] Given the central role allocated to the club that killed John Williams in this recently reimagined museum, how did it come to be removed from display and sent to Paris a mere six years later?
+
+{% figure "fig-c20-12" %}
 
 In December 1866, the _Missionary Magazine and Chronicle_ reported that representatives of several British Missionary Societies accepted an invitation to participate in the 1867 exhibition. It was reported that ‘various Continental Societies’ saw the exhibition for ‘showing what Protestantism is doing for the conversion of heathen nations’, since in Roman Catholic countries, and specially in France:
 
@@ -190,67 +214,6 @@ While printed words could be displayed alongside ‘idols’, weapons, and other
 
 > The dazzled man, captivated by the wonderful riches of the Exhibition, and tempted to glorify himself, may remember here that all the splendours of the magnificence and all the grandeur of the world are only a small glimmer of the greatness of God![^54]
 
-Although essentially dismissed by Vernes as ‘monotonous’ and ‘sometimes repulsive’ evidence of pre-Christian life , how far did the items displayed at Paris reflect the particular histories of Protestant missionary societies over the previous half-century? When considered according to the continent from which they originated, the largest number of objects came from Asia (599), accounting for nearly 40 per cent of the total. Every society listing material, except the Paris Evangelical Society, included Asian material. Over half this came from South Asia (341 items), presumably reflecting British dominance in the region — all the material displayed by the Netherlands Missionary Society came from Indonesia, a Dutch colonial possession. Of the 154 items from East Asia (mostly from China with a few items from Japan), 106 came from the London Missionary Society, 18 came from the Wesleyan Missionary Society and 15 each from the Church Missionary Society and the American Protestant Episcopal Mission.
-
-The next largest number of objects came from Africa (409), representing 27% of the total, with the largest contribution again made by the London Missionary Society (155 items), followed by the Paris Evangelical Society (119 items), reflecting the long-term engagements of both societies in southern Africa. While the Wesleyan Missionary Society displayed a further 47 items from southern Africa, they also displayed 27 items from West Africa. The Church Missionary Society displayed 38 items from West Africa, where their work on the continent concentrated.
-
-Although there was slightly less material from the Pacific than from Africa (391 items), representing just over 25 per cent of the total, well over half of this came from the London Missionary Society (214 items from across Polynesia), with smaller collections from the Wesleyans (98 items from New Zealand and Fiji) and the Paris Evangelical Society (61 items from Tahiti).[^55] A smaller group of items (18) from New Zealand were also displayed by the Church Missionary Society.
-
-Far less numerically represented were the Americas (95 items), representing just over 6 per cent of the total. The largest group of material was from the Church Missionary Society, relating to the work of the North West American Mission (established in 1822) in Canada, mostly at Hudson’s Bay. Other material from Canada was displayed by the Wesleyan Missionary Society (13 items), alongside material from the West Indies (5 items). Caribbean material was also displayed by the London Missionary Society (5 items) and the Moravians (5 items), who also displayed material from Greenland (8 items).
-
-While the material on display betrays a strong connection to British territorial possessions in India, southern Africa, and Australia, much of the material was actually collected in adjacent areas, beyond formal colonial control. The majority of material came from the islands of the Pacific, the interior of Africa as well as Hudson’s Bay where engagements were largely of a commercial, rather than formally colonial kind, and indigenous leaders continued to exert considerable autonomy. This mid-nineteenth century pattern, of missionary activity operating alongside trade was also essentially true in China, where missionaries arrived alongside traders, expanding into the mainland in the wake of the opium wars ([Chapter 16](https://argonauts2022.net/16-idol-taken-in-the-late-war/)).
-
-Even in British India, the colonial state was effectively run by a commercial trading corporation, the East India Company, at least until 1858 when the British State assumed direct control after the Indian Rebellion the previous year (the Dutch East India Company lost its control of Indonesia earlier, in 1800). Mid-nineteenth century Protestant missionary activity remained inseparable from free trade, at least in the British imagination, and it is perhaps unsurprising that many missionary societies were organised, like the LMS, along similar principles to joint-stock corporations, with headquarters in the City of London alongside trading companies. This pattern, however, began to change as a New Imperialism took shape across Europe in the final decades of the nineteenth century, fuelled in large part by competing nationalisms. Less than three years after the Paris exhibition, the French parliament declared war on Prussia, leading, in January 1871, to the fall of Paris.
-
-Produced in Paris in 1867, an album of 26 photographic albumen prints is now held at the Getty Research Institute in Los Angeles. It includes items from the _Musée des Missions Evangeliques_ at the _Exposition Universelle_.[^56] This demonstrates a degree of experimentation with the photographic process, with prints on gilt, silver and variously coloured paper. The images are composites, with images of numbered items arranged to fill the frame.
-
-A printed table makes it possible to identify the items, including many from the London Missionary Society such as the shaman’s rattle from Guiana (in [Plate 23](https://rosettaapp.getty.edu/delivery/DeliveryManagerServlet?dps_pid=IE376162) – [Chapter 5](https://argonauts2022.net/pehi/)), religious images of Jagannath from India (in [Plate 9](https://rosettaapp.getty.edu/delivery/DeliveryManagerServlet?dps_pid=IE376162) – [Chapter 6](https://argonauts2022.net/twenty-two-models-of-hindoo-deities/)), as well as that of Paramasattee (in [Plate 14](https://rosettaapp.getty.edu/delivery/DeliveryManagerServlet?dps_pid=IE376162) – [Chapter 14](https://argonauts2022.net/14-paramasattee/)).
-
-Of particular interest, however, is Plate 16, composed of six labelled images, several photographs in their own right. These were clearly intended to show people from Southern Africa before and after conversion, the change marked by the adoption of European clothing.
-
-While a number of clubs were included in the photographic album, that associated with the death of John Williams evidently was not. Recognisable images of John Williams’ club do feature in the archive of the London Missionary Society at SOAS, long after the majority of the collection transferred to The British Museum between 1890 and 1910 (Chapters 22 & 26).
-
-In November 1956, _News From Afar_, an updated version of the _Juvenile Missionary Magazine,_ included a photograph of the club alongside the pocket watch of James Harris, who was killed alongside John Williams, in an article with the headline _Love, Murder, Salvation_. The accompanying text recounts the arrival of Williams from the perspective of those on the shore, including Kauiaui, who seems to have presented his club to visiting missionaries in late 1853, after Samoan teachers had brought the new religion to Erromanga.[^57]
-
-In another series of images, also apparently from the mid-twentieth century, a modestly dressed young woman, most likely of Pacific ancestry, stands in front of a painting of John Williams holding the same club. It is not recorded in the archives  who she was, but the staging of this encounter, involving this ancestral missionary and his relics, was significant enough to be photographed.[^58]
-
-The club appears on a list of items still in the collection of the Council for World Mission (the successor of the LMS) in 1975, and seems to have been borrowed for an exhibition at Reading Museum in late 1982, although it disappears from the archival records shortly after that.[^59]
-
-Unlike many items, ‘No. 725’ from Erromanga was able to resist the process by which the majority of items in the Missionary Museum were gradually converted into ethnographic specimens during the decades that followed.
-
-Whether it was the 1867 Paris exhibition that first attracted the attention of Augustus Wollaston Franks at the British Museum is unclear. It would not be long, however, before the British Museum began to compete with the Missionary Museum as the most appropriate place in London for the storage and display of such items.
-
-Acknowledgements
-
-I am very grateful to Jim Hamill at the British Museum Centre for Anthropology Library for alerting me to the Franks notebooks as well as for providing me with a scan of the relevant page. It was Professor Nicholas Thomas who told me about the photographic album at the Getty in 2013, and I am grateful to Aimee Calfin for finally enabling me to see it in March 2023.
-
-I would like to acknowledge the work of Dr Alice Christophe in transcribing and translating the catalogue of the 1867 exhibition for me while she was completing her PhD, as well as the doctoral research of Gréine Jordan, which allowed me to locate the image in _News from Afar_.
-
-Material included here on Franks and the British Museum arose from a paper I presented as part of the Making National Museums (NaMu) project in Oslo in 2008, based on research I completed as part of the Other Within Project, led by Prof. Chris Gosden. I am grateful for the invitation to participate in NaMu from Profs. Arne Bugge Amundsen, Peter Aronsson and Simon Knell.
-
-{% figure "fig-c20-1" %}
-
-{% figure "fig-c20-2" %}
-
-{% figure "fig-c20-3" %}
-
-{% figure "fig-c20-4" %}
-
-{% figure "fig-c20-5" %}
-
-{% figure "fig-c20-6" %}
-
-{% figure "fig-c20-7" %}
-
-{% figure "fig-c20-8" %}
-
-{% figure "fig-c20-9" %}
-
-{% figure "fig-c20-10" %}
-
-{% figure "fig-c20-11" %}
-
-{% figure "fig-c20-12" %}
 
 {% figure "fig-c20-13" %}
 
@@ -268,15 +231,53 @@ Material included here on Franks and the British Museum arose from a paper I pre
 
 {% figure "fig-c20-20" %}
 
+Although essentially dismissed by Vernes as ‘monotonous’ and ‘sometimes repulsive’ evidence of pre-Christian life , how far did the items displayed at Paris reflect the particular histories of Protestant missionary societies over the previous half-century? When considered according to the continent from which they originated, the largest number of objects came from Asia (599), accounting for nearly 40 per cent of the total. Every society listing material, except the Paris Evangelical Society, included Asian material. Over half this came from South Asia (341 items), presumably reflecting British dominance in the region — all the material displayed by the Netherlands Missionary Society came from Indonesia, a Dutch colonial possession. Of the 154 items from East Asia (mostly from China with a few items from Japan), 106 came from the London Missionary Society, 18 came from the Wesleyan Missionary Society and 15 each from the Church Missionary Society and the American Protestant Episcopal Mission.
+
+The next largest number of objects came from Africa (409), representing 27% of the total, with the largest contribution again made by the London Missionary Society (155 items), followed by the Paris Evangelical Society (119 items), reflecting the long-term engagements of both societies in southern Africa. While the Wesleyan Missionary Society displayed a further 47 items from southern Africa, they also displayed 27 items from West Africa. The Church Missionary Society displayed 38 items from West Africa, where their work on the continent concentrated.
+
+Although there was slightly less material from the Pacific than from Africa (391 items), representing just over 25 per cent of the total, well over half of this came from the London Missionary Society (214 items from across Polynesia), with smaller collections from the Wesleyans (98 items from New Zealand and Fiji) and the Paris Evangelical Society (61 items from Tahiti).[^55] A smaller group of items (18) from New Zealand were also displayed by the Church Missionary Society.
+
+Far less numerically represented were the Americas (95 items), representing just over 6 per cent of the total. The largest group of material was from the Church Missionary Society, relating to the work of the North West American Mission (established in 1822) in Canada, mostly at Hudson’s Bay. Other material from Canada was displayed by the Wesleyan Missionary Society (13 items), alongside material from the West Indies (5 items). Caribbean material was also displayed by the London Missionary Society (5 items) and the Moravians (5 items), who also displayed material from Greenland (8 items).
+
+While the material on display betrays a strong connection to British territorial possessions in India, southern Africa, and Australia, much of the material was actually collected in adjacent areas, beyond formal colonial control. The majority of material came from the islands of the Pacific, the interior of Africa as well as Hudson’s Bay where engagements were largely of a commercial, rather than formally colonial kind, and indigenous leaders continued to exert considerable autonomy. This mid-nineteenth century pattern, of missionary activity operating alongside trade was also essentially true in China, where missionaries arrived alongside traders, expanding into the mainland in the wake of the opium wars ([Chapter 16](https://argonauts2022.net/16-idol-taken-in-the-late-war/)).
+
+Even in British India, the colonial state was effectively run by a commercial trading corporation, the East India Company, at least until 1858 when the British State assumed direct control after the Indian Rebellion the previous year (the Dutch East India Company lost its control of Indonesia earlier, in 1800). Mid-nineteenth century Protestant missionary activity remained inseparable from free trade, at least in the British imagination, and it is perhaps unsurprising that many missionary societies were organised, like the LMS, along similar principles to joint-stock corporations, with headquarters in the City of London alongside trading companies. This pattern, however, began to change as a New Imperialism took shape across Europe in the final decades of the nineteenth century, fuelled in large part by competing nationalisms. Less than three years after the Paris exhibition, the French parliament declared war on Prussia, leading, in January 1871, to the fall of Paris.
+
 {% figure "fig-c20-21" %}
 
 {% figure "fig-c20-22" %}
+
+Produced in Paris in 1867, an album of 26 photographic albumen prints is now held at the Getty Research Institute in Los Angeles. It includes items from the _Musée des Missions Evangeliques_ at the _Exposition Universelle_.[^56] This demonstrates a degree of experimentation with the photographic process, with prints on gilt, silver and variously coloured paper. The images are composites, with images of numbered items arranged to fill the frame.
+
+A printed table makes it possible to identify the items, including many from the London Missionary Society such as the shaman’s rattle from Guiana (in [Plate 23](https://rosettaapp.getty.edu/delivery/DeliveryManagerServlet?dps_pid=IE376162) – [Chapter 5](https://argonauts2022.net/pehi/)), religious images of Jagannath from India (in [Plate 9](https://rosettaapp.getty.edu/delivery/DeliveryManagerServlet?dps_pid=IE376162) – [Chapter 6](https://argonauts2022.net/twenty-two-models-of-hindoo-deities/)), as well as that of Paramasattee (in [Plate 14](https://rosettaapp.getty.edu/delivery/DeliveryManagerServlet?dps_pid=IE376162) – [Chapter 14](https://argonauts2022.net/14-paramasattee/)).
+
+Of particular interest, however, is Plate 16, composed of six labelled images, several photographs in their own right. These were clearly intended to show people from Southern Africa before and after conversion, the change marked by the adoption of European clothing.
+
+While a number of clubs were included in the photographic album, that associated with the death of John Williams evidently was not. Recognisable images of John Williams’ club do feature in the archive of the London Missionary Society at SOAS, long after the majority of the collection transferred to The British Museum between 1890 and 1910 (Chapters 22 & 26).
+
+In November 1956, _News From Afar_, an updated version of the _Juvenile Missionary Magazine,_ included a photograph of the club alongside the pocket watch of James Harris, who was killed alongside John Williams, in an article with the headline _Love, Murder, Salvation_. The accompanying text recounts the arrival of Williams from the perspective of those on the shore, including Kauiaui, who seems to have presented his club to visiting missionaries in late 1853, after Samoan teachers had brought the new religion to Erromanga.[^57]
 
 {% figure "fig-c20-23" %}
 
 {% figure "fig-c20-24" %}
 
+In another series of images, also apparently from the mid-twentieth century, a modestly dressed young woman, most likely of Pacific ancestry, stands in front of a painting of John Williams holding the same club. It is not recorded in the archives  who she was, but the staging of this encounter, involving this ancestral missionary and his relics, was significant enough to be photographed.[^58]
+
+The club appears on a list of items still in the collection of the Council for World Mission (the successor of the LMS) in 1975, and seems to have been borrowed for an exhibition at Reading Museum in late 1982, although it disappears from the archival records shortly after that.[^59]
+
+Unlike many items, ‘No. 725’ from Erromanga was able to resist the process by which the majority of items in the Missionary Museum were gradually converted into ethnographic specimens during the decades that followed.
+
+Whether it was the 1867 Paris exhibition that first attracted the attention of Augustus Wollaston Franks at the British Museum is unclear. It would not be long, however, before the British Museum began to compete with the Missionary Museum as the most appropriate place in London for the storage and display of such items.
+
 {% figure "fig-c20-25" %}
+
+Acknowledgements
+
+I am very grateful to Jim Hamill at the British Museum Centre for Anthropology Library for alerting me to the Franks notebooks as well as for providing me with a scan of the relevant page. It was Professor Nicholas Thomas who told me about the photographic album at the Getty in 2013, and I am grateful to Aimee Calfin for finally enabling me to see it in March 2023.
+
+I would like to acknowledge the work of Dr Alice Christophe in transcribing and translating the catalogue of the 1867 exhibition for me while she was completing her PhD, as well as the doctoral research of Gréine Jordan, which allowed me to locate the image in _News from Afar_.
+
+Material included here on Franks and the British Museum arose from a paper I presented as part of the Making National Museums (NaMu) project in Oslo in 2008, based on research I completed as part of the Other Within Project, led by Prof. Chris Gosden. I am grateful for the invitation to participate in NaMu from Profs. Arne Bugge Amundsen, Peter Aronsson and Simon Knell.
 
 {% backmatter %}
 
@@ -404,3 +405,4 @@ Reed & Pardon, who printed the catalogue, were established in 1849 but ceased to
 
 
 {% endbackmatter %}
+
