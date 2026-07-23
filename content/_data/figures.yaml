@@ -1284,7 +1284,115 @@ figure_list:
     caption: "Wooden Representations of the Spirits of Ancestors. Printed in The English Illustrated Magazine, XXI, No. 187, 1897."
     credit: "JSTOR Images"
     alt: "Wooden carvings representing ancestral spirits from Central Africa, showcasing intricate details and cultural significance."
-
+  - id: “fig-c22-1”
+    src: figures/part-2/22/c22-1.jpg
+    label: “fig-c22-1”
+    caption: “Fish Trap with labels attached Rather, they seem to have been sent to London by James Chalmers, a contemporary of Thompson’s at Cheshunt College back in the early 1860s.⁠6 Chalmers sailed to the Pacific in the missionary ship, John Williams II, when it left Britain for the first time in early 1866. Surviving two shipwrecks, he eventually arrived at Rarotonga on 20 May 1867. After a decade there, during which he acquired a new name, Tamate (the Rarotongan pronunciation of Chalmers), he was sent to assist the society’s newest Pacific mission, that to New Guinea.⁠7”
+    credit: “© The Trustees of the British Museum. Oc1894,-.140”
+    alt: “Small handmade fish trap made of tied, spiked wooden sticks against a black background.”
+  - id: “fig-c22-2”
+    src: figures/part-2/22/c22-2.jpg
+    label: “fig-c22-2”
+    caption: “Contemporary Monument commemorating the Surprise On a beach near Kemus on the island of Erub, Torrest Straits”
+    credit: “Photograph I Miller, Queensland Museum”
+    alt: “White cross monument with red accents on a blue platform, surrounded by tropical greenery and trees.”
+  - id: “fig-c22-3”
+    src: figures/part-2/22/c22-3.jpg
+    label: “fig-c22-3”
+    caption: “'New Guinea Pioneers' W.G. Lawes, S. McFarlane and J. Chalmers. Published in Among the Cannibals of New Guinea. being the story of the New Guinea mission of the London Missionary Society by Samuel McFarlane, 1888.”
+    credit: “Internet Archive (Public Domain)”
+    alt: “Black and white portraits of three bearded men, pioneers of the New Guinea Mission. W.G. Lawes, S. McFarlane, and J. Chalmers.”
+  - id: “fig-c22-4”
+    src: figures/part-2/22/c22-4.jpg
+    label: “fig-c22-4”
+    caption: “Kiwai, Fly River'. Title page for Chapter 2, in Among the Cannibals of New Guinea. being the story of the New Guinea mission of the London Missionary Society by Samuel McFarlane, 1888, p.25.”
+    credit: “Internet Archive (Public Domain)”
+    alt: “Illustration of a riverside village with thatched huts and canoes on Kiwai, Fly River, New Guinea, from a vintage book page.”
+  - id: “fig-c22-5”
+    src: figures/part-2/22/c22-5.png
+    label: “fig-c22-5”
+    caption: “The First Collection'. Items given at the first annual collection in aid of the London Missionary Society at Port Moresby in Mary 1891. Published in  Lawes, W.G. 1891. May Meeting at Port Moresby, Chronicle of the London Missionary Society, February 1891, pp. 41-47”
+    credit: “SOAS Library. Council for World Mission Archive”
+    alt: “Black and white drawing of various woven baskets, pottery, and braided ropes arranged on and around a wooden table.”
+  - id: “fig-c22-6”
+    src: figures/part-2/22/c22-6.jpg
+    label: “fig-c22-6”
+    caption: “Shell armlet (Mwali). Acquired from Rev. William Wyatt Gill in 1882 by A.W. Franks and given to the British Museum in April 1884.”
+    credit: “© The Trustees of the British Museum. Oc,+.2273”
+    alt: “White circular bracelet with dark beads and string fastening on a light gray background.”
+  - id: “fig-c22-7”
+    src: figures/part-2/22/c22-7.jpg
+    label: “fig-c22-7”
+    caption: “The London Mission House in 1878. Printed to mark the enlargement of the mission house, the museum having been ‘transferred to the upper floor of the main building’. Published in the Chronicle of the London Missionary Society, January 1878, p.2.”
+    credit: “SOAS Library. Council for World Mission Archive”
+    alt: “Black and white illustration of a historic three-story building labeled “The London Mission House” with people on the pavement.”
+  - id: “fig-c22-8”
+    src: figures/part-2/22/c22-8.jpg
+    label: “fig-c22-8”
+    caption: “Gelatin Silver Print. Showing a Tahitian heva club (Oc,LMS.90) lent to the British Museum in 1890. Towards the bottom of the photograph a white label on the club declares ‘L.M.S. Loan 1890. No.’ with space for a number to be added. Another, older, handwritten label is below this.”
+    credit: “© The Trustees of the British Museum. Oc,A69.38”
+    alt: “Antique wooden club adorned with feathers and teeth, photographed against a plain background.”
+  - id: “fig-c22-9”
+    src: figures/part-2/22/c22-9.png
+    label: “fig-c22-9”
+    caption: “S.E. Pacific Sacred Objects. (London Missionary Society Coll.). Published as Plate XII in Charles Hercules Read’s 1892 article in the Journal of the Anthropological Institute, 21, pp.139-159.”
+    credit: “JSTOR”
+    alt: “Illustration of 14 sacred objects from the SE Pacific, including carved staffs, ceremonial blades, and a double-figure sculpted seat.”
+  - id: “fig-c22-10”
+    src: figures/part-2/22/c22-10.png
+    label: “fig-c22-10”
+    caption: “S.E. Pacific Sacred Objects. (London Missionary Society Coll.). Published as Plate XIV in Charles Hercules Read’s 1892 article in the Journal of the Anthropological Institute, 21, pp.139-159.”
+    credit: “JSTOR”
+    alt: “Illustration of S.E. Pacific sacred objects and Mangaian ornaments, including carved figures, patterns, and ceremonial staffs.”
+  - id: “fig-c22-11”
+    src: figures/part-2/22/c22-11.jpg
+    label: “fig-c22-11”
+    caption: “Cover of the Stanley and African Exhibition Catalogue. Published in 1890.”
+    credit: “Smithsonian Libraries (SIL-SIL28-303-01)”
+    alt: “Cover of “The Stanley and African Exhibition Catalogue” featuring a man in explorer attire tipping his hat by a tree.”
+  - id: “fig-c22-12”
+    src: figures/part-2/22/c22-12.jpg
+    label: “fig-c22-12”
+    caption: “Reported Income and expenditure between 1877 and 1894. Note the continually rising expenditure, apart from reductions in 1889 and 1890, as well as the variable income, with a significant downturn after 1889. Figures taken from Richard Lovett (1899) The History of the London Missionary Society 1795-1895.”
+    credit: “Produced by Chris Wingfield”
+    alt: “Line graph showing LMS income and expenditure from 1879 to 1894, with expenditure generally rising above income over time.”
+  - id: “fig-c22-13”
+    src: figures/part-2/22/c22-13.jpg
+    label: “fig-c22-13”
+    caption: “Banner image of the Chronicle between 1892 and 1900”
+    credit: “SOAS Library. Council for World Mission Archive. CWML H724 & G459”
+    alt: “Black and white illustration featuring ethnographic artifacts, animal tusks, arrows, and text “The Chronicle of the London Missionary Society.”“
+  - id: “fig-c22-14”
+    src: figures/part-2/22/c22-14.jpg
+    label: “fig-c22-14”
+    caption: “Savage Life in New Guinea'. Note the prominent place given to ‘man-catchers’. Published as the frontispiece image in James Chalmers and William Wyatt Gill’s 1885 book Work and Adevnture in New Guinea, 1877 to 1885.”
+    credit: “University of Birmingham, Cadbury Research Library”
+    alt: “Illustration of indigenous New Guinea people in traditional attire running and wielding weapons in a tropical, palm-filled landscape.”
+  - id: “fig-c22-15”
+    src: figures/part-2/22/c22-15.jpg
+    label: “fig-c22-15”
+    caption: “Bamboo Knife. ‘Said to be used for cutting the head of slain. Fly River’. Donated by A.W. Franks in 1882-3, who purchased material from the dealer Gerrard, who acquired it from Rev. Samuel MacFarlane”
+    credit: “© The Trustees of the British Museum.  Oc,+. 1675”
+    alt: “Woven oblong with braided cord holding a dark wooden rectangular object against an orange background.”
+  - id: “fig-c22-16”
+    src: figures/part-2/22/c22-16.jpg
+    label: “fig-c22-16”
+    caption: “Fish traps at the Pitt Rivers Museum, Oxford. The two on the right were purchased by Henry Balfour in 1910 when the Missionary Museum closed. That on the left was donated by James Edge Partington in 1925.”
+    credit: “Pitt Rivers Museum (1925.26.2, 1910.62.73 & 1910.62.74)”
+    alt: “Three small traditional fish traps from New Guinea displayed on a white surface with labeled tags from early 1900s.”
+  - id: “fig-c22-17”
+    src: figures/part-2/22/c22-17.jpg
+    label: “fig-c22-17”
+    caption: “Nine Fish Traps at the British Museum. On the left are five that were originally kept as ‘Dups’ or duplicates. On the right are the four that were accessioned together in March 1894.”
+    credit: “© The Trustees of the British Museum. Oc1980,Q.886 & Oc1894,-.140-143”
+    alt: “Several small, cone-shaped woven rattan or straw decorative ornaments with attached tags, displayed on a black fabric background.”
+  - id: “fig-c22-18”
+    src: figures/part-2/22/c22-18.jpg
+    label: “fig-c22-18”
+    caption: “Bullroarer, acquired in 1894. With labels applied evidently applied by both the LMS and the British Museum.”
+    credit: “© The Trustees of the British Museum. Oc1894,-.105”
+    alt: “Long, narrow wooden artifact with hole at top, featuring two vintage labels and carved geometric patterns on dark background.”
+    
   - id: "cat-2-1"
     src: figures/cat-1860/cat-2-1.jpg
     label: "1860 Catalogue, p.1"
