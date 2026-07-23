@@ -179,6 +179,26 @@ _1. Buruma Matamu. Roaring Bull. When used all women & children & initiated youn
 
 Even in a list of seemingly scientific specimens, including a series of fairly ordinary fish traps, the Missionary preference for secret items, associated with sacred ceremonies, ensured that it was the Bull Roarer, according to Haddon the first obtained on the New Guinea mainland, which appeared first on the list.
 
+{% figure "fig-c22-1" %}
+{% figure "fig-c22-2" %}
+{% figure "fig-c22-3" %}
+{% figure "fig-c22-4" %}
+{% figure "fig-c22-5" %}
+{% figure "fig-c22-6" %}
+{% figure "fig-c22-7" %}
+{% figure "fig-c22-8" %}
+{% figure "fig-c22-9" %}
+{% figure "fig-c22-10" %}
+{% figure "fig-c22-11" %}
+{% figure "fig-c22-12" %}
+{% figure "fig-c22-13" %}
+{% figure "fig-c22-14" %}
+{% figure "fig-c22-15" %}
+{% figure "fig-c22-16" %}
+{% figure "fig-c22-17" %}
+{% figure "fig-c22-18" %}
+
+
 {% backmatter %}
 
 ## Notes
