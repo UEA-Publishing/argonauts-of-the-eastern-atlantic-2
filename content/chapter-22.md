@@ -42,6 +42,10 @@ Having selected and sent evangelists from Rarotonga to the New Guinea mission fr
 
 Chalmers returned to Britain during the period 1886-7, where his tales of pioneering missionary adventures captivated the crowds. He also became associated with a series of popular books published by the Religious Tract Society which included _Work and Adventure in New Guinea 1877 to 1885_ with fellow missionary W. Wyatt Gill in 1885, _Adventures in New Guinea_ published in 1886 and _Pioneering in New Guinea_ published in 1887. When British New Guinea was formally annexed as a British colony in 1888, Chalmers returned to continue his role as intermediary in negotiations between local chiefs and colonial administrators.[^13] 
 
+{% figure "fig-c22-2" %}
+
+{% figure "fig-c22-3" %}
+
 At the beginning of 1890, Chalmers accompanied the new colony’s Governor, Sir William McGregor, on a tour of inspection in the Government yacht, the _Merrie England_, which included an attempted trip up the Fly River. After visiting local evangelists, sent to the area by Macfarlane, Chalmers wrote to London of his disappointment. The teachers were living in dilapidated houses and, according to Chalmers, ‘seemed terribly depressed’, although he acknowledged that this was in part the result of illness.[^14]
 
 At the request of the Directors in London, Chalmers established a base for himself at Saguane, at the southern tip of Kiwai Island during 1892. Towards the end of that year he purchased a steam launch, the _Miro_, in which he (somewhat unsuccessfully) attempted to travel up the Fly River. In the first village Tamate visited he was struck by the appearance of the men’s beards, which were ‘very long and wound round on the chin to a knot’. Deciding to purchase one, he then ‘cut it off myself and folded it away in brown paper’.[^15] When he attempted to purchase some drums at the next village, ‘not even a [metal] tomahawk would persuade them to do so’.[^16]
@@ -61,6 +65,10 @@ While there were more converts at Parama, it seems likely that the fish traps ca
 
 This apparently matches the traps sold to the British Museum nine years earlier, even if the local name eonea is different to that given in the 1894 list, Kāro. Nevertheless, the sale of this collection, possibly among the first fruits of Christian conversion at the mouth of the Fly River, illustrates something important about the close connections between British missionaries and museum curators by the 1890s.
 
+{% figure "fig-c22-4" %}
+
+{% figure "fig-c22-5" %}
+
 Edward Coode Hore, who gave several items from Central Africa to the Missionary Museum in the early 1880s (Chapter 21), returned in 1889 with a collection of around 30 artefacts that he donated to The British Museum.[^22] Even earlier, in 1876, Chalmers’ co-author William Wyatt Gill, LMS missionary to Mangaia in the Cook Islands between 1852 and 1872, sold part of his collection to the British Museum curator A.W. Franks, having given other items to the University Museum of Natural History in Oxford following his return to Britain in 1873.[^23] Chalmers himself seems to have also been the source of around 20 items from New Guinea, donated to the British Museum in 1891 by the British Museum curator A.W. Franks.[^24]
 
 What I have called the ‘Missionary Exhibitionary Complex’ (Chapter 13), developed within evangelical circles during the first half of the nineteenth century, significantly shaped the way that anthropology was institutionalised at Britain’s public museums during the last three decades of that century - a process that saw the transfer of large numbers of missionary collected artefacts into these collections.
@@ -70,6 +78,10 @@ Following the Christy bequest, and his appointment as Keeper of the British Muse
 Extensions to the Mission House in Blomfield Street in 1878 involved relocating the Missionary Museum from ‘the midst of the back land’ to a newly built upper floor of the main building, where, according to the _Evangelical Magazine and Missionary Chronicle_, it was ‘carefully arranged in the new cases provided for it’. An account of the museum at this time noted that the collection had ‘accumulated during a long course of years by the agents of the Society in all lands’.[^25] Attention was drawn to the ‘especially rich’ collection of ‘South Sea Idols, the use of which has long since passed away from that sphere of the Society’s labours’.[^26] The collection was evidently increasingly associated with the history of the London Missionary Society, and the irreplaceable nature of its extremely rare contents, a result of successful missionary activity, was emphasised. This seems to have led to a proposal from the Literature Committee in February 1885:
 
 > That the Board sanction the selection of sets of objects of interest from the Society’s Museum for use when required for exhibition at meetings of various kinds.[^27]
+
+{% figure "fig-c22-6" %}
+
+{% figure "fig-c22-7" %}
 	
 An important condition of this proposal was that ‘nothing shall be allowed to leave the Mission House for the purposes of such loan exhibitions except such articles as are definitely set apart as a loan collection’.[^28] This resulted in an institutional separation between the loan collection and the museum collection, which by implication had become static and effectively confined to the attic.
 
@@ -105,6 +117,12 @@ At the same time, he was clear that ‘the ethnological importance of these spec
 
 While Read recognized the value the artefacts had acquired by association with famous LMS missionaries, he simultaneously suggested that ‘the ethnological importance of these specimens’ was unconnected to their connections with missionary endeavour (and the obvious ways in which this constituted a significant form of disturbing ‘European influence’). Rather than their presence in London providing evidence for successful evangelisation, these artefacts, after transfer to the British Museum, became a way to illustrate life in Polynesia before missionary (as well as other European) influence. It is noteworthy that the selection of artefacts made by the British Museum, like the items sent from New Guinea, showed minimal use of European or industrially manufactured materials. In some ways, this parallels an earlier missionary claim that the Missionary Museum showed ‘what men are without the Gospel’.[^39] 
 
+{% figure "fig-c22-8" %}
+
+{% figure "fig-c22-9" %}
+
+{% figure "fig-c22-10" %}
+
 By contrast, what was considered to be of distinctive ‘missionary interest’, at least according to Read, were the ways in which specific items related to the Society’s history, particularly through connections to famous missionaries. Such emphasis on associations with ‘heroically framed’ European travellers does not seem to have been restricted to the LMS. In March 1890, a month after the LMS Directors agree to lend material to the British Museum, they agreed to a shorter-term loan of ‘African curiosities’ to the Stanley and African Exhibition, the overseeing committee of which included representatives from a number of missionary societies, as well as Read from the British Museum.[^40] 
 
 The catalogue of the Stanley and African Exhibition suggests it was concerned with ‘the romantic history of the Dark Continent’, with its catalogue emphasising that exhibits in the ‘native section’, apart from:
@@ -112,6 +130,8 @@ The catalogue of the Stanley and African Exhibition suggests it was concerned wi
 _showing the manner in which the negroes live, have an added interest in having been in a considerable degree collected by well-known travelers and missionaries during famous expeditions._[^41]					
 
 Through such associations with such high profile London exhibitions, the Directors of the LMS presumably intended to gain prestige, or at least a recognition for the early role the Society had played in the history of British engagements with other parts of the world, many of which had recently become part of Britain’s formal empire. It is easy to see why Nonconformist missionaries have been regarded as ‘among the earliest footsoldiers of British colonialism’, but that may be a way of reading history backwards, attributing intentionality and directionality to a process that was not always so clear, at least during the earliest moves in the game.[^42]
+
+{% figure "fig-c22-11" %}
 
 The British Empire certainly saw a considerable expansion in colonial possessions and territory during the final decades of the nineteenth century, often in areas where British Nonconformist missionaries had previously operated such as Central Africa. These expansions, however, were frequently driven by competition with other expanding global powers, as well as by the discovery of new mineral resources. In some early locations of LMS missionary activity such as Tahiti and the Loyalty Islands, it was ultimately other empires that incorporated them as formal colonies.
 
@@ -128,7 +148,11 @@ Signs of a shifting attitude to the society’s collections, however, can be see
 The official history of the London Missionary Society, published in 1899, suggested the 1880s had been marked by: 'A constant growth of work and of opportunity, and at the same time an income not at all expansive in proportion to the steadily increasing demands upon it. The result was a chronic and very large deficit.'[^49]
 Significant changes were introduced in 1890, but a fundraising push during 1891 and 1892 could not be sustained, especially when combined with an increase in missionary ambitions. The result was a deficit of over £25,000 by 1894. The sale of artefacts evidently provided a potential alternative source of income. There is little evidence that much was sold from the Society’s museum immediately, but it is in this context that the sale of ‘curios’, such as the fish traps, to public museums across the British Isles should be understood. Also part of the attempt to tackle the accumulated deficit, the Home Board agreed to ‘adopt a more modern shape and get up’ for the _Missionary Chronicle_ in February 1891 ‘with a view to more effective illustration and an enlarged circulation’.[^50] 
 
-As a result, its cover between 1892 and 1900 featured a banner dominated by overseas artefacts, albeit arranged around a bible illuminated by divine light. Shortly afterwards, _News from Afar_, a re-branded version of what had once been the _Juvenile Missionary Magazine_, was bound into an annual cover featuring a similar treasure trove of exotic curiosities. Many are Pacific artefacts, but the inclusion of palm leaves, coconuts, two ivory tusks and a tiger’s skin create the sense of a crowded Victorian parlour, presumably not unlike the Missionary Museum itself. 
+As a result, its cover between 1892 and 1900 featured a banner dominated by overseas artefacts, albeit arranged around a bible illuminated by divine light. Shortly afterwards, _News from Afar_, a re-branded version of what had once been the _Juvenile Missionary Magazine_, was bound into an annual cover featuring a similar treasure trove of exotic curiosities. Many are Pacific artefacts, but the inclusion of palm leaves, coconuts, two ivory tusks and a tiger’s skin create the sense of a crowded Victorian parlour, presumably not unlike the Missionary Museum itself.
+
+{% figure "fig-c22-12" %}
+
+{% figure "fig-c22-13" %}
 
 While the 1890 loan to the British Museum involved reframing the artefacts involved as ethnographic specimens, other items increasingly seem to have been made specifically to be sold, sometimes in fairly large numbers. Michael O’Hanlon has drawn attention to some aspects of this process through his detailed exploration of the ‘man-catcher’, a peculiar artefact from New Guinea which he describes as a ‘mixture of stringless tennis racket and garotte’.[^51] 
 
@@ -142,6 +166,8 @@ O’Hanlon ultimately suggests that Chalmers’ disproportionate concern with he
 > every skull he sees is the result of a cannibal raid, and every dark stain within a longhouse to be congealed blood from earlier human meals, every local sign of interest in Chalmers’s own person culinary’.[^55] 
 
 While O’Hanlon considered a number of possibilities to explain the genesis of man-catchers, he tends towards the idea that missionaries, through their preoccupation with cannibalism and head-hunting, influenced their creation ‘or at least their ubiquity in museum collections’.[^56] In arguing this, he draws on Torrence’s work on obsidian-tipped artefacts from the Admiralty Islands in museum collections. This suggested that at this period ‘only a small proportion of the objects stored in museums are likely to have been manufactured by local people solely for their own use or for exchange within their own cultural context’, a suggestion reinforced by subsequent research on contemporary collections from Central Africa.[^57]
+
+{% figure "fig-c22-14" %}
 
 Whatever function ‘man-catchers’ may, or may not, have had in their original contexts of production, O’Hanlon argues that having been collected, they rapidly acquired a role as ‘ideological props in debates about the people of New Guinea’.[^58] This allowed them to stand in for civilization’s 'others'. If Life in New Guinea, prior to the civilizing influence of the missionaries, was presented as an endless round of 'man-catching and 'cannibal feasts', this implied that it was the ‘progress of‘civilization’ that enabled the British to behave differently, even if it was acknowledged that their ancestors engaged in similar activities in the more distant past.
 
@@ -161,7 +187,13 @@ While no similar fish traps seem to have been acquired by the Museum of General 
 
 The items are described within the report as coming from the ‘Mouth of the Fly River’ but the following year’s Annual Report included a correction: ‘for Rev. W.G. Lawes, read Rev. J. Chalmers’.[^65] This confirms the primary association of the collection with Chalmers, suggesting at least some of the collection sent to Britain was sold to Cambridge, as well as the British Museum. 
 
-Five years earlier, James Chalmers had established a relationship with the Cambridge-trained Biologist, Alfred Cort Haddon, during the latter’s first expedition to the Torres Strait. On 5 January 1889, Chalmers wrote to Haddon, then staying with LMS missionaries on Mer, telling him that ‘I am sorry with a big, big sorrow that I did not take up Anthropology on my arrival in New Guinea...’.[^66] 
+Five years earlier, James Chalmers had established a relationship with the Cambridge-trained Biologist, Alfred Cort Haddon, during the latter’s first expedition to the Torres Strait. On 5 January 1889, Chalmers wrote to Haddon, then staying with LMS missionaries on Mer, telling him that ‘I am sorry with a big, big sorrow that I did not take up Anthropology on my arrival in New Guinea...’.[^66]
+
+{% figure "fig-c22-15" %}
+
+{% figure "fig-c22-16" %}
+
+{% figure "fig-c22-17" %}
 
 They evidently bonded over a shared interest in the subject and another letter, sent by Chalmers in May 1889 referred to him ‘collecting from various tribes’.[^67] Another, in December of the same year, sees Chalmers explain that:
 
@@ -178,39 +210,6 @@ Chalmers had twice noted the ceremonial significance of this item in his 1889 le
 _1. Buruma Matamu. Roaring Bull. When used all women & children & initiated young men leave the village & go into the bush. When to be shewn to a young man it will be near yam season, May & June, & then the old men work it. The yams are ready for digging & the young men are shewn The Buruma: Maramu._[^72]
 
 Even in a list of seemingly scientific specimens, including a series of fairly ordinary fish traps, the Missionary preference for secret items, associated with sacred ceremonies, ensured that it was the Bull Roarer, according to Haddon the first obtained on the New Guinea mainland, which appeared first on the list.
-
-
-{% figure "fig-c22-2" %}
-
-{% figure "fig-c22-3" %}
-
-{% figure "fig-c22-4" %}
-
-{% figure "fig-c22-5" %}
-
-{% figure "fig-c22-6" %}
-
-{% figure "fig-c22-7" %}
-
-{% figure "fig-c22-8" %}
-
-{% figure "fig-c22-9" %}
-
-{% figure "fig-c22-10" %}
-
-{% figure "fig-c22-11" %}
-
-{% figure "fig-c22-12" %}
-
-{% figure "fig-c22-13" %}
-
-{% figure "fig-c22-14" %}
-
-{% figure "fig-c22-15" %}
-
-{% figure "fig-c22-16" %}
-
-{% figure "fig-c22-17" %}
 
 {% figure "fig-c22-18" %}
 
