@@ -18,7 +18,7 @@ There are several small spiky traps that match this description. Four at the Bri
 CHRISTY FUND. 
 L.M.S. 8. MAR. 94
 
-{% figure "fig-c22-1" %}
+{% figure 'fig-c22-1' 'is-pulled-right' %}
 
 Added below in black pen are a sequence of numbers, in one example reading '72. 94-140’. ‘Christy Fund’ suggests that the traps were purchased with funds derived from Henry Christy’s bequest, nearly 30 years earlier (Chapter 20), while 94-140 tells us that this was the 140th item purchased in 1894.[^1]
 
