@@ -33,7 +33,7 @@ Following their arrival at Ujiji, Hore and Hutley lost no time establishing rela
 
 Reinforcements arrived in September 1879 in the form of two young missionary recruits. One of these, William Griffith, would establish a mission station at Mtowa \[Mutoa\] north of the Lukuga River on the western shore of Lake Tanganyika, in what is now the Democratic Republic of the Congo.[^6] Kasanga Mohongoro, the most important regional chief, was welcoming and provided land, food and labourers to assist in establishing the station. The missionaries called this Plymouth Rock, after the place the Mayflower pilgrims disembarked in 1620, on their arrival in North America.[^7]
 
-In 1880, following the arrival of a third LMS expedition, Hore returned to England to oversee the construction of a missionary steamer, arriving home on 23 February 1881.[^8] The _Good News_ was designed for lake conditions and transported from the East African coast in pieces, to be assembled on the shores of Lake Tanganyika and eventually launched in March 1885.[^9]
+In **1880**, following the arrival of a third LMS expedition, Hore returned to England to oversee the construction of a missionary steamer, arriving home on 23 February 1881.[^8] The _Good News_ was designed for lake conditions and transported from the East African coast in pieces, to be assembled on the shores of Lake Tanganyika and eventually launched in March 1885.[^9]
 
 {% figure "fig-c21-3" %}
 
