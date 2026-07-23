@@ -18,6 +18,8 @@ There are several small spiky traps that match this description. Four at the Bri
 CHRISTY FUND. 
 L.M.S. 8. MAR. 94
 
+{% figure "fig-c22-1" %}
+
 Added below in black pen are a sequence of numbers, in one example reading '72. 94-140’. ‘Christy Fund’ suggests that the traps were purchased with funds derived from Henry Christy’s bequest, nearly 30 years earlier (Chapter 20), while 94-140 tells us that this was the 140th item purchased in 1894.[^1]
 
 Consulting the Christy register on the relevant page, I found a sketch of one of the four ‘Small pyramidal fish traps’ listed together (94-140, 94-141, 94–142 and 94.143). On the opposite page is an alternative description — the title of this chapter.[^2] The number at the beginning of this description — 72 — was also added in pen to the label, before the Christy collection number. This refers to a handwritten numbered list from which the description comes. Kept in the British Museum archives, its first page has the simple title:
