@@ -163,7 +163,7 @@ Five years earlier, James Chalmers had established a relationship with the Cambr
 
 They evidently bonded over a shared interest in the subject and another letter, sent by Chalmers in May 1889 referred to him ‘collecting from various tribes’.[^67] Another, in December of the same year, sees Chalmers explain that:
 
-> Artefacts are very widely traded; necklaces, armlets, made in the far east may be met with at Bald Head... & I expect to find them in the Fly… Yesterday I saw a bamboo pipe that I knew at once must come from Mailiu... and on making enquiries found it was so.[^68]
+_Artefacts are very widely traded; necklaces, armlets, made in the far east may be met with at Bald Head... & I expect to find them in the Fly… Yesterday I saw a bamboo pipe that I knew at once must come from Mailiu... and on making enquiries found it was so._[^68]
 
 On 18 August 1894, after he had arrived back in Britain, summoned by the Directors to participate in a fundraising campaign that marked the Society’s centenary year (Chapter 23), Chalmers wrote to Haddon, still Chair of Zoology at the Royal College of Science in Dublin although he was already living back in Cambridge, noting ‘The day before I sent you to the University of Dublin two samples of Fly River Hair’, possibly one the man’s beard he had purchased a year earlier.[^69]
 
@@ -256,3 +256,5 @@ p.117
 [^70]: Cambridge University Library: Haddon papers 3. Chalmers to Haddon, 28 August 1894.
 [^71]: Haddon, A.C. 1901. ‘Rev. Hames Chalmers (“Tamate”), Nature, May 9 1901, p. 33: https://archive.org/details/nature641901lock/page/38/mode/1up?
 [^72]: British Museum: Centre for Anthropology Library, Box 53, Envelope 7, 28.
+
+{% endbackmatter %}
