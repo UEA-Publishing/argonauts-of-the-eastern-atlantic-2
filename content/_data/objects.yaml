@@ -566,4 +566,7 @@ object_list:
     figure:
       - id: cat-2-55
 
+  - id: "cat-1-48"
+    figure:
+      - id: "mus-1-1"
   

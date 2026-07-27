@@ -1,5 +1,5 @@
 ---
-title: "LMS Museum Cases 1859"
+title: "LMS Museum 1859"
 layout: entry
 presentation: side-by-side
 order: 400
@@ -10,17 +10,7 @@ object:
 
 ‘The Museum of the London Missionary Society’, Illustrated London News, 15 June 1859, p. 605.
 
-
-{% ref fig='mus-1-1' region='1792,1024,256,256' text='idol' %}
-
-
-
-
 Case A: Idols and objects superstitious  regard from islands in the  Pacific Ocean
-
-{% ref fig='mus-1-1' region='0,768,256,256' text='Taaroa Upao Vahu' %}
-
-(http://localhost:8080/obj-155/)
 
 Case B: Natural history
 
