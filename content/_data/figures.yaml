@@ -1723,3 +1723,90 @@ figure_list:
     caption: ""
     credit: ""
     alt: "Page of the 1860 LMS Museum Catalogue"
+
+  - id: "mus-1-1"
+    src: figures/museum_layers/base.jpg
+    label: "base"
+    zoom: true
+    annotations:
+      - input: checkbox
+        items:
+          - src: "figures/museum_layers/black-letters.png"
+          - src: "figures/museum_layers/colour-letters.png"
+          - src: "figures/museum_layers/shapes.png"
+          - src: "figures/museum_layers/letters-and-shapes.png"
+          - src: "figures/museum_layers/case-a.png"
+          - src: "figures/museum_layers/case-b.png"
+          - src: "figures/museum_layers/case-c.png"
+          - src: "figures/museum_layers/case-k.png"
+          - src: "figures/museum_layers/south-sea-islands.png"
+          - src: "figures/museum_layers/natural-history.png"
+          - src: "figures/museum_layers/china-and-ultra-ganges.png"
+          - src: "figures/museum_layers/africa-and-madagascar.png"
+          - src: "figures/museum_layers/india-including-presidencies.png"
+    hotspots:
+      - xywh: "0,768,256,256"
+        href: "/lms-collection-1826/obj-155/"
+        label: "Taaroa Upao Vahu (1826)"
+
+  - id: "mus-1-a"
+    src: figures/museum_layers/black-letters.png
+    label: "black letters"
+
+  - id: "mus-1-b"
+    src: figures/museum_layers/colour-letters.png
+    label: "colour letters"
+
+  - id: "mus-1-c"
+    src: figures/museum_layers/letters-and-shapes.png
+    label: "letters and shapes"
+    credit: "JMM_246 Juvenile Missionary Magazine. 1860. Vol.17. 191. South Sea Manufactures. London Missionary Society. 91"
+
+  - id: "mus-1-d"
+    src: figures/museum_layers/shapes.png
+    label: "shapes"
+
+  - id: "case-a"
+    src: figures/museum_layers/case-a.png
+    label: "case-a"
+    caption: "Idols and objects superstitious  regard from islands in the  Pacific Ocean"
+    credit: "JMM_239 Juvenile Missionary Magazine. 1860. Vol.17. 188. South Sea Idols. London Missionary Society. 13"
+
+  - id: "case-b"
+    src: figures/museum_layers/case-b.png
+    label: "case-b"
+    caption: "Natural history"
+    credit: "JMM_248 Juvenile Missionary Magazine. 1860. Vol.17. 192. Case in the Missionary Museum. London Missionary Society. 103"
+
+  - id: "case-c"
+    src: figures/museum_layers/case-c.png
+    label: "case-c"
+    caption: "Articles of dress, domestic utensils, implements of war,  music, &c., from the islands in the pacific ocean"
+    credit: "JMM_246 Juvenile Missionary Magazine. 1860. Vol.17. 191. South Sea Manufactures. London Missionary Society. 91"
+
+  - id: "case-k"
+    src: figures/museum_layers/case-k.png
+    label: "case-k"
+    caption: "Idols and objects of superstition from India, including the three presidencies"
+    credit: "JMM_252 Juvenile Missionary Magazine. 1860. Vol.17. 194. Indian Idols. London Missionary Society. 161"
+
+  - id: "south-sea-islands"
+    src: figures/museum_layers/south-sea-islands.png
+    label: "South Sea Islands"
+
+  - id: "natural-history"
+    src: figures/museum_layers/natural-history.png
+    label: "Natural History"
+
+  - id: "china-and-ultra-ganges"
+    src: figures/museum_layers/china-and-ultra-ganges.png
+    label: "China and Ultra Ganges"
+
+  - id: "africa-and-madagascar"
+    src: figures/museum_layers/africa-and-madagascar.png
+    label: "Africa and Madagascar"
+
+  - id: "india-including-presidencies"
+    src: figures/museum_layers/india-including-presidencies.png
+    label: "India, including presidencies"
+
