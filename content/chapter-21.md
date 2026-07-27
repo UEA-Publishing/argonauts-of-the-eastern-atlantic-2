@@ -1,16 +1,13 @@
 ---
-label: 21
+label: Scene 21
 title: "Representation of the Spirits of the Ancestors"
 subtitle: Ujiji, Lake Tanganyika, 23 August 1878
-
-layout: essay
+layout: splash
 order: 50
+image: figures/covers/c21-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c21-1" %}

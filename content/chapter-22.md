@@ -1,16 +1,13 @@
 ---
-label: 22
+label: Scene 22
 title: 72. Kāro. Fish trap. Baited inside. Made from Lorie palm.
 subtitle: British Museum, London, 8 March 1894
-
-layout: essay
+layout: splash
 order: 51
+image: figures/covers/c22-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 There are several small spiky traps that match this description. Four at the British Museum are tied to rectangular cardboard labels onto which has been printed:

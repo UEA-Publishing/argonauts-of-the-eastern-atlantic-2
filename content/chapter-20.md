@@ -1,16 +1,13 @@
 ---
-label: 20
+label: Scene 20
 title: "Missions, Erromango, No. 725"
 subtitle: Exposition Universelle, Paris, Summer 1867
-
-layout: essay
+layout: splash
 order: 49
+image: figures/covers/c20-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 Sketched in a small black notebook, now at the Centre for Anthropology Library at the British Museum, is the slender outline of a club, its handle separated from the gently curved head by a slim band, with additional lozenges carved at either end. Marked above the head of the club is a measurement, two and a half inches, presumably the diameter, while the length of the club is written along its side, 2 feet 10 inches. Next to the bottom of the club is an enlarged oval, evidently depicting a pattern carved into the base.[^1]

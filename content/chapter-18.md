@@ -1,16 +1,13 @@
 ---
-label: 18
+label: Scene 18
 title: "A Rare Specimen of the Boa Constrictor and Alligator in Conflict"
 subtitle: Providence New Chapel House, Georgetown, Demerara, 21 March 1849
-
-layout: essay
+layout: splash
 order: 47
+image: figures/covers/c18-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c18-1" %}

@@ -1,16 +1,13 @@
 ---
-label: 17
+label: Scene 17
 title: "An exact model of a Bechuana house"
 subtitle: Mission House, Blomfield Street, London, 23 January 1843
-
-layout: essay
+layout: splash
 order: 46
+image: figures/covers/c17-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c17-1" %}

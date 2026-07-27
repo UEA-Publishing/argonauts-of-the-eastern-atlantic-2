@@ -1,16 +1,13 @@
 ---
-label: 16
+label: Scene 16
 title: "Idol taken in the late war, from the chief temple at Chusan"
 subtitle: Harbour of Chusan, 4 July 1840
-
-layout: essay
+layout: splash
 order: 45
+image: figures/covers/c16-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c16-1" %}

@@ -1,16 +1,13 @@
 ---
-label: 19
+label: Scene 19
 title: "Rainitsontsoraka. Christian Martyr"
 subtitle: Antananarivo, 25 September 1856
-
-layout: essay
+layout: splash
 order: 48
+image: figures/covers/c19-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 

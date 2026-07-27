@@ -1,17 +1,13 @@
 ---
-label: 15
+label: Scene 15
 title: "The Departure of the Camden, Missionary Ship"
 subtitle: "New London Bridge, 11 April 1838"
-
-
-layout: essay
+layout: splash
 order: 44
+image: figures/covers/c15-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 
