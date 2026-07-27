@@ -58,6 +58,8 @@ Indeed, he suggested that the process by which:
 
 _many governmental initiatives that had arisen in the Protestant church communities were transferred to secular governments… provides a potentially fruitful path for further shaping Foucault’s unfinished genealogy of the modern state._[^14]
 
+{% figure "fig-c13-2" %}
+
 Can we regard the Missionary Exhibitionary Complex as an ‘unwritten chapter’ or ‘missing link’ in Foucault’s Genealogy of the Modern State, allowing us to chart a series of peculiarly Protestant developments in governmentality?[^15] Can it be regarded as part of the complex of pastoral techniques which 'have nestled, multiplied, and spread with the laicised framework of the state apparatus', according to Foucault?[^16]
 
 Bennet suggested that the Exhibitionary Complex was ‘a set of cultural technologies concerned to organise a voluntarily self-regulating citizenry’, as part of the ‘the ethical and educative function of the modern state’, ultimately feeding into the ‘development of the bourgeois democratic polity’.[^17] By necessity not simply a European project, the Missionary Exhibitionary Complex provides an alternative vantage point from which to consider a range of globally-connected practices of confinement and display.
@@ -79,6 +81,8 @@ Foucault suggests these were gradually replaced by what he calls ‘heterotopias
 The museum, like the library, according to Foucault, is a heterotopia ‘in which time never stops building up and topping its own summit’:
 
 _…the idea of accumulating everything, or establishing a sort of general archive, the will to enclose in one place all times, all epochs, all forms, all tastes, the idea of constituting a place of all times that is itself outside of time and inaccessible to its ravages, the project of organising in this way a sort of perpetual and indefinite accumulation of time in an immobile place, this whole idea belongs to our modernity. The museum and the library are heterotopias that are proper to the western culture of the nineteenth century_.[^24]
+
+{% figure "fig-c13-3" %}
 
 If we consider the _Ti’i,_ described as an ‘Idol from Tahiti’ at the beginning of Ellis’ list, we can imagine its passage between a series of heterotopias, at which confinement was enacted as well as display.
 
@@ -107,6 +111,12 @@ But the missionary exhibitionary complex was not confined to spaces of display w
 There seems to have been considerable overlap between misionary supporters and the membership of such societies – the fruits of Britain’s burgeoning ‘civic culture’.[^30] In December 1821, John Campbell presented African items to the Royal Dublin Society following his second journey to South Africa.[^31] In addition, George Bennet presented further material to the collections of Literary and Philosophical Societies in Leeds, Sheffield and Saffron Walden.[^32]
 
 William Ellis’ letter, suggesting the items he sent to Barmen would convey ‘a more lively impression’ suggests that they needed to be seen to be believed. The fact that they could be displayed at all, however, reinforced the second part of his statement, ‘shewing what Missionaries had been able to effect’. Such exhibitions allowed the re-formation of society by missionaries to be presented as not only necessary, but possible.
+
+{% figure "fig-c13-4" %}
+
+{% figure "fig-c13-5" %}
+
+{% figure "fig-c13-6" %}
 
 Tony Bennet positioned the Great Exhibition of 1851, alongside the opening of the new prisons at Mettray in 1840 and Pentonville in 1842, as examples of institutions that brought together disciplines and techniques in ways that guided future institutions. In the case of the Great Exhibition, he suggested these emerged from ‘the previous histories of museums, panoramas, Mechanics’ Institute exhibitions, art galleries and arcades’, and were translated ‘into exhibitionary forms which, in simultaneously ordering objects for public inspection and ordering the public that was inspected’ had a profound and lasting influence on the subsequent development of museums, art galleries, expositions, and department stores’.[^33]
 
@@ -156,6 +166,13 @@ The 1832 extension of the franchise was significant, in part because it demonstr
 
 In doing so it opened the way for demands for working class representation which played out in the Chartist Movement as the century went on. Further extensions of the franchise followed in 1867 and 1884, also important dates in the history of public museums, suggesting that at least part of the function of the Exhibitionary Complex was to educate, or possibly ‘civilize’ newly enfranchised voters.[^48]
 
+
+{% figure "fig-c13-7" %}
+
+{% figure "fig-c13-8" %}
+
+{% figure "fig-c13-9" %}
+
 It might be tempting to regard this as an insular British political history, with few wider implications, but it sheds important light on the establishment of the Tahitian Legislative Assembly, overseen by London Missionary Society representatives in 1824. This gave ordinary Tahitians political representation eight years before similar rights were granted in Britain ([Chapter 10](https://argonauts2022.net/10-two-of-the-tur-rursna/)).
 
 It is also illuminating to consider John Philip’s campaign for the Cape’s indigenous people, pursued when he returned to London in 1826. Before repeal of the Test and Corporation Acts in 1828 made it possible for Dissenters to hold public office in Britain (similar Emancipation for Catholics followed in 1829, prompting some of the eschatological anxieties of succeeding years), Philip persuaded Thomas Fowell Buxton (leader of Britain’s parliamentary anti-slavery lobby after William Wilberforce retired in 1825) that racial restrictions on the Cape’s indigenous people amounted to slavery by another name.
@@ -170,6 +187,8 @@ I require nothing for the Hottentots, but the power of bringing their labour to 
 
 [^If Napoleon really did call the English “a nation of shopkeepers”, then central to their commercial self-conception was a right to freely exchange their labour for payment – an individual right increasingly asserted by the British Middle and Working classes both for themselves as well as for others.]
 
+{% figure "fig-c13-10" %}
+
 The extension of the franchise in 1832 represented a concession to what Martin Wiener called ‘the English Industrial Spirit’, rooted in the urban areas where evangelical and dissenting churches made up the bulk of supporters of the London Missionary Society. But this local political concession also had significant global consequences. It was the overwhelmingly Whig parliament, elected in 1833, which voted for the Slavery Abolition Act, setting a course that would, in time, make the purchase and ownership of slaves illegal across the British Empire.
 
 In recent years, Eric Williams’ slightly grumpy comment that ‘The British historians write almost as if Britain had introduced Negro slavery solely for the satisfaction of abolishing it’ has been cited frequently in order to diminish the centrality of white abolitionists within contemporary stories told about slavery and it abolition.[^51] While aspects of Williams’ criticism are certainly valid, and are a version of criticisms applied to Whig history in general,[^52] any decision to abolish slavery is ultimately a decision about the kinds of people we imagine ourselves to be and the society we would like to live in – a point made David Graeber and David Wengrow in making the case for multiple abolitions of slavery in the course of human history in their 2021 book _The Dawn of Everything_.[^53]
@@ -183,6 +202,8 @@ Although slavery and its legacies remain largely offstage in George Eliot’s _M
 While the Missionary Exhibitionary Complex’ involved a great deal of ‘othering’ in relation to what Ellis called ‘the actual degradation of the heathen’, the point was surely to demonstrate the possibility of reform and ultimately of redemption.
 
 If heterotopias are, in Foucault’s terms, ‘counter-sites’, then the places of display constituted by the Missionary Exhibitionary Complex provided a kind of fulcrum around which a re-formation of the self could be attempted. In seeking to rescue the Missionary Exhibitionary Complex from ‘the enormous condescension of posterity’, it becomes necessary to demonstrate the multiple ways in which it was implicated within projects of societal reform and improvement, the consequences of which continue to have global implications.[^58]
+
+{% figure "fig-c13-11" %}
 
 In 1938, on the eve of the Second World War, just as other European Jews were being denied their political personhood and associated rights, the great French Anthropologist Marcel Mauss gave the Huxley Memorial Lecture in London.[^59] He attempted to lay out developing constructions of political citizenship, what he called the Category of the Person, ‘from the simple masquerade to the mask, from a ‘role’ (_personnage_) to a ‘person’ (_personne_), to a name, to an individual’ – taking in Roman legal distinctions between citizens and slaves, as well as a recognition of the conscious moral person among the Stoics and early Christians.
 
@@ -214,36 +235,13 @@ The Industrial Revolution is of the same importance for England as the political
 
 Subsequently collaborating with and supporting another Rhenish boy, Karl Marx, Engels seems to have imbibed the missionary message that fetishes and idols were a bad thing, but increasingly directed this critique at European industrial society itself.
 
+{% figure "fig-c13-12" %}
 
 Acknowledgements
 
 I am extremely grateful to Rachel Hand for drawing my attention to donation of missionary material to the Royal Dublin Society, as well as to Christoph Schwab, Curator at the Archiv- und Museumsstiftung der VEM in Wuppertal, for sharing a scanned copy of the letter from Ellis, together with the list with which this chapter begins. It was such unanticipated connections that demonstrated some of the ways in which an ‘imagined community’ of evangelicals and their Missionary Exhibitionary Complex transcended political borders.
 
 I am also grateful to David Wengrow for a long friendship, extending back to an excavation in Lesotho in 1998. His 2021 book with David Graeber, _The Dawn of Everything_, has stimulated me to reflect in this chapter on the peculiarity of British configurations of political subjecthood, as well as their global implications.
-
-
-{% figure "fig-c13-2" %}
-
-{% figure "fig-c13-3" %}
-
-{% figure "fig-c13-4" %}
-
-{% figure "fig-c13-5" %}
-
-{% figure "fig-c13-6" %}
-
-{% figure "fig-c13-7" %}
-
-{% figure "fig-c13-8" %}
-
-{% figure "fig-c13-9" %}
-
-{% figure "fig-c13-10" %}
-
-{% figure "fig-c13-11" %}
-
-{% figure "fig-c13-12" %}
-
 
 {% backmatter %}
 
