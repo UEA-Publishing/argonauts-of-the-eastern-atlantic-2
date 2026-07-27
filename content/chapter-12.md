@@ -2,14 +2,12 @@
 label: 12
 title: "A Gigantic Idol, twelve feet high"
 subtitle: "Avarua, Rarotonga, 6 May 1827"
-layout: essay
+layout: splash
 order: 41
+image: figures/covers/c12-cover.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c12-1" %}
