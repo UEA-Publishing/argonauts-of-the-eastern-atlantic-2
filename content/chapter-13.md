@@ -1,15 +1,13 @@
 ---
-label: 13
+label: Scene 13
 title: "All wrapped up in a piece of Tahitian cloth"
-subtitle: Barmen, July 1832
-layout: essay
+subtitle: "Barmen, July 1832"
+layout: splash
+image: figures/covers/c13-cover.jpg
 order: 42
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 Test Opening the letter which accompanied a parcel, recently arrived from London, Wilhelm Leipoldt found news of Barmen’s Missionary training college had found its way to William Ellis, recently appointed Foreign Secretary of the London Missionary Society.[^1] Leipoldt was his opposite number as Secretary of the Rhenish Missionary Society, established in 1828 through an amalgamation of missionary societies at Elberfeld, Barmen and Köln (Cologne).

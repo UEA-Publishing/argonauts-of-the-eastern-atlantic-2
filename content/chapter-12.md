@@ -1,7 +1,7 @@
 ---
 label: Scene 12
-title: "A Gigantic Idol, twelve feet high"
-subtitle: "Avarua, Rarotonga, 6 May 1827"
+title: "Avarua, Rarotonga, 6 May 1827"
+subtitle: "A Gigantic Idol, twelve feet high"
 layout: splash
 order: 41
 image: figures/covers/c12-cover.jpg
