@@ -1,15 +1,13 @@
 ---
-label: 14
+label: Scene 14
 title: "Paramasattee, a wooden idol with spoons attached"
-subtitle:
-layout: essay
+subtitle: "Caureavilly near Mandycadoo, November 1836"
+layout: splash
 order: 43
+image: figures/covers/c14-cover.jpg
 classes:
-  - page-one
-contributor:
-  - id: cwingfield
-abstract: 
-page_pdf_output: true
+  - page-one 
+# page_pdf_output: true
 ---
 
 Around 300 Christians gathered in the early morning at a temple ‘in a beautiful grove of jack and Palmyra trees, and surrounded by several fine banyans’.[^1] [^2] At its heart were two reclining figures, six feet long and made from sun baked brick, plastered with chunam (highly polished plaster).
